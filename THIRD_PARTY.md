@@ -1,19 +1,43 @@
-# Upstream tools and data
+# Third-party software and data
 
-| Component | Upstream | Use / release action |
-|---|---|---|
-| PlantCAD / PlantCAD2 | https://github.com/plantcad/plantcad | Backbone and methodological source; Apache-2.0; license retained in licenses/PlantCAD-LICENSE |
-| GeneCAD | https://github.com/plantcad/genecad | v0.4.0, locally resolved commit 1a9baf84d61152c20a0cd910694316cd88d1d374; Apache-2.0; license retained in licenses/GeneCAD-LICENSE; see gene_annotation/UPSTREAM_VERSION.md |
-| Evo2 | https://github.com/ArcInstitute/evo2 | Autoregressive benchmark; retain directional decoding and exact checkpoint identifiers |
-| OrthoFinder | https://github.com/davidemms/OrthoFinder | Version 2.5.4, default settings; reference PMID 31727128 |
-| Marchantia variants | https://marchantia.info/variants/data/Marpol_135_accessions/ | Natural SNP dataset, 135 accessions; PMID 39962240 |
-| M. polymorpha accessibility | GEO GSE290177; PMID 41391150 | Locally processed/merged peaks still needed |
-| A. thaliana accessibility | GEO GSE145742; PMID 32526034 | DNase-seq, not ATAC-seq; locally processed peaks still needed |
+BryoCAD uses the following software and public datasets. Please cite the original resources when using them alongside BryoCAD.
 
-The 126-assembly orthogroup resource and the 135-accession variant dataset are distinct. Dataset citations and assembly provenance are recorded in manifests. Metadata listings do not grant redistribution rights to full genome files.
+## Software
 
-Unchanged upstream packages should be installed from fixed versions. For modified tools, distribute the matching patch/fork and retain upstream notices. BryoCAD includes scripts developed or adapted using PlantCAD/PlantCAD2 and GeneCAD functionality. Original notices are retained; GeneCAD modifications are documented with the pinned patch. The SNP scorer includes BryoCAD-specific input-handling fixes documented in variant_analysis/SCORING_REVIEW.md.
+- **[PlantCAD / PlantCAD2](https://github.com/plantcad/plantcad)** provides the pretrained backbone and methods used for model adaptation and sequence analysis. The upstream Apache-2.0 license is retained in [licenses/PlantCAD-LICENSE](licenses/PlantCAD-LICENSE).
+- **[GeneCAD](https://github.com/plantcad/genecad)** provides the gene-annotation framework. This repository uses version 0.4.0, pinned to commit `1a9baf84d61152c20a0cd910694316cd88d1d374`. Integration details are documented in [gene_annotation/UPSTREAM_VERSION.md](gene_annotation/UPSTREAM_VERSION.md), and the upstream Apache-2.0 license is retained in [licenses/GeneCAD-LICENSE](licenses/GeneCAD-LICENSE).
+- **[Evo2](https://github.com/ArcInstitute/evo2)** is used for autoregressive sequence-model comparisons.
+- **[OrthoFinder](https://github.com/davidemms/OrthoFinder)** version 2.5.4 is used for orthogroup inference with default settings ([Emms and Kelly, 2019](https://pubmed.ncbi.nlm.nih.gov/31727128/)).
 
-The root Apache-2.0 license covers BryoCAD code. Genome sequence excerpts and other scientific input data retain their source terms; model weights are governed by their model cards.
+The model runtime also uses [Mamba](https://github.com/state-spaces/mamba), [causal-conv1d](https://github.com/Dao-AILab/causal-conv1d), and [FlashAttention](https://github.com/Dao-AILab/flash-attention). Installation versions are specified in the environment scripts. These packages retain their respective upstream licenses.
 
-The unified environment builds [Mamba v2.2.4](https://github.com/state-spaces/mamba/tree/v2.2.4), [causal-conv1d v1.5.0.post8](https://github.com/Dao-AILab/causal-conv1d/tree/v1.5.0.post8), and FlashAttention 2.7.4.post1. The architecture-flag patch extends the author-provided dicos build procedure; exact native source commits, setup.py hashes and diffs are retained in build records. These dependencies retain their upstream licenses.
+## Chromatin accessibility data
+
+Chromatin accessibility analyses use sequencing data from two published studies:
+
+- **Marchantia polymorpha ATAC-seq:** [GEO GSE290177](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE290177), [Yen et al., 2025](https://pubmed.ncbi.nlm.nih.gov/41391150/).
+- **Arabidopsis thaliana DNase-seq:** [GEO GSE145742](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145742), [Raxwal et al., 2020](https://pubmed.ncbi.nlm.nih.gov/32526034/).
+
+Sequencing data were reprocessed for the BryoCAD study through read mapping and peak calling. The resulting peak sets were used to prepare the chromatin accessibility inputs.
+
+This repository provides dataset-preparation and model-inference scripts, together with a small sequence-level example. The full reprocessed peak sets are not distributed in this repository. The GEO accessions above identify the source sequencing datasets.
+
+## Other genomic data
+
+The natural-variant analysis uses the **135-accession Marchantia polymorpha dataset**, available from [MarpolBase](https://marchantia.info/variants/data/Marpol_135_accessions/) ([source publication](https://pubmed.ncbi.nlm.nih.gov/39962240/)). 
+
+The **126 genome assemblies** used for orthogroup analyses comprise **123 bryophyte pangenome assemblies** from the published bryophyte genome resource ([PMID: 40983756](https://pubmed.ncbi.nlm.nih.gov/40983756/)) and **three model-organism assemblies**: *Anthoceros agrestis* (Aag), *Marchantia polymorpha* (Mpo), and *Physcomitrium patens* (Ppa). Assembly identifiers and versions are recorded in the [manifests](manifests/) directory.
+
+The published 123-genome resource provides the following data access points:
+
+- **Genome assemblies and annotations:** [BryoGenomes](http://www.bryogenomes.org/).
+- **Genome and sequencing data generated by the source study:** NCBI BioProject [PRJNA1117192](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1117192) and CNGB project **CNP0002895**, accessible through the [CNGB Data Center](https://db.cngb.org/).
+- **Annotation files, orthogroup information, alignments, and phylogenetic trees from the source study:** [Figshare, version 6](https://doi.org/10.6084/m9.figshare.23528667.v6).
+
+The source study's deposited orthogroup information and the 126-assembly orthogroup analysis performed for BryoCAD refer to different input collections. The 135-accession natural-variant dataset is also a separate resource.
+
+## Attribution and licensing
+
+BryoCAD includes code developed or adapted from PlantCAD/PlantCAD2 and GeneCAD. Upstream license notices are retained, and GeneCAD integration changes are supplied with the repository.
+
+The repository's Apache-2.0 license applies to BryoCAD code, subject to retained third-party notices. Scientific datasets and sequence excerpts retain their source terms; model weights are governed by their respective model cards. Inclusion of a dataset citation does not change its redistribution terms.
