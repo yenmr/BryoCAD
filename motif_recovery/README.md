@@ -4,13 +4,42 @@ Tasks: donor, acceptor, TIS and TTS. Inputs are 8,192-bp oriented windows. The p
 
 ## Generate inputs
 
-Resolve `genome_path` and `gff_path` in a copy of the source manifest to your local files. Then:
+Run all commands from the repository root. Create a tab-separated manifest with one row per genome and these three required columns:
 
-```bash
-python motif_recovery/make_zs_recovery_inputs_from_manifest.py   --manifest /path/to/resolved_manifest.tsv --out results/motif_inputs
+- `short_name`: a unique identifier used as the output subdirectory name; do not include `/` or `\`.
+- `fa_path`: path to the genome FASTA file, optionally gzip-compressed.
+- `gff_path`: path to the corresponding GFF3 annotation, optionally gzip-compressed.
+
+Example (`manifest.tsv`; columns are separated by tabs):
+
+```text
+short_name	fa_path	gff_path
+M_polymorpha	genomes/MpTak_v6.fa.gz	genomes/MpTak_v6.1r2.gff.gz
+A_thaliana	genomes/Ath.fa	genomes/Ath.gff3
 ```
 
-Use `--check-only` to check input paths first. Original manifests retain historical paths as provenance, not working download URLs.
+Relative input paths are resolved against the **manifest directory**, not the shell's working directory. Absolute paths are also accepted. FASTA sequence identifiers must match the GFF3 sequence identifiers.
+
+The parser also accepts `genome_path` as an alias for `fa_path`, and `output` as an alias for `short_name`. If both forms are present, their values must agree. Other columns are optional. The `division` column is required only when using `--angiosperms-only`; accepted values for this filter are `Rosids`, `Asterids`, `Monocots`, `Eudicots`, `Magnoliids`, and `Basal Angio`.
+
+Check the input files before generating sequences:
+
+```bash
+python motif_recovery/make_zs_recovery_inputs_from_manifest.py \
+  --manifest manifest.tsv \
+  --out results/motif_inputs \
+  --check-only
+```
+
+Generate the four task inputs:
+
+```bash
+python motif_recovery/make_zs_recovery_inputs_from_manifest.py \
+  --manifest manifest.tsv \
+  --out results/motif_inputs
+```
+
+For the first row above, outputs are placed in `results/motif_inputs/M_polymorpha/`, including `donor_recovery.tsv`, `acceptor_recovery.tsv`, `tis_recovery.tsv`, and `tts_recovery.tsv`, together with QC summaries. Use `--species M_polymorpha` to process only that manifest identifier.
 
 ## Score
 
@@ -31,3 +60,7 @@ The provided 126-assembly processed tables use **canonical reference filtering**
 The seven-organism merged CSV retains the legacy `motif_accuracy` label; the author states it denotes exact recovery. Preserve the original table and document this interpretation, rather than silently relabeling historical data.
 
 The plotting script also generates exploratory genomic-feature plots. Only panels selected in the figure manifest should enter the manuscript.
+
+## Further analysis of TTS predictions
+
+[Stop-codon prediction analysis](tts/README.md) examines TAA, TAG, and TGA predictions and their relationship to sequence composition. It uses TTS motif-recovery outputs as a downstream analysis.

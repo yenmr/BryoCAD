@@ -8,10 +8,11 @@ Repository: https://github.com/yenmr/BryoCAD
 
 | Model | Hugging Face |
 |---|---|
-| BryoCAD-Small | [bryocad/BryoCAD-Small](https://huggingface.co/bryocad/BryoCAD-Small) |
-| BryoCAD-Large | [bryocad/BryoCAD-Large](https://huggingface.co/bryocad/BryoCAD-Large) |
-| GeneCAD head, four bryophytes | [bryocad/GeneCAD-BryoCAD-Small-4bryo](https://huggingface.co/bryocad/GeneCAD-BryoCAD-Small-4bryo) |
-| ATAC LoRA, M. polymorpha control | [BryoCAD-Small-ATAC-Mpolymorpha-Ctrl-LoRA](https://huggingface.co/bryocad/BryoCAD-Small-ATAC-Mpolymorpha-Ctrl-LoRA) |
+| BryoCAD-Small | [Model](https://huggingface.co/bryocad/BryoCAD-Small) |
+| BryoCAD-Large | [Model](https://huggingface.co/bryocad/BryoCAD-Large) |
+| GeneCAD head (4 bryophytes) | [Head](https://huggingface.co/bryocad/GeneCAD-BryoCAD-Small-4bryo) |
+| ATAC LoRA (*M. polymorpha*, control) | [Adapter](https://huggingface.co/bryocad/BryoCAD-Small-ATAC-Mpolymorpha-Ctrl-LoRA) |
+
 
 The GeneCAD head is paired with BryoCAD-Small. Use the corresponding model cards for model details. Public model files and their verified revisions are recorded in [model_revisions.json](environments/model_revisions.json).
 
@@ -22,7 +23,6 @@ The GeneCAD head is paired with BryoCAD-Small. Use the corresponding model cards
 - [Continued pretraining](pretraining/README.md)
 - [Protein reconstruction and orthogroups](orthogroups/README.md)
 - [Gene-boundary motif recovery](motif_recovery/README.md)
-- [Stop-codon prediction analysis](motif_recovery/tts/README.md)
 - [Natural and synthetic variants](variant_analysis/README.md)
 - [Chromatin accessibility](chromatin_accessibility/README.md)
 - [Gene annotation](gene_annotation/README.md)
