@@ -1,0 +1,150 @@
+{
+  "seed": 42,
+  "sites_per_task": 250,
+  "tasks": {
+    "donor": {
+      "sample_sites": 250,
+      "total_sites": 831508,
+      "input_files": 7,
+      "sources": [
+        {
+          "path": "A_agrestis_v10/donor_recovery.tsv",
+          "sites": 90290
+        },
+        {
+          "path": "A_thaliana_Araport11/donor_recovery.tsv",
+          "sites": 118477
+        },
+        {
+          "path": "M_polymorpha_v61/donor_recovery.tsv",
+          "sites": 78622
+        },
+        {
+          "path": "O_sativa_MSU7/donor_recovery.tsv",
+          "sites": 135990
+        },
+        {
+          "path": "P_patens_v33/donor_recovery.tsv",
+          "sites": 126269
+        },
+        {
+          "path": "S_lycopersicum_ITAG4/donor_recovery.tsv",
+          "sites": 127378
+        },
+        {
+          "path": "Z_mays_APGv4/donor_recovery.tsv",
+          "sites": 154482
+        }
+      ],
+      "sha256": "acc10cfc57ca668b0b79f145b6339491821a3463ed5f8f7f10e02b2406d1790a"
+    },
+    "acceptor": {
+      "sample_sites": 250,
+      "total_sites": 831517,
+      "input_files": 7,
+      "sources": [
+        {
+          "path": "A_agrestis_v10/acceptor_recovery.tsv",
+          "sites": 90291
+        },
+        {
+          "path": "A_thaliana_Araport11/acceptor_recovery.tsv",
+          "sites": 118475
+        },
+        {
+          "path": "M_polymorpha_v61/acceptor_recovery.tsv",
+          "sites": 78623
+        },
+        {
+          "path": "O_sativa_MSU7/acceptor_recovery.tsv",
+          "sites": 135994
+        },
+        {
+          "path": "P_patens_v33/acceptor_recovery.tsv",
+          "sites": 126266
+        },
+        {
+          "path": "S_lycopersicum_ITAG4/acceptor_recovery.tsv",
+          "sites": 127384
+        },
+        {
+          "path": "Z_mays_APGv4/acceptor_recovery.tsv",
+          "sites": 154484
+        }
+      ],
+      "sha256": "9be55c4beb82b33080f3ab8d3e05f3776153ffd1c247e580b516ec1906e55102"
+    },
+    "tis": {
+      "sample_sites": 250,
+      "total_sites": 219442,
+      "input_files": 7,
+      "sources": [
+        {
+          "path": "A_agrestis_v10/tis_recovery.tsv",
+          "sites": 25461
+        },
+        {
+          "path": "A_thaliana_Araport11/tis_recovery.tsv",
+          "sites": 27546
+        },
+        {
+          "path": "M_polymorpha_v61/tis_recovery.tsv",
+          "sites": 18019
+        },
+        {
+          "path": "O_sativa_MSU7/tis_recovery.tsv",
+          "sites": 42176
+        },
+        {
+          "path": "P_patens_v33/tis_recovery.tsv",
+          "sites": 32704
+        },
+        {
+          "path": "S_lycopersicum_ITAG4/tis_recovery.tsv",
+          "sites": 34056
+        },
+        {
+          "path": "Z_mays_APGv4/tis_recovery.tsv",
+          "sites": 39480
+        }
+      ],
+      "sha256": "1d71b1aea505444db7849fe929e5549e29c29d3fe65a8284c92bbd2f56d0722d"
+    },
+    "tts": {
+      "sample_sites": 250,
+      "total_sites": 219449,
+      "input_files": 7,
+      "sources": [
+        {
+          "path": "A_agrestis_v10/tts_recovery.tsv",
+          "sites": 25454
+        },
+        {
+          "path": "A_thaliana_Araport11/tts_recovery.tsv",
+          "sites": 27546
+        },
+        {
+          "path": "M_polymorpha_v61/tts_recovery.tsv",
+          "sites": 18019
+        },
+        {
+          "path": "O_sativa_MSU7/tts_recovery.tsv",
+          "sites": 42181
+        },
+        {
+          "path": "P_patens_v33/tts_recovery.tsv",
+          "sites": 32707
+        },
+        {
+          "path": "S_lycopersicum_ITAG4/tts_recovery.tsv",
+          "sites": 34062
+        },
+        {
+          "path": "Z_mays_APGv4/tts_recovery.tsv",
+          "sites": 39480
+        }
+      ],
+      "sha256": "ced872ed56cc4fa0ee8ad345b2b359dc8bf3f32857c9d1d20d5205feedc88fb7"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+species	division	order	version	short_name	source	training_status
+Anthoceros agrestis	Hornworts	Anthocerotales	v1.0	A_agrestis_v10	Ensembl	seen species
+Acrolejeunea sandvicensis	Liverworts	Porellales	v1.0	A_sandvicensis_v10	bryogenomes	seen species
+Aerobryopsis subdivergens	Mosses	Hypnales	v1.0	A_subdivergens_v10	bryogenomes	seen species
+Bryoandersonia illecebra	Mosses	Hypnales	v1.0	B_illecebra_v10	bryogenomes	seen species
+Blasia pusilla 890	Liverworts	Blasiales	v1.0	B_pusilla_890_v10	bryogenomes	seen species
+Folioceros fuciformis	Hornworts	Anthocerotales	v1.0	F_fuciformis_v10	bryogenomes	seen species
+Hedwigia ciliata 1009	Mosses	Hedwigiales	v1.0	H_ciliata_1009_v10	bryogenomes	seen species
+Marchantia polymorpha	Liverworts	Marchantiales	v6.1r2	M_polymorpha_v61	MarpolBase	seen species
+Orthotrichum anomalum	Mosses	Orthotrichales	v1.0	O_anomalum_v10	bryogenomes	seen species
+Paraleucobryum enerve	Mosses	Dicranales	v1.0	P_enerve_v10	bryogenomes	seen species
+Phaeoceros laevis 902	Hornworts	Notothyladales	v1.0	P_laevis_902_v10	bryogenomes	seen species
+Physcomitrium patens	Mosses	Funariales	v3.3	P_patens_v33	Phytozome	seen species
+Pyrrhobryum spiniforme	Mosses	Rhizogoniales	v1.0	P_spiniforme_v10	bryogenomes	seen species
+Philonotis turneriana	Mosses	Bartramiales	v1.0	P_turneriana_v10	bryogenomes	seen species
+Ptychomitrium wilsonii	Mosses	Grimmiales	v1.0	P_wilsonii_v10	bryogenomes	seen species
+Racopilum cuspidigerum	Mosses	Hypnodendrales	v1.0	R_cuspidigerum_v10	bryogenomes	seen species
+Tritomaria exsectiformis	Liverworts	Jungermanniales	v1.0	T_exsectiformis_v10	bryogenomes	seen species

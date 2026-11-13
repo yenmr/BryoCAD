@@ -1,0 +1,24 @@
+##fileformat=VCFv4.2
+##INFO=<ID=plantCAD_zero_shot,Number=A,Type=String,Description="Masked-site log P(ALT) - log P(REF), one value per ALT allele">
+##contig=<ID=chr2,length=200000>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr2	25142	.	A	G	.	PASS	plantCAD_zero_shot=2.617777
+chr2	25444	.	C	T	.	PASS	plantCAD_zero_shot=-0.37930536
+chr2	26125	.	C	T	.	PASS	plantCAD_zero_shot=-0.591074
+chr2	26462	.	C	T	.	PASS	plantCAD_zero_shot=-2.2962277
+chr2	44020	.	T	A	.	PASS	plantCAD_zero_shot=0.628721
+chr2	45902	.	A	G	.	PASS	plantCAD_zero_shot=0.27190357
+chr2	47524	.	C	T	.	PASS	plantCAD_zero_shot=0.936512
+chr2	49652	.	T	C	.	PASS	plantCAD_zero_shot=1.5746856
+chr2	57117	.	G	T	.	PASS	plantCAD_zero_shot=-0.43637812
+chr2	73717	.	A	G	.	PASS	plantCAD_zero_shot=1.6156731
+chr2	74722	.	C	G	.	PASS	plantCAD_zero_shot=0.25073966
+chr2	76401	.	C	A	.	PASS	plantCAD_zero_shot=0.5962321
+chr2	78480	.	C	A	.	PASS	plantCAD_zero_shot=-0.07582963
+chr2	84558	.	T	C	.	PASS	plantCAD_zero_shot=-0.38329354
+chr2	120779	.	C	A	.	PASS	plantCAD_zero_shot=1.6211101
+chr2	141438	.	A	G	.	PASS	plantCAD_zero_shot=-0.76707333
+chr2	150850	.	A	C	.	PASS	plantCAD_zero_shot=-0.9575733
+chr2	169330	.	C	A	.	PASS	plantCAD_zero_shot=0.40765318
+chr2	173619	.	C	A	.	PASS	plantCAD_zero_shot=0.013116979
+chr2	189773	.	G	A	.	PASS	plantCAD_zero_shot=-0.2860028

@@ -1,0 +1,55 @@
+[
+  {
+    "repository": "bryocad/GeneCAD-BryoCAD-Small-4bryo",
+    "revision": "2d432aa1f805c59e800683a1a4479f6657de48f7",
+    "files": [
+      ".gitattributes",
+      "README.md",
+      "best.ckpt"
+    ]
+  },
+  {
+    "repository": "bryocad/BryoCAD-Small",
+    "revision": "4c764b3c2e0f6c08c93411928fd0a23fb9a8fdad",
+    "files": [
+      ".gitattributes",
+      "README.md",
+      "config.json",
+      "configuration_caduceus.py",
+      "modeling_caduceus.py",
+      "modeling_rcps.py",
+      "pytorch_model.bin",
+      "special_tokens_map.json",
+      "tokenizer.json",
+      "tokenizer_config.json"
+    ]
+  },
+  {
+    "repository": "bryocad/BryoCAD-Small-ATAC-Mpolymorpha-Ctrl-LoRA",
+    "revision": "4daf4ab0764ff6a22a081c6dc5f9608e8ea882ad",
+    "files": [
+      ".gitattributes",
+      "README.md",
+      "adapter_config.json",
+      "adapter_model.safetensors"
+    ]
+  },
+  {
+    "repository": "bryocad/BryoCAD-Large",
+    "revision": "59c54e93e61477a27da214ce5719ebb23429488b",
+    "files": [
+      ".gitattributes",
+      "README.md",
+      "config.json",
+      "configuration_caduceus.py",
+      "modeling_caduceus.py",
+      "modeling_rcps.py",
+      "pytorch_model-00001-of-00002.bin",
+      "pytorch_model-00002-of-00002.bin",
+      "pytorch_model.bin.index.json",
+      "special_tokens_map.json",
+      "tokenizer.json",
+      "tokenizer_config.json"
+    ]
+  }
+]

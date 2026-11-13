@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use BryoCAD, please cite this software."
+type: software
+version: 0.1.0
+title: "BryoCAD: Extending Plant DNA Foundation Models Beyond Flowering Plants"
+authors:
+  - family-names: Yen
+    given-names: Ming-Ren
+  - family-names: Zhai
+    given-names: Jingjing
+  - family-names: Hsu
+    given-names: Sheng-Kai
+  - family-names: Wu
+    given-names: Ting-Ying
+repository-code: "https://github.com/yenmr/BryoCAD"
+url: "https://huggingface.co/bryocad"
+license: Apache-2.0
+abstract: >-
+  BryoCAD adapts PlantCAD2 through continued pretraining on bryophyte
+  genomes and provides scripts for sequence interpretation and downstream
+  genomic analyses.
+keywords:
+  - BryoCAD
+  - bryophytes
+  - DNA language model
+  - genome annotation

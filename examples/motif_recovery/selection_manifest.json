@@ -1,0 +1,50 @@
+{
+  "donor": {
+    "source_file": "donor.tsv",
+    "source_sha256": "acc10cfc57ca668b0b79f145b6339491821a3463ed5f8f7f10e02b2406d1790a",
+    "source_data_rows": [
+      4,
+      1,
+      2,
+      3
+    ],
+    "n_records": 4,
+    "sequence_length": 8192
+  },
+  "acceptor": {
+    "source_file": "acceptor.tsv",
+    "source_sha256": "9be55c4beb82b33080f3ab8d3e05f3776153ffd1c247e580b516ec1906e55102",
+    "source_data_rows": [
+      2,
+      1,
+      3,
+      4
+    ],
+    "n_records": 4,
+    "sequence_length": 8192
+  },
+  "tis": {
+    "source_file": "tis.tsv",
+    "source_sha256": "1d71b1aea505444db7849fe929e5549e29c29d3fe65a8284c92bbd2f56d0722d",
+    "source_data_rows": [
+      2,
+      1,
+      3,
+      4
+    ],
+    "n_records": 4,
+    "sequence_length": 8192
+  },
+  "tts": {
+    "source_file": "tts.tsv",
+    "source_sha256": "ced872ed56cc4fa0ee8ad345b2b359dc8bf3f32857c9d1d20d5205feedc88fb7",
+    "source_data_rows": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "n_records": 4,
+    "sequence_length": 8192
+  }
+}

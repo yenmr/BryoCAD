@@ -1,0 +1,5 @@
+geneid	transcript_id	chromosome	start	end	direction	genome_range	motif_start	motif_end	motif	is_canonical	coordinate_source	reference_motif	reference_is_canonical	predicted_motif	token_accuracy	exact_recovery	predicted_is_canonical	mean_reference_probability	joint_reference_probability	mean_prediction_probability
+Pp3c16_19690	PAC:32983971	Chr16	12133575	12133576	+	Chr16:12133575-12133576	4095	4097	AG	True	cds_fallback	AG	True	AG	1.0	True	True	0.99917364	0.9983479	0.99917364
+gene:Solyc07g042180.4	mRNA:Solyc07g042180.4.1	SL4.0ch07	55009683	55009684	-	SL4.0ch07:55009683-55009684	4095	4097	AG	True	exon	AG	True	AG	1.0	True	True	0.9814882	0.9633177	0.9814882
+AagrBONN_evm.TU.Sc2ySwM_228.3715	AagrBONN_evm.model.Sc2ySwM_228.3715.1	Sc2ySwM_228	16352550	16352551	+	Sc2ySwM_228:16352550-16352551	4095	4097	AG	True	exon	AG	True	AG	1.0	True	True	0.99525607	0.9905336	0.99525607
+Mp2g26830	Mp2g26830.1	chr2	29622076	29622077	+	chr2:29622076-29622077	4095	4097	AG	True	exon	AG	True	AG	1.0	True	True	0.99171215	0.983471	0.99171215

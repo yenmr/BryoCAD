@@ -1,0 +1,1513 @@
+short_name	species	division	order	training_group	motif	total_evaluated_genes	gene_category	n_genes	gene_percentage
+A_agrestis_v10	Anthoceros agrestis	Hornworts	Anthocerotales	trained	acceptor	19523	accessory	3562	18.245146749987196
+A_agrestis_v10	Anthoceros agrestis	Hornworts	Anthocerotales	trained	acceptor	19523	core	10212	52.3075347026584
+A_agrestis_v10	Anthoceros agrestis	Hornworts	Anthocerotales	trained	acceptor	19523	unique	5716	29.278287148491522
+A_agrestis_v10	Anthoceros agrestis	Hornworts	Anthocerotales	trained	donor	19460	accessory	3555	18.268242548818087
+A_agrestis_v10	Anthoceros agrestis	Hornworts	Anthocerotales	trained	donor	19460	core	10182	52.322713257965056
+A_agrestis_v10	Anthoceros agrestis	Hornworts	Anthocerotales	trained	donor	19460	unique	5690	29.23946557040082
+A_agrestis_v10	Anthoceros agrestis	Hornworts	Anthocerotales	trained	tis	25328	accessory	5066	20.00157927984839
+A_agrestis_v10	Anthoceros agrestis	Hornworts	Anthocerotales	trained	tis	25328	core	11671	46.07943777637397
+A_agrestis_v10	Anthoceros agrestis	Hornworts	Anthocerotales	trained	tis	25328	unique	8577	33.86370814908402
+A_agrestis_v10	Anthoceros agrestis	Hornworts	Anthocerotales	trained	tts	25262	accessory	5038	19.942997387380256
+A_agrestis_v10	Anthoceros agrestis	Hornworts	Anthocerotales	trained	tts	25262	core	11653	46.128572559575645
+A_agrestis_v10	Anthoceros agrestis	Hornworts	Anthocerotales	trained	tts	25262	unique	8523	33.73842134431161
+A_alternifolium_v10	Archidium alternifolium	Mosses	Archidiales	unseen_order	acceptor	40457	accessory	10577	26.143807004968238
+A_alternifolium_v10	Archidium alternifolium	Mosses	Archidiales	unseen_order	acceptor	40457	core	14612	36.117359171466
+A_alternifolium_v10	Archidium alternifolium	Mosses	Archidiales	unseen_order	acceptor	40457	unique	15231	37.647378698371114
+A_alternifolium_v10	Archidium alternifolium	Mosses	Archidiales	unseen_order	donor	40441	accessory	10573	26.14425953858708
+A_alternifolium_v10	Archidium alternifolium	Mosses	Archidiales	unseen_order	donor	40441	core	14602	36.106921193837934
+A_alternifolium_v10	Archidium alternifolium	Mosses	Archidiales	unseen_order	donor	40441	unique	15229	37.65732795924928
+A_alternifolium_v10	Archidium alternifolium	Mosses	Archidiales	unseen_order	tis	53422	accessory	15535	29.07977986597282
+A_alternifolium_v10	Archidium alternifolium	Mosses	Archidiales	unseen_order	tis	53422	core	16475	30.83935457302235
+A_alternifolium_v10	Archidium alternifolium	Mosses	Archidiales	unseen_order	tis	53422	unique	21379	40.019093257459474
+A_alternifolium_v10	Archidium alternifolium	Mosses	Archidiales	unseen_order	tts	53425	accessory	15535	29.078146934955544
+A_alternifolium_v10	Archidium alternifolium	Mosses	Archidiales	unseen_order	tts	53425	core	16474	30.835751052877868
+A_alternifolium_v10	Archidium alternifolium	Mosses	Archidiales	unseen_order	tts	53425	unique	21379	40.01684604585868
+A_androgynum_v10	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order	acceptor	21494	accessory	4427	20.59644551967991
+A_androgynum_v10	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order	acceptor	21494	core	12005	55.852796129152324
+A_androgynum_v10	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order	acceptor	21494	unique	5040	23.448404205824882
+A_androgynum_v10	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order	donor	21471	accessory	4420	20.58590657165479
+A_androgynum_v10	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order	donor	21471	core	11998	55.880024218713615
+A_androgynum_v10	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order	donor	21471	unique	5031	23.431605421265893
+A_androgynum_v10	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order	tis	27122	accessory	6082	22.424599955755475
+A_androgynum_v10	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order	tis	27122	core	13029	48.03849273652386
+A_androgynum_v10	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order	tis	27122	unique	7996	29.48160165179559
+A_androgynum_v10	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order	tts	27131	accessory	6070	22.37293133316133
+A_androgynum_v10	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order	tts	27131	core	13038	48.05572960819727
+A_androgynum_v10	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order	tts	27131	unique	8001	29.490251004386128
+A_angustatum_v10	Atrichum angustatum	Mosses	Polytrichales	unseen_order	acceptor	19931	accessory	4923	24.700215744317898
+A_angustatum_v10	Atrichum angustatum	Mosses	Polytrichales	unseen_order	acceptor	19931	core	11703	58.71757563594401
+A_angustatum_v10	Atrichum angustatum	Mosses	Polytrichales	unseen_order	acceptor	19931	unique	3282	16.46681049621193
+A_angustatum_v10	Atrichum angustatum	Mosses	Polytrichales	unseen_order	donor	19907	accessory	4919	24.709901039835234
+A_angustatum_v10	Atrichum angustatum	Mosses	Polytrichales	unseen_order	donor	19907	core	11693	58.738132315265986
+A_angustatum_v10	Atrichum angustatum	Mosses	Polytrichales	unseen_order	donor	19907	unique	3273	16.441452755312202
+A_angustatum_v10	Atrichum angustatum	Mosses	Polytrichales	unseen_order	tis	26339	accessory	7792	29.58350734652037
+A_angustatum_v10	Atrichum angustatum	Mosses	Polytrichales	unseen_order	tis	26339	core	12979	49.27673791715707
+A_angustatum_v10	Atrichum angustatum	Mosses	Polytrichales	unseen_order	tis	26339	unique	5547	21.060025057898933
+A_angustatum_v10	Atrichum angustatum	Mosses	Polytrichales	unseen_order	tts	26342	accessory	7790	29.57254574443854
+A_angustatum_v10	Atrichum angustatum	Mosses	Polytrichales	unseen_order	tts	26342	core	12981	49.27871839647711
+A_angustatum_v10	Atrichum angustatum	Mosses	Polytrichales	unseen_order	tts	26342	unique	5547	21.057626603902513
+A_attenuatus_v10	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order	acceptor	17281	accessory	5184	29.998263989352466
+A_attenuatus_v10	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order	acceptor	17281	core	11355	65.70800300908512
+A_attenuatus_v10	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order	acceptor	17281	unique	724	4.189572362710491
+A_attenuatus_v10	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order	donor	17271	accessory	5183	30.009843089572115
+A_attenuatus_v10	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order	donor	17271	core	11349	65.71130797290256
+A_attenuatus_v10	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order	donor	17271	unique	721	4.174627989114701
+A_attenuatus_v10	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order	tis	22593	accessory	8304	36.75474704554508
+A_attenuatus_v10	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order	tis	22593	core	12789	56.60602841588103
+A_attenuatus_v10	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order	tis	22593	unique	1487	6.581684592572921
+A_attenuatus_v10	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order	tts	22613	accessory	8317	36.77972847477115
+A_attenuatus_v10	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order	tts	22613	core	12788	56.55154114889665
+A_attenuatus_v10	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order	tts	22613	unique	1490	6.589130146375979
+A_macrosporum_v10	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order	acceptor	8583	accessory	1245	14.505417686123733
+A_macrosporum_v10	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order	acceptor	8583	core	7032	81.92939531632297
+A_macrosporum_v10	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order	acceptor	8583	unique	228	2.656413841314226
+A_macrosporum_v10	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order	donor	8535	accessory	1234	14.458113649677797
+A_macrosporum_v10	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order	donor	8535	core	7012	82.15582893966022
+A_macrosporum_v10	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order	donor	8535	unique	221	2.5893380199179847
+A_macrosporum_v10	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order	tis	7252	accessory	1264	17.429674572531717
+A_macrosporum_v10	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order	tis	7252	core	5390	74.32432432432432
+A_macrosporum_v10	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order	tis	7252	unique	594	8.19084390512962
+A_macrosporum_v10	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order	tts	8386	accessory	1370	16.33675172907226
+A_macrosporum_v10	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order	tts	8386	core	6314	75.29215358931553
+A_macrosporum_v10	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order	tts	8386	unique	638	7.607917958502266
+A_palustre_v10	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order	acceptor	17574	accessory	3683	20.957095709570957
+A_palustre_v10	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order	acceptor	17574	core	11239	63.95242972573119
+A_palustre_v10	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order	acceptor	17574	unique	2622	14.91976783885285
+A_palustre_v10	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order	donor	17585	accessory	3673	20.887119704293433
+A_palustre_v10	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order	donor	17585	core	11259	64.02615865794711
+A_palustre_v10	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order	donor	17585	unique	2627	14.938868353710548
+A_palustre_v10	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order	tis	23156	accessory	5704	24.632924512005527
+A_palustre_v10	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order	tis	23156	core	12328	53.23890136465711
+A_palustre_v10	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order	tis	23156	unique	5112	22.07635170150285
+A_palustre_v10	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order	tts	23203	accessory	5720	24.6519846571564
+A_palustre_v10	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order	tts	23203	core	12368	53.30345213980951
+A_palustre_v10	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order	tts	23203	unique	5090	21.936818514847218
+A_rupestris_v10	Andreaea rupestris	Mosses	Andreaeales	unseen_order	acceptor	20859	accessory	3875	18.577112996787957
+A_rupestris_v10	Andreaea rupestris	Mosses	Andreaeales	unseen_order	acceptor	20859	core	14516	69.59106380938684
+A_rupestris_v10	Andreaea rupestris	Mosses	Andreaeales	unseen_order	acceptor	20859	unique	2438	11.688000383527495
+A_rupestris_v10	Andreaea rupestris	Mosses	Andreaeales	unseen_order	donor	20847	accessory	3870	18.56382213268096
+A_rupestris_v10	Andreaea rupestris	Mosses	Andreaeales	unseen_order	donor	20847	core	14513	69.61673142418573
+A_rupestris_v10	Andreaea rupestris	Mosses	Andreaeales	unseen_order	donor	20847	unique	2436	11.685134551734063
+A_rupestris_v10	Andreaea rupestris	Mosses	Andreaeales	unseen_order	tis	26053	accessory	5527	21.214447472459984
+A_rupestris_v10	Andreaea rupestris	Mosses	Andreaeales	unseen_order	tis	26053	core	15908	61.06014662418915
+A_rupestris_v10	Andreaea rupestris	Mosses	Andreaeales	unseen_order	tis	26053	unique	4603	17.667830959966224
+A_rupestris_v10	Andreaea rupestris	Mosses	Andreaeales	unseen_order	tts	26033	accessory	5513	21.176967694848845
+A_rupestris_v10	Andreaea rupestris	Mosses	Andreaeales	unseen_order	tts	26033	core	15889	61.03407213920793
+A_rupestris_v10	Andreaea rupestris	Mosses	Andreaeales	unseen_order	tts	26033	unique	4598	17.662197979487573
+A_sandvicensis_v10	Acrolejeunea sandvicensis	Liverworts	Porellales	trained	acceptor	17311	accessory	2556	14.765178210386459
+A_sandvicensis_v10	Acrolejeunea sandvicensis	Liverworts	Porellales	trained	acceptor	17311	core	9728	56.19548264109526
+A_sandvicensis_v10	Acrolejeunea sandvicensis	Liverworts	Porellales	trained	acceptor	17311	unique	5008	28.929582346484892
+A_sandvicensis_v10	Acrolejeunea sandvicensis	Liverworts	Porellales	trained	donor	17286	accessory	2555	14.780747425662385
+A_sandvicensis_v10	Acrolejeunea sandvicensis	Liverworts	Porellales	trained	donor	17286	core	9716	56.20733541594354
+A_sandvicensis_v10	Acrolejeunea sandvicensis	Liverworts	Porellales	trained	donor	17286	unique	4996	28.902001619807937
+A_sandvicensis_v10	Acrolejeunea sandvicensis	Liverworts	Porellales	trained	tis	22664	accessory	3952	17.437345570067066
+A_sandvicensis_v10	Acrolejeunea sandvicensis	Liverworts	Porellales	trained	tis	22664	core	11351	50.08383339216378
+A_sandvicensis_v10	Acrolejeunea sandvicensis	Liverworts	Porellales	trained	tis	22664	unique	7344	32.403812213201554
+A_sandvicensis_v10	Acrolejeunea sandvicensis	Liverworts	Porellales	trained	tts	22669	accessory	3951	17.4290881820989
+A_sandvicensis_v10	Acrolejeunea sandvicensis	Liverworts	Porellales	trained	tts	22669	core	11355	50.09043186730778
+A_sandvicensis_v10	Acrolejeunea sandvicensis	Liverworts	Porellales	trained	tts	22669	unique	7343	32.39225373858574
+A_subdivergens_v10	Aerobryopsis subdivergens	Mosses	Hypnales	trained	acceptor	22447	accessory	7348	32.73488662182029
+A_subdivergens_v10	Aerobryopsis subdivergens	Mosses	Hypnales	trained	acceptor	22447	core	12503	55.70009355370428
+A_subdivergens_v10	Aerobryopsis subdivergens	Mosses	Hypnales	trained	acceptor	22447	unique	2556	11.38682229251125
+A_subdivergens_v10	Aerobryopsis subdivergens	Mosses	Hypnales	trained	donor	22427	accessory	7342	32.73732554510189
+A_subdivergens_v10	Aerobryopsis subdivergens	Mosses	Hypnales	trained	donor	22427	core	12491	55.696258973558656
+A_subdivergens_v10	Aerobryopsis subdivergens	Mosses	Hypnales	trained	donor	22427	unique	2554	11.388059035983414
+A_subdivergens_v10	Aerobryopsis subdivergens	Mosses	Hypnales	trained	tis	28348	accessory	10293	36.30943981938761
+A_subdivergens_v10	Aerobryopsis subdivergens	Mosses	Hypnales	trained	tis	28348	core	13808	48.70890362635812
+A_subdivergens_v10	Aerobryopsis subdivergens	Mosses	Hypnales	trained	tis	28348	unique	4207	14.840553125440948
+A_subdivergens_v10	Aerobryopsis subdivergens	Mosses	Hypnales	trained	tts	28344	accessory	10295	36.32162009596387
+A_subdivergens_v10	Aerobryopsis subdivergens	Mosses	Hypnales	trained	tts	28344	core	13801	48.69108100479819
+A_subdivergens_v10	Aerobryopsis subdivergens	Mosses	Hypnales	trained	tts	28344	unique	4208	14.846175557437201
+A_urvilleanus_v10	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	11536	accessory	2624	22.74618585298197
+A_urvilleanus_v10	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	11536	core	6995	60.63626907073509
+A_urvilleanus_v10	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	11536	unique	1889	16.374826629681
+A_urvilleanus_v10	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order	donor	11539	accessory	2637	22.85293352976861
+A_urvilleanus_v10	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order	donor	11539	core	6988	60.559840540774765
+A_urvilleanus_v10	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order	donor	11539	unique	1887	16.35323684894705
+A_urvilleanus_v10	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order	tis	18108	accessory	5082	28.0649436713055
+A_urvilleanus_v10	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order	tis	18108	core	7741	42.749061188425
+A_urvilleanus_v10	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order	tis	18108	unique	5280	29.158383035122597
+A_urvilleanus_v10	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order	tts	19346	accessory	5326	27.530238809056137
+A_urvilleanus_v10	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order	tts	19346	core	8481	43.838519590613046
+A_urvilleanus_v10	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order	tts	19346	unique	5514	28.502015920603743
+A_wilsonii_v10	Andreaea wilsonii	Mosses	Andreaeales	unseen_order	acceptor	10802	accessory	1676	15.515645250879468
+A_wilsonii_v10	Andreaea wilsonii	Mosses	Andreaeales	unseen_order	acceptor	10802	core	8770	81.18866876504352
+A_wilsonii_v10	Andreaea wilsonii	Mosses	Andreaeales	unseen_order	acceptor	10802	unique	332	3.0735049064987967
+A_wilsonii_v10	Andreaea wilsonii	Mosses	Andreaeales	unseen_order	donor	10798	accessory	1678	15.53991479903686
+A_wilsonii_v10	Andreaea wilsonii	Mosses	Andreaeales	unseen_order	donor	10798	core	8772	81.23726616040007
+A_wilsonii_v10	Andreaea wilsonii	Mosses	Andreaeales	unseen_order	donor	10798	unique	327	3.028338581218744
+A_wilsonii_v10	Andreaea wilsonii	Mosses	Andreaeales	unseen_order	tis	12810	accessory	2200	17.17408274785324
+A_wilsonii_v10	Andreaea wilsonii	Mosses	Andreaeales	unseen_order	tis	12810	core	9502	74.17642466822795
+A_wilsonii_v10	Andreaea wilsonii	Mosses	Andreaeales	unseen_order	tis	12810	unique	1098	8.571428571428571
+A_wilsonii_v10	Andreaea wilsonii	Mosses	Andreaeales	unseen_order	tts	12884	accessory	2184	16.951257373486495
+A_wilsonii_v10	Andreaea wilsonii	Mosses	Andreaeales	unseen_order	tts	12884	core	9564	74.23160509158646
+A_wilsonii_v10	Andreaea wilsonii	Mosses	Andreaeales	unseen_order	tts	12884	unique	1112	8.630859981372245
+B_amplexifolia_v10	Barbula amplexifolia	Mosses	Pottiales	unseen_order	acceptor	19449	accessory	3546	18.23229986117538
+B_amplexifolia_v10	Barbula amplexifolia	Mosses	Pottiales	unseen_order	acceptor	19449	core	11973	61.56100570723431
+B_amplexifolia_v10	Barbula amplexifolia	Mosses	Pottiales	unseen_order	acceptor	19449	unique	3920	20.155277906319093
+B_amplexifolia_v10	Barbula amplexifolia	Mosses	Pottiales	unseen_order	donor	19428	accessory	3537	18.20568252007412
+B_amplexifolia_v10	Barbula amplexifolia	Mosses	Pottiales	unseen_order	donor	19428	core	11964	61.58122297714639
+B_amplexifolia_v10	Barbula amplexifolia	Mosses	Pottiales	unseen_order	donor	19428	unique	3917	20.161622400658842
+B_amplexifolia_v10	Barbula amplexifolia	Mosses	Pottiales	unseen_order	tis	24868	accessory	4659	18.73492037960431
+B_amplexifolia_v10	Barbula amplexifolia	Mosses	Pottiales	unseen_order	tis	24868	core	13420	53.96493485603989
+B_amplexifolia_v10	Barbula amplexifolia	Mosses	Pottiales	unseen_order	tis	24868	unique	6781	27.26797490751166
+B_amplexifolia_v10	Barbula amplexifolia	Mosses	Pottiales	unseen_order	tts	24873	accessory	4660	18.73517468741205
+B_amplexifolia_v10	Barbula amplexifolia	Mosses	Pottiales	unseen_order	tts	24873	core	13421	53.958107184497244
+B_amplexifolia_v10	Barbula amplexifolia	Mosses	Pottiales	unseen_order	tts	24873	unique	6782	27.266513890564067
+B_aphylla_v10	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order	acceptor	32917	accessory	7046	21.405352857186255
+B_aphylla_v10	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order	acceptor	32917	core	18665	56.703223258498646
+B_aphylla_v10	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order	acceptor	32917	unique	7175	21.797247622808882
+B_aphylla_v10	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order	donor	32888	accessory	7035	21.390780831914377
+B_aphylla_v10	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order	donor	32888	core	18651	56.71065434200924
+B_aphylla_v10	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order	donor	32888	unique	7172	21.807346144490392
+B_aphylla_v10	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order	tis	41363	accessory	10130	24.49048666682784
+B_aphylla_v10	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order	tis	41363	core	20795	50.27439982593139
+B_aphylla_v10	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order	tis	41363	unique	10420	25.191596354229624
+B_aphylla_v10	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order	tts	41395	accessory	10131	24.473970286266457
+B_aphylla_v10	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order	tts	41395	core	20816	50.28626645730161
+B_aphylla_v10	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order	tts	41395	unique	10416	25.16245923420703
+B_illecebra_v10	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order	acceptor	16980	accessory	5264	31.00117785630153
+B_illecebra_v10	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order	acceptor	16980	core	10882	64.08716136631331
+B_illecebra_v10	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order	acceptor	16980	unique	797	4.693757361601884
+B_illecebra_v10	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order	donor	16993	accessory	5265	30.983346083681514
+B_illecebra_v10	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order	donor	16993	core	10896	64.12052021420585
+B_illecebra_v10	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order	donor	16993	unique	799	4.701936091331725
+B_illecebra_v10	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order	tis	22159	accessory	8543	38.55318380793357
+B_illecebra_v10	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order	tis	22159	core	12051	54.3842231147615
+B_illecebra_v10	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order	tis	22159	unique	1549	6.990387652872422
+B_illecebra_v10	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order	tts	22172	accessory	8554	38.58019123218474
+B_illecebra_v10	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order	tts	22172	core	12024	54.230561068013714
+B_illecebra_v10	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order	tts	22172	unique	1556	7.017860364423598
+B_ithyphylla_v10	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order	acceptor	20532	accessory	4491	21.873173582700176
+B_ithyphylla_v10	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order	acceptor	20532	core	12699	61.84979544126242
+B_ithyphylla_v10	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order	acceptor	20532	unique	3309	16.116306253652834
+B_ithyphylla_v10	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order	donor	20508	accessory	4486	21.874390481763214
+B_ithyphylla_v10	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order	donor	20508	core	12690	61.878291398478645
+B_ithyphylla_v10	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order	donor	20508	unique	3300	16.09128145114102
+B_ithyphylla_v10	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order	tis	25464	accessory	6290	24.701539428212378
+B_ithyphylla_v10	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order	tis	25464	core	14056	55.19949732956331
+B_ithyphylla_v10	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order	tis	25464	unique	5089	19.98507697141062
+B_ithyphylla_v10	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order	tts	25495	accessory	6296	24.695038242792705
+B_ithyphylla_v10	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order	tts	25495	core	14068	55.17944695038243
+B_ithyphylla_v10	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order	tts	25495	unique	5098	19.996077662286723
+B_laetum_v10	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order	acceptor	17729	accessory	5578	31.462575441367253
+B_laetum_v10	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order	acceptor	17729	core	10926	61.6278413898133
+B_laetum_v10	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order	acceptor	17729	unique	1196	6.746009363190253
+B_laetum_v10	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order	donor	17723	accessory	5572	31.43937256672121
+B_laetum_v10	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order	donor	17723	core	10925	61.643062686904024
+B_laetum_v10	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order	donor	17723	unique	1201	6.776505106358969
+B_laetum_v10	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order	tis	23163	accessory	8802	38.000259033803914
+B_laetum_v10	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order	tis	23163	core	12060	52.0657945861935
+B_laetum_v10	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order	tis	23163	unique	2291	9.890774079350688
+B_laetum_v10	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order	tts	23229	accessory	8807	37.913814628266394
+B_laetum_v10	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order	tts	23229	core	12097	52.07714494812519
+B_laetum_v10	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order	tts	23229	unique	2293	9.871281587670584
+B_mossmaniana_v10	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order	acceptor	17383	accessory	3749	21.5670482655468
+B_mossmaniana_v10	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order	acceptor	17383	core	12331	70.93712247598228
+B_mossmaniana_v10	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order	acceptor	17383	unique	1282	7.375021572801012
+B_mossmaniana_v10	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order	donor	17350	accessory	3742	21.56772334293948
+B_mossmaniana_v10	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order	donor	17350	core	12314	70.97406340057637
+B_mossmaniana_v10	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order	donor	17350	unique	1278	7.36599423631124
+B_mossmaniana_v10	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order	tis	23312	accessory	6078	26.072409059711738
+B_mossmaniana_v10	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order	tis	23312	core	14049	60.26509951956074
+B_mossmaniana_v10	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order	tis	23312	unique	3174	13.615305422100207
+B_mossmaniana_v10	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order	tts	23338	accessory	6090	26.09478104379124
+B_mossmaniana_v10	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order	tts	23338	core	14053	60.21509983717542
+B_mossmaniana_v10	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order	tts	23338	unique	3177	13.61299168737681
+B_norvegicum_v10	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order	acceptor	22648	accessory	4767	21.048216178028966
+B_norvegicum_v10	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order	acceptor	22648	core	13961	61.64341222182974
+B_norvegicum_v10	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order	acceptor	22648	unique	3902	17.228894383610033
+B_norvegicum_v10	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order	donor	22624	accessory	4762	21.048444130127297
+B_norvegicum_v10	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order	donor	22624	core	13951	61.664603960396036
+B_norvegicum_v10	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order	donor	22624	unique	3893	17.207390381895333
+B_norvegicum_v10	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order	tis	28559	accessory	6522	22.83693406631885
+B_norvegicum_v10	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order	tis	28559	core	15615	54.67628418361988
+B_norvegicum_v10	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order	tis	28559	unique	6404	22.423754333134912
+B_norvegicum_v10	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order	tts	28554	accessory	6520	22.833928696504866
+B_norvegicum_v10	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order	tts	28554	core	15613	54.67885410100161
+B_norvegicum_v10	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order	tts	28554	unique	6403	22.424178749036912
+B_novae_angliae_v10	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order	acceptor	16892	accessory	4930	29.185413213355435
+B_novae_angliae_v10	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order	acceptor	16892	core	10900	64.52758702344305
+B_novae_angliae_v10	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order	acceptor	16892	unique	1041	6.162680558844423
+B_novae_angliae_v10	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order	donor	16891	accessory	4931	29.193061393641585
+B_novae_angliae_v10	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order	donor	16891	core	10897	64.51364632052572
+B_novae_angliae_v10	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order	donor	16891	unique	1041	6.163045408797585
+B_novae_angliae_v10	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order	tis	22203	accessory	8050	36.25636175291627
+B_novae_angliae_v10	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order	tis	22203	core	12023	54.15034004413818
+B_novae_angliae_v10	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order	tis	22203	unique	2123	9.561770931856055
+B_novae_angliae_v10	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order	tts	22287	accessory	8051	36.124197962938034
+B_novae_angliae_v10	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order	tts	22287	core	12090	54.24687037286311
+B_novae_angliae_v10	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order	tts	22287	unique	2126	9.539193251671378
+B_pusilla_349_v10	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order	acceptor	9758	accessory	1274	13.055954088952655
+B_pusilla_349_v10	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order	acceptor	9758	core	7436	76.20414019266244
+B_pusilla_349_v10	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order	acceptor	9758	unique	1010	10.350481656077065
+B_pusilla_349_v10	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order	donor	9748	accessory	1265	12.977020927369717
+B_pusilla_349_v10	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order	donor	9748	core	7442	76.34386540828888
+B_pusilla_349_v10	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order	donor	9748	unique	1005	10.30980713992614
+B_pusilla_349_v10	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order	tis	12774	accessory	1855	14.521684671989979
+B_pusilla_349_v10	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order	tis	12774	core	7917	61.97745420385157
+B_pusilla_349_v10	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order	tis	12774	unique	2991	23.414748708313763
+B_pusilla_349_v10	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order	tts	13399	accessory	1931	14.411523248003583
+B_pusilla_349_v10	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order	tts	13399	core	8247	61.54936935592208
+B_pusilla_349_v10	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order	tts	13399	unique	3182	23.74804089857452
+B_pusilla_890_v10	Blasia pusilla 890	Liverworts	Blasiales	trained	acceptor	13581	accessory	1935	14.247846255798542
+B_pusilla_890_v10	Blasia pusilla 890	Liverworts	Blasiales	trained	acceptor	13581	core	8943	65.84934835431854
+B_pusilla_890_v10	Blasia pusilla 890	Liverworts	Blasiales	trained	acceptor	13581	unique	2685	19.770267285177823
+B_pusilla_890_v10	Blasia pusilla 890	Liverworts	Blasiales	trained	donor	13567	accessory	1933	14.247807179184786
+B_pusilla_890_v10	Blasia pusilla 890	Liverworts	Blasiales	trained	donor	13567	core	8938	65.88044519790668
+B_pusilla_890_v10	Blasia pusilla 890	Liverworts	Blasiales	trained	donor	13567	unique	2678	19.739072750055282
+B_pusilla_890_v10	Blasia pusilla 890	Liverworts	Blasiales	trained	tis	18028	accessory	2878	15.964055913024184
+B_pusilla_890_v10	Blasia pusilla 890	Liverworts	Blasiales	trained	tis	18028	core	10327	57.28311515420457
+B_pusilla_890_v10	Blasia pusilla 890	Liverworts	Blasiales	trained	tis	18028	unique	4810	26.680718881739516
+B_pusilla_890_v10	Blasia pusilla 890	Liverworts	Blasiales	trained	tts	18030	accessory	2878	15.96228508042152
+B_pusilla_890_v10	Blasia pusilla 890	Liverworts	Blasiales	trained	tts	18030	core	10323	57.25457570715474
+B_pusilla_890_v10	Blasia pusilla 890	Liverworts	Blasiales	trained	tts	18030	unique	4811	26.68330560177482
+B_tridens_v10	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	15476	accessory	2797	18.073145515637115
+B_tridens_v10	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	15476	core	9495	61.35306280692686
+B_tridens_v10	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	15476	unique	3123	20.179632980098216
+B_tridens_v10	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order	donor	15464	accessory	2789	18.03543714433523
+B_tridens_v10	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order	donor	15464	core	9498	61.42007242628039
+B_tridens_v10	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order	donor	15464	unique	3124	20.201758923952404
+B_tridens_v10	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order	tis	21563	accessory	4862	22.547882947641792
+B_tridens_v10	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order	tis	21563	core	11394	52.84051384315726
+B_tridens_v10	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order	tis	21563	unique	5267	24.426100264341695
+B_tridens_v10	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order	tts	21665	accessory	4887	22.557119778444495
+B_tridens_v10	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order	tts	21665	core	11457	52.88252942534041
+B_tridens_v10	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order	tts	21665	unique	5266	24.306485114239557
+C_acidophyllum_v10	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order	acceptor	17436	accessory	4846	27.793071805459967
+C_acidophyllum_v10	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order	acceptor	17436	core	10895	62.48566184904794
+C_acidophyllum_v10	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order	acceptor	17436	unique	1660	9.52053223216334
+C_acidophyllum_v10	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order	donor	17428	accessory	4857	27.868946522836815
+C_acidophyllum_v10	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order	donor	17428	core	10870	62.370897406472345
+C_acidophyllum_v10	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order	donor	17428	unique	1668	9.570805600183613
+C_acidophyllum_v10	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order	tis	24071	accessory	8086	33.592289476963984
+C_acidophyllum_v10	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order	tis	24071	core	11928	49.55340451165303
+C_acidophyllum_v10	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order	tis	24071	unique	4049	16.821070998296705
+C_acidophyllum_v10	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order	tts	24282	accessory	8072	33.24273124124866
+C_acidophyllum_v10	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order	tts	24282	core	12133	49.96705378469648
+C_acidophyllum_v10	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order	tts	24282	unique	4042	16.646075282101968
+C_americanum_v10	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order	acceptor	17194	accessory	5086	29.580086076538326
+C_americanum_v10	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order	acceptor	17194	core	10858	63.14993602419449
+C_americanum_v10	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order	acceptor	17194	unique	1230	7.153658252878912
+C_americanum_v10	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order	donor	17163	accessory	5073	29.557769620695684
+C_americanum_v10	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order	donor	17163	core	10844	63.182427314572045
+C_americanum_v10	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order	donor	17163	unique	1228	7.154926294936782
+C_americanum_v10	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order	tis	22560	accessory	7953	35.25265957446808
+C_americanum_v10	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order	tis	22560	core	12111	53.683510638297875
+C_americanum_v10	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order	tis	22560	unique	2485	11.015070921985815
+C_americanum_v10	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order	tts	22560	accessory	7957	35.270390070921984
+C_americanum_v10	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order	tts	22560	core	12093	53.60372340425532
+C_americanum_v10	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order	tts	22560	unique	2487	11.023936170212766
+C_cavernarum_v10	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order	acceptor	19914	accessory	2661	13.362458571858994
+C_cavernarum_v10	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order	acceptor	19914	core	9749	48.95550868735563
+C_cavernarum_v10	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order	acceptor	19914	unique	7483	37.57657929095109
+C_cavernarum_v10	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order	donor	19894	accessory	2660	13.370865587614356
+C_cavernarum_v10	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order	donor	19894	core	9744	48.97959183673469
+C_cavernarum_v10	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order	donor	19894	unique	7469	37.54398311048558
+C_cavernarum_v10	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order	tis	27342	accessory	3896	14.249140516421622
+C_cavernarum_v10	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order	tis	27342	core	11279	41.251554385194936
+C_cavernarum_v10	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order	tis	27342	unique	12147	44.426157559798114
+C_cavernarum_v10	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order	tts	27341	accessory	3895	14.246004169562196
+C_cavernarum_v10	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order	tts	27341	core	11275	41.238433122416886
+C_cavernarum_v10	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order	tts	27341	unique	12149	44.43509747266011
+C_conicum_v10	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order	acceptor	14458	accessory	1902	13.155346520957256
+C_conicum_v10	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order	acceptor	14458	core	8994	62.20777424263384
+C_conicum_v10	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order	acceptor	14458	unique	3544	24.512380688891962
+C_conicum_v10	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order	donor	14439	accessory	1899	13.15188032412217
+C_conicum_v10	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order	donor	14439	core	8984	62.220375372255695
+C_conicum_v10	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order	donor	14439	unique	3538	24.50308193088164
+C_conicum_v10	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order	tis	17652	accessory	2639	14.950147292091549
+C_conicum_v10	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order	tis	17652	core	10376	58.780874688420575
+C_conicum_v10	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order	tis	17652	unique	4621	26.1783367323816
+C_conicum_v10	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order	tts	17651	accessory	2638	14.945328876550903
+C_conicum_v10	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order	tts	17651	core	10377	58.789870262308085
+C_conicum_v10	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order	tts	17651	unique	4618	26.162823636054615
+C_cordifolium_v10	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order	acceptor	13131	accessory	3329	25.352219937552356
+C_cordifolium_v10	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order	acceptor	13131	core	9107	69.35496154139061
+C_cordifolium_v10	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order	acceptor	13131	unique	594	4.523646333104867
+C_cordifolium_v10	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order	donor	13120	accessory	3324	25.335365853658537
+C_cordifolium_v10	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order	donor	13120	core	9125	69.55030487804878
+C_cordifolium_v10	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order	donor	13120	unique	592	4.512195121951219
+C_cordifolium_v10	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order	tis	15587	accessory	5264	33.77173285430166
+C_cordifolium_v10	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order	tis	15587	core	9047	58.04195804195804
+C_cordifolium_v10	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order	tis	15587	unique	1270	8.147815487265028
+C_cordifolium_v10	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order	tts	16262	accessory	5491	33.76583446070594
+C_cordifolium_v10	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order	tts	16262	core	9343	57.452957815766815
+C_cordifolium_v10	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order	tts	16262	unique	1332	8.190874431189275
+C_filicinum_v10	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order	acceptor	16319	accessory	4308	26.39867638948465
+C_filicinum_v10	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order	acceptor	16319	core	10604	64.97947178135915
+C_filicinum_v10	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order	acceptor	16319	unique	1332	8.1622648446596
+C_filicinum_v10	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order	donor	16329	accessory	4280	26.211035580868394
+C_filicinum_v10	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order	donor	16329	core	10656	65.25812970788168
+C_filicinum_v10	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order	donor	16329	unique	1333	8.163390287219059
+C_filicinum_v10	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order	tis	19268	accessory	6034	31.316171891218602
+C_filicinum_v10	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order	tis	19268	core	10882	56.47706041104422
+C_filicinum_v10	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order	tis	19268	unique	2338	12.134108366203032
+C_filicinum_v10	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order	tts	19415	accessory	6064	31.233582281740922
+C_filicinum_v10	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order	tts	19415	core	10928	56.28637651300541
+C_filicinum_v10	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order	tts	19415	unique	2348	12.093741952098892
+C_nitens_600_v10	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order	acceptor	11059	accessory	2944	26.620851794918167
+C_nitens_600_v10	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order	acceptor	11059	core	7592	68.64996835156886
+C_nitens_600_v10	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order	acceptor	11059	unique	443	4.005787141694547
+C_nitens_600_v10	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order	donor	11121	accessory	2940	26.43647154032911
+C_nitens_600_v10	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order	donor	11121	core	7654	68.82474597608129
+C_nitens_600_v10	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order	donor	11121	unique	453	4.073374696520097
+C_nitens_600_v10	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order	tis	11834	accessory	4243	35.8543180665878
+C_nitens_600_v10	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order	tis	11834	core	6811	57.55450397160723
+C_nitens_600_v10	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order	tis	11834	unique	778	6.574277505492648
+C_nitens_600_v10	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order	tts	12457	accessory	4478	35.94765995022879
+C_nitens_600_v10	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order	tts	12457	core	7068	56.73918278879345
+C_nitens_600_v10	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order	tts	12457	unique	840	6.7431965962912415
+C_nitens_617_v10	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order	acceptor	12215	accessory	3226	26.410151453131395
+C_nitens_617_v10	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order	acceptor	12215	core	8539	69.90585345886205
+C_nitens_617_v10	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order	acceptor	12215	unique	396	3.2419156774457636
+C_nitens_617_v10	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order	donor	12236	accessory	3223	26.34030728996404
+C_nitens_617_v10	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order	donor	12236	core	8572	70.05557371690095
+C_nitens_617_v10	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order	donor	12236	unique	397	3.244524354364171
+C_nitens_617_v10	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order	tis	14198	accessory	5147	36.2515847302437
+C_nitens_617_v10	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order	tis	14198	core	8164	57.50105648682913
+C_nitens_617_v10	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order	tis	14198	unique	883	6.219185800817017
+C_nitens_617_v10	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order	tts	14450	accessory	5183	35.86851211072664
+C_nitens_617_v10	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order	tts	14450	core	8339	57.70934256055364
+C_nitens_617_v10	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order	tts	14450	unique	878	6.076124567474048
+C_nitens_618_v10	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order	acceptor	15142	accessory	4386	28.965790516444326
+C_nitens_618_v10	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order	acceptor	15142	core	9967	65.82353718134989
+C_nitens_618_v10	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order	acceptor	15142	unique	748	4.939902258618412
+C_nitens_618_v10	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order	donor	15161	accessory	4375	28.856935558340478
+C_nitens_618_v10	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order	donor	15161	core	10002	65.97190158960491
+C_nitens_618_v10	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order	donor	15161	unique	749	4.94030736758789
+C_nitens_618_v10	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order	tis	19161	accessory	7194	37.54501330828245
+C_nitens_618_v10	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order	tis	19161	core	10493	54.76227754292574
+C_nitens_618_v10	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order	tis	19161	unique	1467	7.656176608736496
+C_nitens_618_v10	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order	tts	19340	accessory	7191	37.18200620475698
+C_nitens_618_v10	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order	tts	19340	core	10645	55.041365046535674
+C_nitens_618_v10	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order	tts	19340	unique	1463	7.564632885211996
+D_chilense_v10	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order	acceptor	14841	accessory	3250	21.898793881813894
+D_chilense_v10	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order	acceptor	14841	core	10379	69.93464052287581
+D_chilense_v10	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order	acceptor	14841	unique	1183	7.9711609729802575
+D_chilense_v10	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order	donor	14806	accessory	3235	21.849250303930837
+D_chilense_v10	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order	donor	14806	core	10363	69.9918951776307
+D_chilense_v10	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order	donor	14806	unique	1182	7.983250033770093
+D_chilense_v10	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order	tis	19479	accessory	5326	27.342266030083678
+D_chilense_v10	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order	tis	19479	core	11148	57.230864007392576
+D_chilense_v10	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order	tis	19479	unique	2995	15.375532624878074
+D_chilense_v10	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order	tts	19728	accessory	5341	27.073195458231954
+D_chilense_v10	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order	tts	19728	core	11368	57.62368207623682
+D_chilense_v10	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order	tts	19728	unique	2992	15.166261151662612
+D_collenchymatosum_v10	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order	acceptor	18420	accessory	3434	18.642779587404995
+D_collenchymatosum_v10	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order	acceptor	18420	core	10608	57.58957654723127
+D_collenchymatosum_v10	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order	acceptor	18420	unique	4370	23.724212812160694
+D_collenchymatosum_v10	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order	donor	18404	accessory	3432	18.648119973918714
+D_collenchymatosum_v10	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order	donor	18404	core	10596	57.57444033905673
+D_collenchymatosum_v10	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order	donor	18404	unique	4368	23.733970875896546
+D_collenchymatosum_v10	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order	tis	22977	accessory	4573	19.90251120685903
+D_collenchymatosum_v10	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order	tis	22977	core	11711	50.968359664011835
+D_collenchymatosum_v10	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order	tis	22977	unique	6687	29.103016059537797
+D_collenchymatosum_v10	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order	tts	22980	accessory	4574	19.90426457789382
+D_collenchymatosum_v10	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order	tts	22980	core	11710	50.95735422106179
+D_collenchymatosum_v10	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order	tts	22980	unique	6686	29.09486510008703
+D_fulvifolium_v10	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order	acceptor	16706	accessory	2687	16.084041661678437
+D_fulvifolium_v10	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order	acceptor	16706	core	10718	64.15659044654615
+D_fulvifolium_v10	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order	acceptor	16706	unique	3278	19.621692804980245
+D_fulvifolium_v10	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order	donor	16683	accessory	2681	16.070251153869208
+D_fulvifolium_v10	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order	donor	16683	core	10714	64.22106335790924
+D_fulvifolium_v10	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order	donor	16683	unique	3265	19.5708205958161
+D_fulvifolium_v10	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order	tis	18809	accessory	3323	17.667074272954437
+D_fulvifolium_v10	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order	tis	18809	core	11675	62.07134882237227
+D_fulvifolium_v10	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order	tis	18809	unique	3792	20.16056143335637
+D_fulvifolium_v10	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order	tts	18808	accessory	3319	17.64674606550404
+D_fulvifolium_v10	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order	tts	18808	core	11676	62.07996597192684
+D_fulvifolium_v10	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order	tts	18808	unique	3790	20.150999574649084
+D_fulvum_v10	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order	acceptor	12080	accessory	2634	21.804635761589402
+D_fulvum_v10	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order	acceptor	12080	core	8604	71.2251655629139
+D_fulvum_v10	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order	acceptor	12080	unique	790	6.539735099337748
+D_fulvum_v10	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order	donor	12089	accessory	2655	21.962114318802218
+D_fulvum_v10	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order	donor	12089	core	8602	71.15559599636033
+D_fulvum_v10	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order	donor	12089	unique	792	6.551410373066424
+D_fulvum_v10	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order	tis	14489	accessory	4057	28.000552143005038
+D_fulvum_v10	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order	tis	14489	core	8587	59.265649803299056
+D_fulvum_v10	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order	tis	14489	unique	1840	12.699289115881014
+D_fulvum_v10	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order	tts	15208	accessory	4222	27.761704366123094
+D_fulvum_v10	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order	tts	15208	core	8927	58.69936875328774
+D_fulvum_v10	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order	tts	15208	unique	2007	13.197001578116781
+E_ciliata_1023_v10	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order	acceptor	17960	accessory	2933	16.330734966592427
+E_ciliata_1023_v10	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order	acceptor	17960	core	11494	63.99777282850779
+E_ciliata_1023_v10	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order	acceptor	17960	unique	3497	19.471046770601337
+E_ciliata_1023_v10	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order	donor	17927	accessory	2921	16.29385842583812
+E_ciliata_1023_v10	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order	donor	17927	core	11487	64.07653260445139
+E_ciliata_1023_v10	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order	donor	17927	unique	3485	19.43995091203213
+E_ciliata_1023_v10	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order	tis	22106	accessory	3841	17.37537320184565
+E_ciliata_1023_v10	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order	tis	22106	core	12355	55.88980367321089
+E_ciliata_1023_v10	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order	tis	22106	unique	5892	26.653397267710123
+E_ciliata_1023_v10	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order	tts	22393	accessory	3883	17.340240253650695
+E_ciliata_1023_v10	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order	tts	22393	core	12552	56.053230920376905
+E_ciliata_1023_v10	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order	tts	22393	unique	5918	26.427901576385477
+E_ciliata_1025_v10	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order	acceptor	18170	accessory	3656	20.121078701155753
+E_ciliata_1025_v10	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order	acceptor	18170	core	12220	67.25371491469456
+E_ciliata_1025_v10	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order	acceptor	18170	unique	2279	12.542652724270775
+E_ciliata_1025_v10	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order	donor	18150	accessory	3651	20.115702479338843
+E_ciliata_1025_v10	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order	donor	18150	core	12206	67.25068870523415
+E_ciliata_1025_v10	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order	donor	18150	unique	2281	12.567493112947659
+E_ciliata_1025_v10	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order	tis	25989	accessory	6101	23.47531648004925
+E_ciliata_1025_v10	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order	tis	25989	core	14002	53.87664011697257
+E_ciliata_1025_v10	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order	tis	25989	unique	5878	22.61726114894763
+E_ciliata_1025_v10	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order	tts	26032	accessory	6103	23.44422249539029
+E_ciliata_1025_v10	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order	tts	26032	core	14042	53.94130301167794
+E_ciliata_1025_v10	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order	tts	26032	unique	5871	22.55301167793485
+E_concinnus_v10	Entodon concinnus	Mosses	Hypnales	trained	acceptor	21092	accessory	6845	32.45306277261521
+E_concinnus_v10	Entodon concinnus	Mosses	Hypnales	trained	acceptor	21092	core	12027	57.02161957140148
+E_concinnus_v10	Entodon concinnus	Mosses	Hypnales	trained	acceptor	21092	unique	2199	10.425753840318604
+E_concinnus_v10	Entodon concinnus	Mosses	Hypnales	trained	donor	21072	accessory	6837	32.445899772209565
+E_concinnus_v10	Entodon concinnus	Mosses	Hypnales	trained	donor	21072	core	12016	57.02353834472285
+E_concinnus_v10	Entodon concinnus	Mosses	Hypnales	trained	donor	21072	unique	2198	10.430903568716781
+E_concinnus_v10	Entodon concinnus	Mosses	Hypnales	trained	tis	27315	accessory	10083	36.913783635365185
+E_concinnus_v10	Entodon concinnus	Mosses	Hypnales	trained	tis	27315	core	13388	49.01336262127037
+E_concinnus_v10	Entodon concinnus	Mosses	Hypnales	trained	tis	27315	unique	3826	14.006955885044848
+E_concinnus_v10	Entodon concinnus	Mosses	Hypnales	trained	tts	27320	accessory	10084	36.91068814055637
+E_concinnus_v10	Entodon concinnus	Mosses	Hypnales	trained	tts	27320	core	13387	49.00073206442167
+E_concinnus_v10	Entodon concinnus	Mosses	Hypnales	trained	tts	27320	unique	3827	14.00805270863836
+E_obtusulum_v10	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order	acceptor	17493	accessory	4416	25.244383467672783
+E_obtusulum_v10	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order	acceptor	17493	core	11047	63.15097467558452
+E_obtusulum_v10	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order	acceptor	17493	unique	2020	11.547476133310466
+E_obtusulum_v10	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order	donor	17485	accessory	4414	25.24449528167
+E_obtusulum_v10	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order	donor	17485	core	11038	63.128395767800974
+E_obtusulum_v10	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order	donor	17485	unique	2023	11.569917071775809
+E_obtusulum_v10	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order	tis	23797	accessory	7043	29.596167584149264
+E_obtusulum_v10	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order	tis	23797	core	12519	52.607471530024796
+E_obtusulum_v10	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order	tis	23797	unique	4227	17.76274320292474
+E_obtusulum_v10	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order	tts	23828	accessory	7055	29.608024173241564
+E_obtusulum_v10	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order	tts	23828	core	12536	52.61037434950478
+E_obtusulum_v10	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order	tts	23828	unique	4225	17.731240557327514
+F_cristula_v10	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order	acceptor	25203	accessory	5205	20.65230329722652
+F_cristula_v10	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order	acceptor	25203	core	11332	44.962901241915645
+F_cristula_v10	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order	acceptor	25203	unique	8624	34.21814863309923
+F_cristula_v10	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order	donor	25140	accessory	5199	20.68019093078759
+F_cristula_v10	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order	donor	25140	core	11319	45.023866348448685
+F_cristula_v10	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order	donor	25140	unique	8590	34.16865552903739
+F_cristula_v10	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order	tis	37608	accessory	9512	25.292490959370348
+F_cristula_v10	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order	tis	37608	core	13809	36.71825143586471
+F_cristula_v10	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order	tis	37608	unique	14271	37.946713465220164
+F_cristula_v10	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order	tts	37672	accessory	9520	25.270758122743683
+F_cristula_v10	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order	tts	37672	core	13816	36.67445317477171
+F_cristula_v10	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order	tts	37672	unique	14293	37.94064557230835
+F_fuciformis_v10	Folioceros fuciformis	Hornworts	Anthocerotales	trained	acceptor	8265	accessory	1244	15.051421657592256
+F_fuciformis_v10	Folioceros fuciformis	Hornworts	Anthocerotales	trained	acceptor	8265	core	5879	71.13127646702964
+F_fuciformis_v10	Folioceros fuciformis	Hornworts	Anthocerotales	trained	acceptor	8265	unique	1110	13.430127041742287
+F_fuciformis_v10	Folioceros fuciformis	Hornworts	Anthocerotales	trained	donor	8245	accessory	1241	15.051546391752577
+F_fuciformis_v10	Folioceros fuciformis	Hornworts	Anthocerotales	trained	donor	8245	core	5868	71.17040630685264
+F_fuciformis_v10	Folioceros fuciformis	Hornworts	Anthocerotales	trained	donor	8245	unique	1105	13.402061855670103
+F_fuciformis_v10	Folioceros fuciformis	Hornworts	Anthocerotales	trained	tis	9267	accessory	1480	15.970648537822381
+F_fuciformis_v10	Folioceros fuciformis	Hornworts	Anthocerotales	trained	tis	9267	core	6423	69.31045645840078
+F_fuciformis_v10	Folioceros fuciformis	Hornworts	Anthocerotales	trained	tis	9267	unique	1345	14.513866407683176
+F_fuciformis_v10	Folioceros fuciformis	Hornworts	Anthocerotales	trained	tts	9262	accessory	1476	15.93608291945584
+F_fuciformis_v10	Folioceros fuciformis	Hornworts	Anthocerotales	trained	tts	9262	core	6428	69.40185705031311
+F_fuciformis_v10	Folioceros fuciformis	Hornworts	Anthocerotales	trained	tts	9262	unique	1334	14.402936730727705
+F_javanicus_v10	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order	acceptor	21494	accessory	4428	20.60109798083186
+F_javanicus_v10	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order	acceptor	21494	core	12670	58.94668279519866
+F_javanicus_v10	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order	acceptor	21494	unique	4368	20.321950311714897
+F_javanicus_v10	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order	donor	21473	accessory	4423	20.597960229124947
+F_javanicus_v10	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order	donor	21473	core	12662	58.967074931309085
+F_javanicus_v10	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order	donor	21473	unique	4360	20.304568527918782
+F_javanicus_v10	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order	tis	27302	accessory	6087	22.295069958244817
+F_javanicus_v10	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order	tis	27302	core	14255	52.21229213976998
+F_javanicus_v10	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order	tis	27302	unique	6933	25.393744048055087
+F_javanicus_v10	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order	tts	27301	accessory	6086	22.29222372806857
+F_javanicus_v10	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order	tts	27301	core	14254	52.21054173839786
+F_javanicus_v10	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order	tts	27301	unique	6933	25.39467418775869
+F_moniliata_v10	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order	acceptor	11342	accessory	1613	14.221477693528477
+F_moniliata_v10	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order	acceptor	11342	core	8057	71.03685417034033
+F_moniliata_v10	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order	acceptor	11342	unique	1613	14.221477693528477
+F_moniliata_v10	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order	donor	11303	accessory	1614	14.279394850924533
+F_moniliata_v10	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order	donor	11303	core	8024	70.99000265416261
+F_moniliata_v10	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order	donor	11303	unique	1610	14.24400601610192
+F_moniliata_v10	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order	tis	15952	accessory	2721	17.0574222668004
+F_moniliata_v10	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order	tis	15952	core	9517	59.660230692076226
+F_moniliata_v10	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order	tis	15952	unique	3697	23.175777331995988
+F_moniliata_v10	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order	tts	17005	accessory	2870	16.87738900323434
+F_moniliata_v10	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order	tts	17005	core	10093	59.353131431931786
+F_moniliata_v10	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order	tts	17005	unique	3982	23.41664216406939
+F_sullivantii_v10	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order	acceptor	14554	accessory	2943	20.221245018551603
+F_sullivantii_v10	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order	acceptor	14554	core	9242	63.501442902294905
+F_sullivantii_v10	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order	acceptor	14554	unique	2311	15.878796207228254
+F_sullivantii_v10	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order	donor	14543	accessory	2942	20.229663755758786
+F_sullivantii_v10	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order	donor	14543	core	9237	63.51509317197277
+F_sullivantii_v10	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order	donor	14543	unique	2315	15.918311215017534
+F_sullivantii_v10	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order	tis	18974	accessory	4497	23.700853799936755
+F_sullivantii_v10	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order	tis	18974	core	9805	51.675977653631286
+F_sullivantii_v10	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order	tis	18974	unique	4664	24.58100558659218
+F_sullivantii_v10	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order	tts	19069	accessory	4523	23.7191252818711
+F_sullivantii_v10	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order	tts	19069	core	9820	51.4971943992868
+F_sullivantii_v10	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order	tts	19069	unique	4668	24.479521736850387
+G_aurantiacum_v10	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order	acceptor	17920	accessory	3450	19.252232142857142
+G_aurantiacum_v10	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order	acceptor	17920	core	11683	65.1953125
+G_aurantiacum_v10	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order	acceptor	17920	unique	2764	15.424107142857142
+G_aurantiacum_v10	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order	donor	17899	accessory	3449	19.269232918040114
+G_aurantiacum_v10	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order	donor	17899	core	11673	65.21593385105314
+G_aurantiacum_v10	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order	donor	17899	unique	2755	15.391921336387508
+G_aurantiacum_v10	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order	tis	22445	accessory	4646	20.699487636444644
+G_aurantiacum_v10	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order	tis	22445	core	13065	58.208955223880594
+G_aurantiacum_v10	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order	tis	22445	unique	4716	21.011361104923147
+G_aurantiacum_v10	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order	tts	22467	accessory	4659	20.73708105220991
+G_aurantiacum_v10	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order	tts	22467	core	13074	58.19201495526772
+G_aurantiacum_v10	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order	tts	22467	unique	4712	20.972982596697378
+G_magellanica_v10	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order	acceptor	8413	accessory	1103	13.110662070605017
+G_magellanica_v10	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order	acceptor	8413	core	6483	77.05931296802568
+G_magellanica_v10	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order	acceptor	8413	unique	776	9.223820278140971
+G_magellanica_v10	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order	donor	8362	accessory	1095	13.094953360440087
+G_magellanica_v10	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order	donor	8362	core	6453	77.17053336522363
+G_magellanica_v10	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order	donor	8362	unique	770	9.208323367615403
+G_magellanica_v10	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order	tis	9849	accessory	1580	16.042237790638644
+G_magellanica_v10	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order	tis	9849	core	6556	66.565133516093
+G_magellanica_v10	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order	tis	9849	unique	1706	17.32155548786679
+G_magellanica_v10	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order	tts	10601	accessory	1682	15.866427695500425
+G_magellanica_v10	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order	tts	10601	core	7094	66.91821526271106
+G_magellanica_v10	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order	tts	10601	unique	1779	16.781435713611923
+G_obtusifolia_v10	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order	acceptor	22748	accessory	5289	23.25039563917707
+G_obtusifolia_v10	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order	acceptor	22748	core	13245	58.224898892210305
+G_obtusifolia_v10	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order	acceptor	22748	unique	4178	18.36644979778442
+G_obtusifolia_v10	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order	donor	22727	accessory	5285	23.254279051348615
+G_obtusifolia_v10	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order	donor	22727	core	13235	58.234698816385794
+G_obtusifolia_v10	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order	donor	22727	unique	4171	18.352620231442778
+G_obtusifolia_v10	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order	tis	30356	accessory	7912	26.064040057978655
+G_obtusifolia_v10	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order	tis	30356	core	14988	49.37409408354197
+G_obtusifolia_v10	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order	tis	30356	unique	7423	24.453155883515613
+G_obtusifolia_v10	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order	tts	30365	accessory	7914	26.062901366705088
+G_obtusifolia_v10	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order	tts	30365	core	14987	49.35616663922279
+G_obtusifolia_v10	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order	tts	30365	unique	7428	24.462374444261485
+G_philippinensis_v10	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order	acceptor	20268	accessory	5716	28.20209196763371
+G_philippinensis_v10	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order	acceptor	20268	core	11055	54.544108940201305
+G_philippinensis_v10	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order	acceptor	20268	unique	3435	16.947898164594434
+G_philippinensis_v10	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order	donor	20260	accessory	5705	28.15893385982231
+G_philippinensis_v10	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order	donor	20260	core	11059	54.58538993089832
+G_philippinensis_v10	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order	donor	20260	unique	3437	16.964461994077
+G_philippinensis_v10	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order	tis	25387	accessory	7966	31.37826446606531
+G_philippinensis_v10	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order	tis	25387	core	11871	46.7601528341277
+G_philippinensis_v10	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order	tis	25387	unique	5517	21.73159491078111
+G_philippinensis_v10	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order	tts	25439	accessory	7970	31.329847871378593
+G_philippinensis_v10	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order	tts	25439	core	11883	46.71174181375054
+G_philippinensis_v10	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order	tts	25439	unique	5525	21.718621014977003
+G_repens_v10	Gigaspermum repens	Mosses	Gigaspermales	unseen_order	acceptor	8163	accessory	1671	20.470415288496877
+G_repens_v10	Gigaspermum repens	Mosses	Gigaspermales	unseen_order	acceptor	8163	core	4857	59.50018375597207
+G_repens_v10	Gigaspermum repens	Mosses	Gigaspermales	unseen_order	acceptor	8163	unique	1550	18.988117113806197
+G_repens_v10	Gigaspermum repens	Mosses	Gigaspermales	unseen_order	donor	8143	accessory	1667	20.4715706741987
+G_repens_v10	Gigaspermum repens	Mosses	Gigaspermales	unseen_order	donor	8143	core	4876	59.87965123418888
+G_repens_v10	Gigaspermum repens	Mosses	Gigaspermales	unseen_order	donor	8143	unique	1530	18.789144050104383
+G_repens_v10	Gigaspermum repens	Mosses	Gigaspermales	unseen_order	tis	9794	accessory	2274	23.218296916479478
+G_repens_v10	Gigaspermum repens	Mosses	Gigaspermales	unseen_order	tis	9794	core	4679	47.77414743720645
+G_repens_v10	Gigaspermum repens	Mosses	Gigaspermales	unseen_order	tis	9794	unique	2838	28.976924647743516
+G_repens_v10	Gigaspermum repens	Mosses	Gigaspermales	unseen_order	tts	11340	accessory	2602	22.94532627865961
+G_repens_v10	Gigaspermum repens	Mosses	Gigaspermales	unseen_order	tts	11340	core	5000	44.091710758377424
+G_repens_v10	Gigaspermum repens	Mosses	Gigaspermales	unseen_order	tts	11340	unique	3660	32.27513227513227
+H_ciliata_1009_v10	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained	acceptor	20631	accessory	3847	18.646696718530368
+H_ciliata_1009_v10	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained	acceptor	20631	core	12279	59.51723135087975
+H_ciliata_1009_v10	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained	acceptor	20631	unique	4491	21.768212883524793
+H_ciliata_1009_v10	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained	donor	20607	accessory	3842	18.64415004610084
+H_ciliata_1009_v10	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained	donor	20607	core	12270	59.542873780754114
+H_ciliata_1009_v10	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained	donor	20607	unique	4481	21.745038093851605
+H_ciliata_1009_v10	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained	tis	25902	accessory	5109	19.724345610377576
+H_ciliata_1009_v10	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained	tis	25902	core	13588	52.45926955447456
+H_ciliata_1009_v10	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained	tis	25902	unique	7193	27.77005636630376
+H_ciliata_1009_v10	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained	tts	25901	accessory	5108	19.72124628392726
+H_ciliata_1009_v10	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained	tts	25901	core	13585	52.449712366317904
+H_ciliata_1009_v10	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained	tts	25901	unique	7193	27.771128527856067
+H_ciliata_329_v10	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order	acceptor	15924	accessory	2796	17.55840241145441
+H_ciliata_329_v10	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order	acceptor	15924	core	10734	67.40768651092691
+H_ciliata_329_v10	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order	acceptor	15924	unique	2343	14.713639788997739
+H_ciliata_329_v10	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order	donor	15885	accessory	2786	17.538558388416746
+H_ciliata_329_v10	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order	donor	15885	core	10717	67.4661630468996
+H_ciliata_329_v10	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order	donor	15885	unique	2337	14.711992445703494
+H_ciliata_329_v10	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order	tis	20272	accessory	3997	19.71685082872928
+H_ciliata_329_v10	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order	tis	20272	core	11423	56.34865824782952
+H_ciliata_329_v10	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order	tis	20272	unique	4843	23.890094711917918
+H_ciliata_329_v10	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order	tts	20487	accessory	4025	19.6466051642505
+H_ciliata_329_v10	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order	tts	20487	core	11538	56.31864108947137
+H_ciliata_329_v10	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order	tts	20487	unique	4871	23.776053106848245
+H_elatum_v10	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order	acceptor	21067	accessory	4503	21.374661793326055
+H_elatum_v10	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order	acceptor	21067	core	10997	52.200123415768736
+H_elatum_v10	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order	acceptor	21067	unique	5529	26.244837898134524
+H_elatum_v10	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order	donor	21053	accessory	4507	21.407875362181162
+H_elatum_v10	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order	donor	21053	core	10991	52.20633638911319
+H_elatum_v10	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order	donor	21053	unique	5517	26.20529140740037
+H_elatum_v10	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order	tis	27615	accessory	6382	23.110628281730943
+H_elatum_v10	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order	tis	27615	core	12086	43.76606916530871
+H_elatum_v10	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order	tis	27615	unique	9117	33.014665942422596
+H_elatum_v10	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order	tts	27601	accessory	6366	23.064381725299807
+H_elatum_v10	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order	tts	27601	core	12078	43.75928408391
+H_elatum_v10	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order	tts	27601	unique	9119	33.03865801963697
+H_japonicum_v10	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order	acceptor	26686	accessory	5638	21.127182792475455
+H_japonicum_v10	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order	acceptor	26686	core	14268	53.466236978190814
+H_japonicum_v10	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order	acceptor	26686	unique	6744	25.271678033425765
+H_japonicum_v10	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order	donor	26679	accessory	5631	21.106488249184753
+H_japonicum_v10	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order	donor	26679	core	14264	53.46527231155591
+H_japonicum_v10	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order	donor	26679	unique	6750	25.300798380748905
+H_japonicum_v10	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order	tis	35065	accessory	8000	22.81477256523599
+H_japonicum_v10	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order	tis	35065	core	15906	45.36147155283046
+H_japonicum_v10	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order	tis	35065	unique	11132	31.74675602452588
+H_japonicum_v10	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order	tts	35081	accessory	8010	22.832872495082807
+H_japonicum_v10	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order	tts	35081	core	15905	45.337932214018984
+H_japonicum_v10	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order	tts	35081	unique	11126	31.71517345571677
+H_kurzii_v10	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	17391	accessory	4173	23.99516991547352
+H_kurzii_v10	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	17391	core	9312	53.54493703639814
+H_kurzii_v10	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	17391	unique	3792	21.804381576677592
+H_kurzii_v10	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order	donor	17408	accessory	4178	24.00045955882353
+H_kurzii_v10	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order	donor	17408	core	9365	53.79710477941177
+H_kurzii_v10	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order	donor	17408	unique	3768	21.645220588235293
+H_kurzii_v10	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order	tis	24578	accessory	6993	28.452274391732445
+H_kurzii_v10	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order	tis	24578	core	10246	41.687688176417936
+H_kurzii_v10	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order	tis	24578	unique	7321	29.786801204329073
+H_kurzii_v10	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order	tts	24747	accessory	7014	28.342829433870772
+H_kurzii_v10	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order	tts	24747	core	10266	41.483816220147894
+H_kurzii_v10	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order	tts	24747	unique	7360	29.740978704489432
+H_luridum_v10	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order	acceptor	18945	accessory	5574	29.422011084718925
+H_luridum_v10	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order	acceptor	18945	core	11450	60.438110319345476
+H_luridum_v10	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order	acceptor	18945	unique	1895	10.002639218791238
+H_luridum_v10	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order	donor	18939	accessory	5574	29.431332171709172
+H_luridum_v10	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order	donor	18939	core	11441	60.409736522519665
+H_luridum_v10	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order	donor	18939	unique	1898	10.021648450287765
+H_luridum_v10	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order	tis	24037	accessory	8255	34.34288804759329
+H_luridum_v10	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order	tis	24037	core	12646	52.61055872197029
+H_luridum_v10	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order	tis	24037	unique	3117	12.96750842451221
+H_luridum_v10	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order	tts	24049	accessory	8256	34.3299097675579
+H_luridum_v10	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order	tts	24049	core	12656	52.62588881034554
+H_luridum_v10	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order	tts	24049	unique	3112	12.940246995717077
+H_mnioides_v10	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order	acceptor	12555	accessory	1789	14.249303066507368
+H_mnioides_v10	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order	acceptor	12555	core	8249	65.70290720828355
+H_mnioides_v10	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order	acceptor	12555	unique	2311	18.40700915969733
+H_mnioides_v10	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order	donor	12547	accessory	1777	14.162748067267076
+H_mnioides_v10	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order	donor	12547	core	8269	65.90420020722085
+H_mnioides_v10	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order	donor	12547	unique	2308	18.394835418825217
+H_mnioides_v10	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order	tis	15809	accessory	3206	20.27958757669682
+H_mnioides_v10	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order	tis	15809	core	8710	55.09519893731419
+H_mnioides_v10	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order	tis	15809	unique	3878	24.530330824214055
+H_mnioides_v10	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order	tts	16118	accessory	3248	20.151383546345702
+H_mnioides_v10	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order	tts	16118	core	8777	54.45464697853332
+H_mnioides_v10	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order	tts	16118	unique	3903	24.21516317160938
+H_scalpellifolium_v10	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order	acceptor	16296	accessory	4666	28.632793323514974
+H_scalpellifolium_v10	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order	acceptor	16296	core	10521	64.5618556701031
+H_scalpellifolium_v10	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order	acceptor	16296	unique	1028	6.308296514482081
+H_scalpellifolium_v10	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order	donor	16229	accessory	4636	28.566147020765296
+H_scalpellifolium_v10	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order	donor	16229	core	10504	64.72364286154415
+H_scalpellifolium_v10	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order	donor	16229	unique	1023	6.3035307166184
+H_scalpellifolium_v10	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order	tis	20030	accessory	7108	35.48676984523215
+H_scalpellifolium_v10	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order	tis	20030	core	11013	54.98252621068397
+H_scalpellifolium_v10	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order	tis	20030	unique	1898	9.475786320519221
+H_scalpellifolium_v10	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order	tts	20243	accessory	7161	35.37519142419602
+H_scalpellifolium_v10	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order	tts	20243	core	11116	54.91280936620066
+H_scalpellifolium_v10	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order	tts	20243	unique	1887	9.321740848688435
+H_varium_v10	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order	acceptor	29759	accessory	7385	24.81602204375147
+H_varium_v10	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order	acceptor	29759	core	20022	67.28048657548977
+H_varium_v10	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order	acceptor	29759	unique	2270	7.627944487381969
+H_varium_v10	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order	donor	29708	accessory	7389	24.872088326376733
+H_varium_v10	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order	donor	29708	core	19970	67.22095058570082
+H_varium_v10	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order	donor	29708	unique	2277	7.664602127373098
+H_varium_v10	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order	tis	37726	accessory	11614	30.785134920214176
+H_varium_v10	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order	tis	37726	core	21166	56.10454328579759
+H_varium_v10	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order	tis	37726	unique	4931	13.070561416529713
+H_varium_v10	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order	tts	38208	accessory	11692	30.600921273031826
+H_varium_v10	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order	tts	38208	core	21493	56.25261725293132
+H_varium_v10	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order	tts	38208	unique	4943	12.937081239530988
+J_erectum_v10	Jungermannia erectum	Liverworts	Jungermanniales	trained	acceptor	18833	accessory	3978	21.122497743322892
+J_erectum_v10	Jungermannia erectum	Liverworts	Jungermanniales	trained	acceptor	18833	core	9290	49.328306695693726
+J_erectum_v10	Jungermannia erectum	Liverworts	Jungermanniales	trained	acceptor	18833	unique	5520	29.310253278819093
+J_erectum_v10	Jungermannia erectum	Liverworts	Jungermanniales	trained	donor	18805	accessory	3975	21.13799521403882
+J_erectum_v10	Jungermannia erectum	Liverworts	Jungermanniales	trained	donor	18805	core	9273	49.31135336346716
+J_erectum_v10	Jungermannia erectum	Liverworts	Jungermanniales	trained	donor	18805	unique	5512	29.311353363467163
+J_erectum_v10	Jungermannia erectum	Liverworts	Jungermanniales	trained	tis	30547	accessory	7528	24.643991226634366
+J_erectum_v10	Jungermannia erectum	Liverworts	Jungermanniales	trained	tis	30547	core	11315	37.04128064949095
+J_erectum_v10	Jungermannia erectum	Liverworts	Jungermanniales	trained	tis	30547	unique	11663	38.180508724260974
+J_erectum_v10	Jungermannia erectum	Liverworts	Jungermanniales	trained	tts	30551	accessory	7527	24.637491407809893
+J_erectum_v10	Jungermannia erectum	Liverworts	Jungermanniales	trained	tts	30551	core	11319	37.04952374717685
+J_erectum_v10	Jungermannia erectum	Liverworts	Jungermanniales	trained	tts	30551	unique	11659	38.16241694216229
+K_praelongum_v10	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order	acceptor	11587	accessory	3369	29.07568827133857
+K_praelongum_v10	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order	acceptor	11587	core	7470	64.46880124277207
+K_praelongum_v10	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order	acceptor	11587	unique	627	5.411236730819021
+K_praelongum_v10	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order	donor	11557	accessory	3361	29.081941680366878
+K_praelongum_v10	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order	donor	11557	core	7474	64.67076230855758
+K_praelongum_v10	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order	donor	11557	unique	621	5.373366790689626
+K_praelongum_v10	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order	tis	13016	accessory	4930	37.87645974185617
+K_praelongum_v10	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order	tis	13016	core	6925	53.20374923171481
+K_praelongum_v10	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order	tis	13016	unique	1159	8.90442532267978
+K_praelongum_v10	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order	tts	14125	accessory	5391	38.16637168141593
+K_praelongum_v10	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order	tts	14125	core	7280	51.53982300884956
+K_praelongum_v10	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order	tts	14125	unique	1340	9.486725663716815
+L_albidum_v10	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order	acceptor	15638	accessory	3143	20.09847806624888
+L_albidum_v10	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order	acceptor	15638	core	10512	67.22087223430105
+L_albidum_v10	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order	acceptor	15638	unique	1945	12.43765187364113
+L_albidum_v10	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order	donor	15663	accessory	3146	20.085551937687544
+L_albidum_v10	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order	donor	15663	core	10528	67.21573134137778
+L_albidum_v10	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order	donor	15663	unique	1950	12.449722275426163
+L_albidum_v10	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order	tis	22682	accessory	5146	22.687593686623753
+L_albidum_v10	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order	tis	22682	core	11543	50.890574023454725
+L_albidum_v10	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order	tis	22682	unique	5978	26.35570055550657
+L_albidum_v10	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order	tts	22760	accessory	5177	22.74604569420035
+L_albidum_v10	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order	tts	22760	core	11569	50.83040421792619
+L_albidum_v10	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order	tts	22760	unique	5975	26.25219683655536
+L_bowringii_v10	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order	acceptor	26057	accessory	7083	27.182714817515446
+L_bowringii_v10	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order	acceptor	26057	core	13266	50.911463330391065
+L_bowringii_v10	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order	acceptor	26057	unique	5696	21.859768968031624
+L_bowringii_v10	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order	donor	26039	accessory	7078	27.182303467875112
+L_bowringii_v10	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order	donor	26039	core	13256	50.908253005107724
+L_bowringii_v10	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order	donor	26039	unique	5693	21.863358807941932
+L_bowringii_v10	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order	tis	37316	accessory	11415	30.590095401436383
+L_bowringii_v10	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order	tis	37316	core	14904	39.939972129917464
+L_bowringii_v10	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order	tis	37316	unique	10987	29.44313431235931
+L_bowringii_v10	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order	tts	37314	accessory	11416	30.594414964892533
+L_bowringii_v10	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order	tts	37314	core	14900	39.931393042825746
+L_bowringii_v10	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order	tts	37314	unique	10987	29.444712440370907
+L_cruciata_v10	Lunularia cruciata	Liverworts	Lunulariales	unseen_order	acceptor	14737	accessory	2343	15.898758227590418
+L_cruciata_v10	Lunularia cruciata	Liverworts	Lunulariales	unseen_order	acceptor	14737	core	9141	62.027549704824594
+L_cruciata_v10	Lunularia cruciata	Liverworts	Lunulariales	unseen_order	acceptor	14737	unique	3221	21.85655153694782
+L_cruciata_v10	Lunularia cruciata	Liverworts	Lunulariales	unseen_order	donor	14724	accessory	2339	15.885628905188808
+L_cruciata_v10	Lunularia cruciata	Liverworts	Lunulariales	unseen_order	donor	14724	core	9135	62.04156479217604
+L_cruciata_v10	Lunularia cruciata	Liverworts	Lunulariales	unseen_order	donor	14724	unique	3217	21.84868242325455
+L_cruciata_v10	Lunularia cruciata	Liverworts	Lunulariales	unseen_order	tis	19286	accessory	3469	17.987140931245463
+L_cruciata_v10	Lunularia cruciata	Liverworts	Lunulariales	unseen_order	tis	19286	core	10786	55.926578865498286
+L_cruciata_v10	Lunularia cruciata	Liverworts	Lunulariales	unseen_order	tis	19286	unique	5001	25.9307269521933
+L_cruciata_v10	Lunularia cruciata	Liverworts	Lunulariales	unseen_order	tts	19277	accessory	3472	18.011101312444882
+L_cruciata_v10	Lunularia cruciata	Liverworts	Lunulariales	unseen_order	tts	19277	core	10779	55.91637702962079
+L_cruciata_v10	Lunularia cruciata	Liverworts	Lunulariales	unseen_order	tts	19277	unique	4994	25.906520724179074
+L_gaudichaudii_v10	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order	acceptor	16236	accessory	3718	22.899728997289973
+L_gaudichaudii_v10	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order	acceptor	16236	core	10958	67.4919931017492
+L_gaudichaudii_v10	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order	acceptor	16236	unique	1524	9.386548410938655
+L_gaudichaudii_v10	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order	donor	16216	accessory	3717	22.921805624074988
+L_gaudichaudii_v10	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order	donor	16216	core	10941	67.47039960532807
+L_gaudichaudii_v10	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order	donor	16216	unique	1529	9.42895905278737
+L_gaudichaudii_v10	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order	tis	20849	accessory	5884	28.22197707324092
+L_gaudichaudii_v10	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order	tis	20849	core	11485	55.08657489567845
+L_gaudichaudii_v10	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order	tis	20849	unique	3474	16.662669672406352
+L_gaudichaudii_v10	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order	tts	21121	accessory	5875	27.81591780692202
+L_gaudichaudii_v10	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order	tts	21121	core	11736	55.565550873538186
+L_gaudichaudii_v10	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order	tts	21121	unique	3477	16.462288717390276
+L_lagurus_v10	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order	acceptor	16154	accessory	4414	27.324501671412655
+L_lagurus_v10	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order	acceptor	16154	core	10778	66.72031694936238
+L_lagurus_v10	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order	acceptor	16154	unique	941	5.825182617308407
+L_lagurus_v10	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order	donor	16145	accessory	4408	27.302570455249302
+L_lagurus_v10	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order	donor	16145	core	10775	66.73892846082379
+L_lagurus_v10	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order	donor	16145	unique	941	5.8284298544441
+L_lagurus_v10	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order	tis	21381	accessory	7396	34.591459707216686
+L_lagurus_v10	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order	tis	21381	core	12046	56.33974089144568
+L_lagurus_v10	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order	tis	21381	unique	1930	9.02670595388429
+L_lagurus_v10	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order	tts	21440	accessory	7400	34.514925373134325
+L_lagurus_v10	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order	tts	21440	core	12077	56.32929104477612
+L_lagurus_v10	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order	tts	21440	unique	1941	9.053171641791044
+L_reptans_v10	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	11277	accessory	1969	17.46031746031746
+L_reptans_v10	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	11277	core	8475	75.15296621441873
+L_reptans_v10	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	11277	unique	810	7.182761372705507
+L_reptans_v10	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order	donor	11267	accessory	1959	17.387059554451053
+L_reptans_v10	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order	donor	11267	core	8478	75.24629448832874
+L_reptans_v10	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order	donor	11267	unique	810	7.1891364160823645
+L_reptans_v10	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order	tis	17277	accessory	3924	22.712276436881403
+L_reptans_v10	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order	tis	17277	core	10860	62.858135092898074
+L_reptans_v10	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order	tis	17277	unique	2480	14.35434392545002
+L_reptans_v10	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order	tts	17693	accessory	4002	22.6191149041994
+L_reptans_v10	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order	tts	17693	core	11099	62.73102356864297
+L_reptans_v10	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order	tts	17693	unique	2566	14.502910755666083
+M_furcata_v10	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order	acceptor	12034	accessory	2402	19.960113013129465
+M_furcata_v10	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order	acceptor	12034	core	7599	63.14608608941333
+M_furcata_v10	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order	acceptor	12034	unique	2011	16.71098554096726
+M_furcata_v10	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order	donor	12020	accessory	2399	19.958402662229616
+M_furcata_v10	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order	donor	12020	core	7595	63.186356073211314
+M_furcata_v10	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order	donor	12020	unique	2005	16.68053244592346
+M_furcata_v10	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order	tis	21403	accessory	5001	23.365883287389618
+M_furcata_v10	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order	tis	21403	core	11306	52.82437041536233
+M_furcata_v10	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order	tis	21403	unique	5089	23.777040601784798
+M_furcata_v10	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order	tts	21856	accessory	5123	23.439787701317716
+M_furcata_v10	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order	tts	21856	core	11491	52.57595168374817
+M_furcata_v10	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order	tts	21856	unique	5219	23.87902635431918
+M_hamata_v10	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order	acceptor	18512	accessory	4801	25.934528954191876
+M_hamata_v10	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order	acceptor	18512	core	8535	46.1052290406223
+M_hamata_v10	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order	acceptor	18512	unique	5161	27.879213483146067
+M_hamata_v10	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order	donor	18496	accessory	4797	25.935337370242216
+M_hamata_v10	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order	donor	18496	core	8526	46.096453287197235
+M_hamata_v10	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order	donor	18496	unique	5158	27.8871107266436
+M_hamata_v10	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order	tis	28603	accessory	8423	29.447960004195362
+M_hamata_v10	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order	tis	28603	core	11614	40.6041324336608
+M_hamata_v10	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order	tis	28603	unique	8553	29.902457784148517
+M_hamata_v10	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order	tts	28607	accessory	8424	29.447338064110184
+M_hamata_v10	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order	tts	28607	core	11616	40.60544621945677
+M_hamata_v10	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order	tts	28607	unique	8551	29.891285349739576
+M_hornum_v10	Mnium hornum	Mosses	Bryales	unseen_order	acceptor	18368	accessory	3979	21.662674216027874
+M_hornum_v10	Mnium hornum	Mosses	Bryales	unseen_order	acceptor	18368	core	11173	60.828614982578394
+M_hornum_v10	Mnium hornum	Mosses	Bryales	unseen_order	acceptor	18368	unique	3163	17.220165505226483
+M_hornum_v10	Mnium hornum	Mosses	Bryales	unseen_order	donor	18353	accessory	3969	21.62589222470441
+M_hornum_v10	Mnium hornum	Mosses	Bryales	unseen_order	donor	18353	core	11158	60.7966000108974
+M_hornum_v10	Mnium hornum	Mosses	Bryales	unseen_order	donor	18353	unique	3179	17.321418841606278
+M_hornum_v10	Mnium hornum	Mosses	Bryales	unseen_order	tis	23800	accessory	6102	25.638655462184875
+M_hornum_v10	Mnium hornum	Mosses	Bryales	unseen_order	tis	23800	core	11420	47.983193277310924
+M_hornum_v10	Mnium hornum	Mosses	Bryales	unseen_order	tis	23800	unique	6269	26.340336134453782
+M_hornum_v10	Mnium hornum	Mosses	Bryales	unseen_order	tts	24014	accessory	6102	25.410177396518698
+M_hornum_v10	Mnium hornum	Mosses	Bryales	unseen_order	tts	24014	core	11611	48.35096193886899
+M_hornum_v10	Mnium hornum	Mosses	Bryales	unseen_order	tts	24014	unique	6247	26.013991838094444
+M_polymorpha_v61	Marchantia polymorpha	Liverworts	Marchantiales	trained	acceptor	13940	accessory	2310	16.571018651362984
+M_polymorpha_v61	Marchantia polymorpha	Liverworts	Marchantiales	trained	acceptor	13940	core	9331	66.93687230989957
+M_polymorpha_v61	Marchantia polymorpha	Liverworts	Marchantiales	trained	acceptor	13940	unique	2218	15.911047345767575
+M_polymorpha_v61	Marchantia polymorpha	Liverworts	Marchantiales	trained	donor	13901	accessory	2302	16.559959715128407
+M_polymorpha_v61	Marchantia polymorpha	Liverworts	Marchantiales	trained	donor	13901	core	9320	67.04553629235306
+M_polymorpha_v61	Marchantia polymorpha	Liverworts	Marchantiales	trained	donor	13901	unique	2199	15.819005826918927
+M_polymorpha_v61	Marchantia polymorpha	Liverworts	Marchantiales	trained	tis	18005	accessory	2998	16.650930297139684
+M_polymorpha_v61	Marchantia polymorpha	Liverworts	Marchantiales	trained	tis	18005	core	10772	59.82782560399889
+M_polymorpha_v61	Marchantia polymorpha	Liverworts	Marchantiales	trained	tis	18005	unique	4133	22.95473479589003
+M_polymorpha_v61	Marchantia polymorpha	Liverworts	Marchantiales	trained	tts	17997	accessory	2994	16.63610601766961
+M_polymorpha_v61	Marchantia polymorpha	Liverworts	Marchantiales	trained	tts	17997	core	10773	59.85997666277713
+M_polymorpha_v61	Marchantia polymorpha	Liverworts	Marchantiales	trained	tts	17997	unique	4128	22.937156192698783
+Mesoptychia_sp_v10	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	10240	accessory	1950	19.04296875
+Mesoptychia_sp_v10	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	10240	core	7228	70.5859375
+Mesoptychia_sp_v10	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	10240	unique	1018	9.94140625
+Mesoptychia_sp_v10	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order	donor	10232	accessory	1957	19.126270523846756
+Mesoptychia_sp_v10	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order	donor	10232	core	7233	70.68999218139172
+Mesoptychia_sp_v10	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order	donor	10232	unique	1006	9.831899921813918
+Mesoptychia_sp_v10	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order	tis	16143	accessory	4119	25.51570340085486
+Mesoptychia_sp_v10	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order	tis	16143	core	8906	55.169423279440004
+Mesoptychia_sp_v10	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order	tis	16143	unique	3112	19.277705507030912
+Mesoptychia_sp_v10	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order	tts	16529	accessory	4167	25.210236553935506
+Mesoptychia_sp_v10	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order	tts	16529	core	9125	55.206001572992925
+Mesoptychia_sp_v10	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order	tts	16529	unique	3193	19.31756307096618
+N_confluens_v10	Noteroclada confluens	Liverworts	Pelliales	unseen_order	acceptor	15365	accessory	2559	16.654734786853236
+N_confluens_v10	Noteroclada confluens	Liverworts	Pelliales	unseen_order	acceptor	15365	core	8957	58.29482590302636
+N_confluens_v10	Noteroclada confluens	Liverworts	Pelliales	unseen_order	acceptor	15365	unique	3719	24.204360559713635
+N_confluens_v10	Noteroclada confluens	Liverworts	Pelliales	unseen_order	donor	15283	accessory	2566	16.789897271478115
+N_confluens_v10	Noteroclada confluens	Liverworts	Pelliales	unseen_order	donor	15283	core	8905	58.26735588562455
+N_confluens_v10	Noteroclada confluens	Liverworts	Pelliales	unseen_order	donor	15283	unique	3697	24.19027677811948
+N_confluens_v10	Noteroclada confluens	Liverworts	Pelliales	unseen_order	tis	20987	accessory	4010	19.107066279125174
+N_confluens_v10	Noteroclada confluens	Liverworts	Pelliales	unseen_order	tis	20987	core	8524	40.615619192833655
+N_confluens_v10	Noteroclada confluens	Liverworts	Pelliales	unseen_order	tis	20987	unique	8446	40.24396054700529
+N_confluens_v10	Noteroclada confluens	Liverworts	Pelliales	unseen_order	tts	23417	accessory	4390	18.74706409873169
+N_confluens_v10	Noteroclada confluens	Liverworts	Pelliales	unseen_order	tts	23417	core	9646	41.192296195071954
+N_confluens_v10	Noteroclada confluens	Liverworts	Pelliales	unseen_order	tts	23417	unique	9278	39.62078831618055
+N_yunnanensis_v10	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order	acceptor	15044	accessory	2625	17.448816804041478
+N_yunnanensis_v10	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order	acceptor	15044	core	8855	58.86067535229992
+N_yunnanensis_v10	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order	acceptor	15044	unique	3531	23.47115128955065
+N_yunnanensis_v10	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order	donor	15001	accessory	2620	17.465502299846676
+N_yunnanensis_v10	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order	donor	15001	core	8841	58.93607092860476
+N_yunnanensis_v10	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order	donor	15001	unique	3507	23.378441437237516
+N_yunnanensis_v10	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order	tis	18825	accessory	3616	19.208499335989377
+N_yunnanensis_v10	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order	tis	18825	core	10386	55.17131474103586
+N_yunnanensis_v10	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order	tis	18825	unique	4792	25.45551128818061
+N_yunnanensis_v10	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order	tts	18809	accessory	3614	19.21420596522941
+N_yunnanensis_v10	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order	tts	18809	core	10375	55.15976394279334
+N_yunnanensis_v10	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order	tts	18809	unique	4785	25.439948960603967
+O_anomalum_v10	Orthotrichum anomalum	Mosses	Orthotrichales	trained	acceptor	20414	accessory	4302	21.073772900950328
+O_anomalum_v10	Orthotrichum anomalum	Mosses	Orthotrichales	trained	acceptor	20414	core	11474	56.20652493386891
+O_anomalum_v10	Orthotrichum anomalum	Mosses	Orthotrichales	trained	acceptor	20414	unique	4605	22.558048398158128
+O_anomalum_v10	Orthotrichum anomalum	Mosses	Orthotrichales	trained	donor	20386	accessory	4297	21.07819091533405
+O_anomalum_v10	Orthotrichum anomalum	Mosses	Orthotrichales	trained	donor	20386	core	11459	56.21014421661925
+O_anomalum_v10	Orthotrichum anomalum	Mosses	Orthotrichales	trained	donor	20386	unique	4597	22.54978907093103
+O_anomalum_v10	Orthotrichum anomalum	Mosses	Orthotrichales	trained	tis	26046	accessory	5793	22.24141902787376
+O_anomalum_v10	Orthotrichum anomalum	Mosses	Orthotrichales	trained	tis	26046	core	12704	48.77524379943178
+O_anomalum_v10	Orthotrichum anomalum	Mosses	Orthotrichales	trained	tis	26046	unique	7517	28.86047761652461
+O_anomalum_v10	Orthotrichum anomalum	Mosses	Orthotrichales	trained	tts	26045	accessory	5793	22.2422729890574
+O_anomalum_v10	Orthotrichum anomalum	Mosses	Orthotrichales	trained	tts	26045	core	12702	48.76943751199846
+O_anomalum_v10	Orthotrichum anomalum	Mosses	Orthotrichales	trained	tts	26045	unique	7517	28.86158571702822
+O_sphagni_v10	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	9316	accessory	1573	16.88492915414341
+O_sphagni_v10	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	9316	core	7184	77.11464147702877
+O_sphagni_v10	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	9316	unique	536	5.7535422928295405
+O_sphagni_v10	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order	donor	9289	accessory	1573	16.934007966411887
+O_sphagni_v10	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order	donor	9289	core	7159	77.06965227688664
+O_sphagni_v10	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order	donor	9289	unique	536	5.770265905910216
+O_sphagni_v10	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order	tis	12661	accessory	2862	22.60484953795119
+O_sphagni_v10	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order	tis	12661	core	8266	65.2871021246347
+O_sphagni_v10	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order	tis	12661	unique	1525	12.044862175183635
+O_sphagni_v10	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order	tts	13289	accessory	2993	22.522386936564075
+O_sphagni_v10	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order	tts	13289	core	8696	65.43757995334487
+O_sphagni_v10	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order	tts	13289	unique	1578	11.8744826548273
+P_ambigua_v10	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order	acceptor	17978	accessory	3051	16.970742018022026
+P_ambigua_v10	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order	acceptor	17978	core	10400	57.84848147736122
+P_ambigua_v10	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order	acceptor	17978	unique	4505	25.058404716876183
+P_ambigua_v10	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order	donor	17962	accessory	3049	16.974724418216233
+P_ambigua_v10	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order	donor	17962	core	10391	57.84990535575103
+P_ambigua_v10	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order	donor	17962	unique	4500	25.05288943324797
+P_ambigua_v10	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order	tis	27081	accessory	5301	19.574609504818877
+P_ambigua_v10	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order	tis	27081	core	13082	48.30693105867582
+P_ambigua_v10	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order	tis	27081	unique	8680	32.05199217163325
+P_ambigua_v10	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order	tts	27086	accessory	5304	19.582071919072582
+P_ambigua_v10	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order	tts	27086	core	13075	48.27217012478771
+P_ambigua_v10	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order	tts	27086	unique	8684	32.06084324005021
+P_appendiculatum_v10	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order	acceptor	15652	accessory	2711	17.32047022744697
+P_appendiculatum_v10	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order	acceptor	15652	core	9876	63.09736774853054
+P_appendiculatum_v10	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order	acceptor	15652	unique	3045	19.45438282647585
+P_appendiculatum_v10	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order	donor	15635	accessory	2708	17.320115126319156
+P_appendiculatum_v10	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order	donor	15635	core	9868	63.114806523824754
+P_appendiculatum_v10	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order	donor	15635	unique	3039	19.437160217460825
+P_appendiculatum_v10	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order	tis	20601	accessory	4224	20.50385903596913
+P_appendiculatum_v10	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order	tis	20601	core	11476	55.706033687685064
+P_appendiculatum_v10	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order	tis	20601	unique	4883	23.702732877044802
+P_appendiculatum_v10	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order	tts	20609	accessory	4224	20.49589984958028
+P_appendiculatum_v10	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order	tts	20609	core	11479	55.69896647095929
+P_appendiculatum_v10	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order	tts	20609	unique	4886	23.70808869911204
+P_caespitans_v10	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order	acceptor	10489	accessory	1898	18.095147297168463
+P_caespitans_v10	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order	acceptor	10489	core	6664	63.53322528363047
+P_caespitans_v10	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order	acceptor	10489	unique	1827	17.41824768805415
+P_caespitans_v10	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order	donor	10389	accessory	1888	18.17306766772548
+P_caespitans_v10	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order	donor	10389	core	6612	63.64423909904707
+P_caespitans_v10	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order	donor	10389	unique	1810	17.422273558571565
+P_caespitans_v10	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order	tis	11075	accessory	2522	22.772009029345373
+P_caespitans_v10	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order	tis	11075	core	5620	50.74492099322799
+P_caespitans_v10	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order	tis	11075	unique	2922	26.38374717832957
+P_caespitans_v10	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order	tts	12822	accessory	2767	21.58009670878178
+P_caespitans_v10	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order	tts	12822	core	6621	51.63781001403837
+P_caespitans_v10	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order	tts	12822	unique	3349	26.119170176259555
+P_chinensis_v10	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order	acceptor	17837	accessory	4129	23.148511520995683
+P_chinensis_v10	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order	acceptor	17837	core	8557	47.97331389807703
+P_chinensis_v10	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order	acceptor	17837	unique	5076	28.45770028592252
+P_chinensis_v10	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order	donor	17797	accessory	4149	23.312917907512503
+P_chinensis_v10	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order	donor	17797	core	8525	47.901331685115466
+P_chinensis_v10	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order	donor	17797	unique	5060	28.431758161487892
+P_chinensis_v10	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order	tis	27676	accessory	7880	28.47232258996965
+P_chinensis_v10	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order	tis	27676	core	9531	34.43778002601532
+P_chinensis_v10	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order	tis	27676	unique	10229	36.959820783350196
+P_chinensis_v10	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order	tts	27952	accessory	7900	28.26273611906125
+P_chinensis_v10	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order	tts	27952	core	9737	34.8347166571265
+P_chinensis_v10	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order	tts	27952	unique	10241	36.63780767029193
+P_ciliare_v10	Plagiomnium ciliare	Mosses	Bryales	unseen_order	acceptor	20097	accessory	4403	21.908742598397772
+P_ciliare_v10	Plagiomnium ciliare	Mosses	Bryales	unseen_order	acceptor	20097	core	11272	56.08797332935264
+P_ciliare_v10	Plagiomnium ciliare	Mosses	Bryales	unseen_order	acceptor	20097	unique	4385	21.819176991590783
+P_ciliare_v10	Plagiomnium ciliare	Mosses	Bryales	unseen_order	donor	20038	accessory	4382	21.868449945104302
+P_ciliare_v10	Plagiomnium ciliare	Mosses	Bryales	unseen_order	donor	20038	core	11247	56.128356123365606
+P_ciliare_v10	Plagiomnium ciliare	Mosses	Bryales	unseen_order	donor	20038	unique	4374	21.82852580097814
+P_ciliare_v10	Plagiomnium ciliare	Mosses	Bryales	unseen_order	tis	27075	accessory	6781	25.045244690674053
+P_ciliare_v10	Plagiomnium ciliare	Mosses	Bryales	unseen_order	tis	27075	core	11922	44.03324099722992
+P_ciliare_v10	Plagiomnium ciliare	Mosses	Bryales	unseen_order	tis	27075	unique	8361	30.8808864265928
+P_ciliare_v10	Plagiomnium ciliare	Mosses	Bryales	unseen_order	tts	27222	accessory	6814	25.031224744691794
+P_ciliare_v10	Plagiomnium ciliare	Mosses	Bryales	unseen_order	tts	27222	core	11989	44.04158401293072
+P_ciliare_v10	Plagiomnium ciliare	Mosses	Bryales	unseen_order	tts	27222	unique	8380	30.783924766732788
+P_cinclidioides_v10	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order	acceptor	16385	accessory	3665	22.36801953005798
+P_cinclidioides_v10	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order	acceptor	16385	core	10449	63.77174244736039
+P_cinclidioides_v10	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order	acceptor	16385	unique	2197	13.408605431797376
+P_cinclidioides_v10	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order	donor	16377	accessory	3664	22.372839958478355
+P_cinclidioides_v10	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order	donor	16377	core	10431	63.6929840630152
+P_cinclidioides_v10	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order	donor	16377	unique	2215	13.52506564083776
+P_cinclidioides_v10	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order	tis	20135	accessory	5489	27.26098832878073
+P_cinclidioides_v10	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order	tis	20135	core	10231	50.81201887260988
+P_cinclidioides_v10	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order	tis	20135	unique	4405	21.87732803575863
+P_cinclidioides_v10	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order	tts	21033	accessory	5694	27.07174440165454
+P_cinclidioides_v10	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order	tts	21033	core	10524	50.035658251319354
+P_cinclidioides_v10	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order	tts	21033	unique	4742	22.545523700851042
+P_commune_v10	Polytrichum commune	Mosses	Polytrichales	unseen_order	acceptor	18595	accessory	4610	24.791610648023664
+P_commune_v10	Polytrichum commune	Mosses	Polytrichales	unseen_order	acceptor	18595	core	11102	59.70422156493681
+P_commune_v10	Polytrichum commune	Mosses	Polytrichales	unseen_order	acceptor	18595	unique	2852	15.337456305458456
+P_commune_v10	Polytrichum commune	Mosses	Polytrichales	unseen_order	donor	18567	accessory	4599	24.769752787203103
+P_commune_v10	Polytrichum commune	Mosses	Polytrichales	unseen_order	donor	18567	core	11096	59.76194323261701
+P_commune_v10	Polytrichum commune	Mosses	Polytrichales	unseen_order	donor	18567	unique	2845	15.322884687887111
+P_commune_v10	Polytrichum commune	Mosses	Polytrichales	unseen_order	tis	23478	accessory	6564	27.958088423204703
+P_commune_v10	Polytrichum commune	Mosses	Polytrichales	unseen_order	tis	23478	core	12208	51.99761478831246
+P_commune_v10	Polytrichum commune	Mosses	Polytrichales	unseen_order	tis	23478	unique	4684	19.9505920436153
+P_commune_v10	Polytrichum commune	Mosses	Polytrichales	unseen_order	tts	23483	accessory	6557	27.92232678959247
+P_commune_v10	Polytrichum commune	Mosses	Polytrichales	unseen_order	tts	23483	core	12207	51.982285057275476
+P_commune_v10	Polytrichum commune	Mosses	Polytrichales	unseen_order	tts	23483	unique	4690	19.971894562023593
+P_cygnisetum_v10	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order	acceptor	12926	accessory	2491	19.271236267987003
+P_cygnisetum_v10	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order	acceptor	12926	core	9000	69.627108154108
+P_cygnisetum_v10	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order	acceptor	12926	unique	1402	10.846356181339935
+P_cygnisetum_v10	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order	donor	12878	accessory	2466	19.148936170212767
+P_cygnisetum_v10	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order	donor	12878	core	8989	69.80121136822488
+P_cygnisetum_v10	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order	donor	12878	unique	1396	10.840192576487032
+P_cygnisetum_v10	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order	tis	16217	accessory	3588	22.124930628352963
+P_cygnisetum_v10	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order	tis	16217	core	9461	58.340013566010974
+P_cygnisetum_v10	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order	tis	16217	unique	3163	19.50422396250848
+P_cygnisetum_v10	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order	tts	16568	accessory	3660	22.09077740222115
+P_cygnisetum_v10	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order	tts	16568	core	9695	58.5164171897634
+P_cygnisetum_v10	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order	tts	16568	unique	3177	19.175519072911637
+P_enerve_v10	Paraleucobryum enerve	Mosses	Dicranales	trained	acceptor	27366	accessory	8822	32.23708251114522
+P_enerve_v10	Paraleucobryum enerve	Mosses	Dicranales	trained	acceptor	27366	core	13616	49.75517064971132
+P_enerve_v10	Paraleucobryum enerve	Mosses	Dicranales	trained	acceptor	27366	unique	4895	17.88715924870277
+P_enerve_v10	Paraleucobryum enerve	Mosses	Dicranales	trained	donor	27343	accessory	8817	32.245913030757414
+P_enerve_v10	Paraleucobryum enerve	Mosses	Dicranales	trained	donor	27343	core	13603	49.74947884284826
+P_enerve_v10	Paraleucobryum enerve	Mosses	Dicranales	trained	donor	27343	unique	4890	17.88391910178108
+P_enerve_v10	Paraleucobryum enerve	Mosses	Dicranales	trained	tis	38450	accessory	14063	36.57477243172952
+P_enerve_v10	Paraleucobryum enerve	Mosses	Dicranales	trained	tis	38450	core	15575	40.507152145643694
+P_enerve_v10	Paraleucobryum enerve	Mosses	Dicranales	trained	tis	38450	unique	8783	22.842652795838752
+P_enerve_v10	Paraleucobryum enerve	Mosses	Dicranales	trained	tts	38456	accessory	14063	36.56906594549615
+P_enerve_v10	Paraleucobryum enerve	Mosses	Dicranales	trained	tts	38456	core	15576	40.503432494279174
+P_enerve_v10	Paraleucobryum enerve	Mosses	Dicranales	trained	tts	38456	unique	8784	22.841689203245267
+P_hirtellus_v10	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	16120	accessory	3794	23.535980148883375
+P_hirtellus_v10	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	16120	core	9638	59.78908188585608
+P_hirtellus_v10	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	16120	unique	2650	16.439205955334987
+P_hirtellus_v10	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order	donor	16069	accessory	3784	23.548447320928496
+P_hirtellus_v10	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order	donor	16069	core	9616	59.84193166967453
+P_hirtellus_v10	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order	donor	16069	unique	2639	16.422926131059803
+P_hirtellus_v10	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order	tis	23035	accessory	6889	29.90666377252008
+P_hirtellus_v10	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order	tis	23035	core	11769	51.091816800520945
+P_hirtellus_v10	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order	tis	23035	unique	4353	18.897330149772085
+P_hirtellus_v10	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order	tts	23121	accessory	6905	29.864625232472644
+P_hirtellus_v10	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order	tts	23121	core	11819	51.11803122702305
+P_hirtellus_v10	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order	tts	23121	unique	4356	18.840015570260803
+P_laevis_1032_v10	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained	acceptor	11427	accessory	2089	18.28126367375514
+P_laevis_1032_v10	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained	acceptor	11427	core	7660	67.03421720486567
+P_laevis_1032_v10	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained	acceptor	11427	unique	1650	14.439485429246522
+P_laevis_1032_v10	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained	donor	11406	accessory	2083	18.262318078204455
+P_laevis_1032_v10	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained	donor	11406	core	7664	67.19270559354726
+P_laevis_1032_v10	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained	donor	11406	unique	1632	14.308258811152026
+P_laevis_1032_v10	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained	tis	14028	accessory	2839	20.238095238095237
+P_laevis_1032_v10	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained	tis	14028	core	8806	62.77445109780439
+P_laevis_1032_v10	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained	tis	14028	unique	2360	16.823495865412035
+P_laevis_1032_v10	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained	tts	14028	accessory	2830	20.1739378386085
+P_laevis_1032_v10	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained	tts	14028	core	8805	62.76732249786142
+P_laevis_1032_v10	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained	tts	14028	unique	2364	16.852010265183917
+P_laevis_902_v10	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order	acceptor	10446	accessory	2029	19.42370285276661
+P_laevis_902_v10	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order	acceptor	10446	core	6746	64.57974344246601
+P_laevis_902_v10	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order	acceptor	10446	unique	1630	15.604058969940647
+P_laevis_902_v10	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order	donor	10402	accessory	2020	19.41934243414728
+P_laevis_902_v10	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order	donor	10402	core	6730	64.6990963276293
+P_laevis_902_v10	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order	donor	10402	unique	1613	15.506633339742358
+P_laevis_902_v10	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order	tis	12390	accessory	2702	21.807909604519775
+P_laevis_902_v10	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order	tis	12390	core	7483	60.3954802259887
+P_laevis_902_v10	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order	tis	12390	unique	2174	17.54640839386602
+P_laevis_902_v10	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order	tts	12419	accessory	2716	21.86971575811257
+P_laevis_902_v10	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order	tts	12419	core	7508	60.45575328126258
+P_laevis_902_v10	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order	tts	12419	unique	2155	17.352443836057653
+P_magellanicus_v10	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order	acceptor	14004	accessory	2986	21.322479291630962
+P_magellanicus_v10	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order	acceptor	14004	core	10047	71.74378748928878
+P_magellanicus_v10	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order	acceptor	14004	unique	937	6.690945444158812
+P_magellanicus_v10	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order	donor	13987	accessory	2980	21.305497962393652
+P_magellanicus_v10	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order	donor	13987	core	10044	71.80953742761136
+P_magellanicus_v10	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order	donor	13987	unique	933	6.670479731178952
+P_magellanicus_v10	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order	tis	18258	accessory	4781	26.18578157519991
+P_magellanicus_v10	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order	tis	18258	core	11000	60.247562712235734
+P_magellanicus_v10	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order	tis	18258	unique	2468	13.517362252163435
+P_magellanicus_v10	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order	tts	18370	accessory	4776	25.998911268372346
+P_magellanicus_v10	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order	tts	18370	core	11079	60.310288513881325
+P_magellanicus_v10	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order	tts	18370	unique	2479	13.494828524768645
+P_microstomum_v10	Pogonatum microstomum	Mosses	Polytrichales	unseen_order	acceptor	16739	accessory	3748	22.39082382460123
+P_microstomum_v10	Pogonatum microstomum	Mosses	Polytrichales	unseen_order	acceptor	16739	core	10622	63.45659836310413
+P_microstomum_v10	Pogonatum microstomum	Mosses	Polytrichales	unseen_order	acceptor	16739	unique	2345	14.00920007168887
+P_microstomum_v10	Pogonatum microstomum	Mosses	Polytrichales	unseen_order	donor	16700	accessory	3740	22.395209580838323
+P_microstomum_v10	Pogonatum microstomum	Mosses	Polytrichales	unseen_order	donor	16700	core	10602	63.48502994011976
+P_microstomum_v10	Pogonatum microstomum	Mosses	Polytrichales	unseen_order	donor	16700	unique	2338	14
+P_microstomum_v10	Pogonatum microstomum	Mosses	Polytrichales	unseen_order	tis	21005	accessory	5533	26.341347298262317
+P_microstomum_v10	Pogonatum microstomum	Mosses	Polytrichales	unseen_order	tis	21005	core	11603	55.23922875505832
+P_microstomum_v10	Pogonatum microstomum	Mosses	Polytrichales	unseen_order	tis	21005	unique	3852	18.338490835515355
+P_microstomum_v10	Pogonatum microstomum	Mosses	Polytrichales	unseen_order	tts	21015	accessory	5520	26.266952177016417
+P_microstomum_v10	Pogonatum microstomum	Mosses	Polytrichales	unseen_order	tts	21015	core	11627	55.327147275755415
+P_microstomum_v10	Pogonatum microstomum	Mosses	Polytrichales	unseen_order	tts	21015	unique	3842	18.28217939566976
+P_ohioense_v10	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order	acceptor	21060	accessory	4836	22.962962962962962
+P_ohioense_v10	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order	acceptor	21060	core	14583	69.24501424501425
+P_ohioense_v10	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order	acceptor	21060	unique	1554	7.378917378917379
+P_ohioense_v10	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order	donor	21077	accessory	4846	22.991886890923755
+P_ohioense_v10	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order	donor	21077	core	14601	69.27456469136973
+P_ohioense_v10	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order	donor	21077	unique	1553	7.368221283863927
+P_ohioense_v10	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order	tis	28011	accessory	8081	28.849380600478383
+P_ohioense_v10	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order	tis	28011	core	15999	57.116846952982755
+P_ohioense_v10	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order	tis	28011	unique	3929	14.02663239441648
+P_ohioense_v10	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order	tts	28097	accessory	8044	28.62939103818913
+P_ohioense_v10	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order	tts	28097	core	16017	57.00608605900986
+P_ohioense_v10	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order	tts	28097	unique	3947	14.047763106381463
+P_patens_v33	Physcomitrium patens	Mosses	Funariales	trained	acceptor	23302	accessory	3712	15.929963093296713
+P_patens_v33	Physcomitrium patens	Mosses	Funariales	trained	acceptor	23302	core	16197	69.50905501673677
+P_patens_v33	Physcomitrium patens	Mosses	Funariales	trained	acceptor	23302	unique	2792	11.98180413698395
+P_patens_v33	Physcomitrium patens	Mosses	Funariales	trained	donor	23005	accessory	3645	15.844381656161705
+P_patens_v33	Physcomitrium patens	Mosses	Funariales	trained	donor	23005	core	16113	70.04129537057162
+P_patens_v33	Physcomitrium patens	Mosses	Funariales	trained	donor	23005	unique	2708	11.771354053466638
+P_patens_v33	Physcomitrium patens	Mosses	Funariales	trained	tis	31203	accessory	5184	16.613787135852323
+P_patens_v33	Physcomitrium patens	Mosses	Funariales	trained	tis	31203	core	18392	58.94305034772297
+P_patens_v33	Physcomitrium patens	Mosses	Funariales	trained	tis	31203	unique	6804	21.805595615806173
+P_patens_v33	Physcomitrium patens	Mosses	Funariales	trained	tts	32101	accessory	5315	16.55711660072895
+P_patens_v33	Physcomitrium patens	Mosses	Funariales	trained	tts	32101	core	18571	57.851780318370146
+P_patens_v33	Physcomitrium patens	Mosses	Funariales	trained	tts	32101	unique	7162	22.310831438272952
+P_platyphylla_v10	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order	acceptor	10888	accessory	2161	19.847538574577516
+P_platyphylla_v10	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order	acceptor	10888	core	7559	69.4250551065393
+P_platyphylla_v10	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order	acceptor	10888	unique	1142	10.488611315209404
+P_platyphylla_v10	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order	donor	10852	accessory	2152	19.83044600073719
+P_platyphylla_v10	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order	donor	10852	core	7542	69.498709915223
+P_platyphylla_v10	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order	donor	10852	unique	1133	10.44047180243273
+P_platyphylla_v10	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order	tis	16611	accessory	4527	27.25302510384685
+P_platyphylla_v10	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order	tis	16611	core	8779	52.85052073926916
+P_platyphylla_v10	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order	tis	16611	unique	3297	19.84829329962073
+P_platyphylla_v10	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order	tts	17075	accessory	4643	27.191800878477306
+P_platyphylla_v10	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order	tts	17075	core	9017	52.80819912152269
+P_platyphylla_v10	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order	tts	17075	unique	3389	19.847730600292827
+P_pulcherrimum_v10	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order	acceptor	7988	accessory	1195	14.959939909864797
+P_pulcherrimum_v10	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order	acceptor	7988	core	5118	64.07110665998998
+P_pulcherrimum_v10	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order	acceptor	7988	unique	1581	19.792188282423634
+P_pulcherrimum_v10	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order	donor	7923	accessory	1183	14.931212924397324
+P_pulcherrimum_v10	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order	donor	7923	core	5090	64.24334216837056
+P_pulcherrimum_v10	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order	donor	7923	unique	1564	19.739997475703646
+P_pulcherrimum_v10	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order	tis	8258	accessory	1445	17.498183579559214
+P_pulcherrimum_v10	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order	tis	8258	core	4408	53.37854201985953
+P_pulcherrimum_v10	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order	tis	8258	unique	2399	29.050617582949865
+P_pulcherrimum_v10	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order	tts	9437	accessory	1554	16.467097594574547
+P_pulcherrimum_v10	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order	tts	9437	core	5142	54.48765497509802
+P_pulcherrimum_v10	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order	tts	9437	unique	2673	28.324679453216064
+P_purpurea_v10	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order	acceptor	32245	accessory	9387	29.11149015351217
+P_purpurea_v10	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order	acceptor	32245	core	10700	33.18343929291363
+P_purpurea_v10	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order	acceptor	32245	unique	12127	37.60893161730501
+P_purpurea_v10	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order	donor	32216	accessory	9378	29.109759125900172
+P_purpurea_v10	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order	donor	32216	core	10687	33.17295753662776
+P_purpurea_v10	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order	donor	32216	unique	12120	37.62105785944872
+P_purpurea_v10	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order	tis	57266	accessory	17751	30.99745049418503
+P_purpurea_v10	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order	tis	57266	core	13540	23.644047078545732
+P_purpurea_v10	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order	tis	57266	unique	25946	45.30786155834177
+P_purpurea_v10	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order	tts	57268	accessory	17750	30.99462177830551
+P_purpurea_v10	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order	tts	57268	core	13537	23.637982817629393
+P_purpurea_v10	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order	tts	57268	unique	25946	45.306279248445904
+P_semidecurrens_v10	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	9510	accessory	1966	20.67297581493165
+P_semidecurrens_v10	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	9510	core	6318	66.43533123028391
+P_semidecurrens_v10	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	9510	unique	1165	12.250262881177708
+P_semidecurrens_v10	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order	donor	9473	accessory	1959	20.679826876385516
+P_semidecurrens_v10	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order	donor	9473	core	6327	66.78982370949014
+P_semidecurrens_v10	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order	donor	9473	unique	1144	12.07642774200359
+P_semidecurrens_v10	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order	tis	14043	accessory	3725	26.52567115288756
+P_semidecurrens_v10	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order	tis	14043	core	6928	49.334187851598664
+P_semidecurrens_v10	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order	tis	14043	unique	3387	24.11877803888058
+P_semidecurrens_v10	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order	tts	14973	accessory	3918	26.167100781406532
+P_semidecurrens_v10	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order	tts	14973	core	7374	49.248647565618114
+P_semidecurrens_v10	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order	tts	14973	unique	3616	24.150136913110266
+P_spiniforme_v10	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained	acceptor	23638	accessory	5818	24.612911413825195
+P_spiniforme_v10	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained	acceptor	23638	core	12971	54.87350875708605
+P_spiniforme_v10	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained	acceptor	23638	unique	4830	20.43320077840765
+P_spiniforme_v10	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained	donor	23601	accessory	5803	24.58794118893267
+P_spiniforme_v10	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained	donor	23601	core	12953	54.883267658150075
+P_spiniforme_v10	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained	donor	23601	unique	4826	20.448286089572477
+P_spiniforme_v10	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained	tis	29881	accessory	8209	27.47230681704093
+P_spiniforme_v10	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained	tis	29881	core	14328	47.950202469796864
+P_spiniforme_v10	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained	tis	29881	unique	7327	24.52059837354841
+P_spiniforme_v10	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained	tts	29894	accessory	8214	27.47708570281662
+P_spiniforme_v10	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained	tts	29894	core	14333	47.9460761356794
+P_spiniforme_v10	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained	tts	29894	unique	7327	24.509935104034255
+P_strictum_v10	Polytrichum strictum	Mosses	Polytrichales	unseen_order	acceptor	11929	accessory	2686	22.516556291390728
+P_strictum_v10	Polytrichum strictum	Mosses	Polytrichales	unseen_order	acceptor	11929	core	8500	71.25492497275548
+P_strictum_v10	Polytrichum strictum	Mosses	Polytrichales	unseen_order	acceptor	11929	unique	679	5.692011065470702
+P_strictum_v10	Polytrichum strictum	Mosses	Polytrichales	unseen_order	donor	11954	accessory	2667	22.31052367408399
+P_strictum_v10	Polytrichum strictum	Mosses	Polytrichales	unseen_order	donor	11954	core	8565	71.64965701857119
+P_strictum_v10	Polytrichum strictum	Mosses	Polytrichales	unseen_order	donor	11954	unique	668	5.588087669399364
+P_strictum_v10	Polytrichum strictum	Mosses	Polytrichales	unseen_order	tis	14594	accessory	4052	27.764834863642594
+P_strictum_v10	Polytrichum strictum	Mosses	Polytrichales	unseen_order	tis	14594	core	8648	59.257228998218444
+P_strictum_v10	Polytrichum strictum	Mosses	Polytrichales	unseen_order	tis	14594	unique	1890	12.950527614087981
+P_strictum_v10	Polytrichum strictum	Mosses	Polytrichales	unseen_order	tts	15108	accessory	4199	27.793222133968758
+P_strictum_v10	Polytrichum strictum	Mosses	Polytrichales	unseen_order	tts	15108	core	8782	58.128144029653164
+P_strictum_v10	Polytrichum strictum	Mosses	Polytrichales	unseen_order	tts	15108	unique	2068	13.688112258406143
+P_subfuscatum_v10	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order	acceptor	17393	accessory	4239	24.371873742310125
+P_subfuscatum_v10	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order	acceptor	17393	core	10462	60.15063531305697
+P_subfuscatum_v10	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order	acceptor	17393	unique	2611	15.011786350830794
+P_subfuscatum_v10	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order	donor	17342	accessory	4229	24.38588398108638
+P_subfuscatum_v10	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order	donor	17342	core	10447	60.2410333294891
+P_subfuscatum_v10	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order	donor	17342	unique	2596	14.969438357744204
+P_subfuscatum_v10	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order	tis	22081	accessory	6399	28.97966577600652
+P_subfuscatum_v10	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order	tis	22081	core	11322	51.27485168244192
+P_subfuscatum_v10	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order	tis	22081	unique	4327	19.596032788370092
+P_subfuscatum_v10	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order	tts	22173	accessory	6425	28.976683353628285
+P_subfuscatum_v10	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order	tts	22173	core	11325	51.07563252604519
+P_subfuscatum_v10	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order	tts	22173	unique	4339	19.56884499165652
+P_subulatum_v10	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order	acceptor	20043	accessory	4121	20.560794292271616
+P_subulatum_v10	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order	acceptor	20043	core	13025	64.98528164446441
+P_subulatum_v10	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order	acceptor	20043	unique	2851	14.224417502369905
+P_subulatum_v10	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order	donor	20031	accessory	4119	20.563127152912983
+P_subulatum_v10	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order	donor	20031	core	13018	64.9892666367131
+P_subulatum_v10	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order	donor	20031	unique	2848	14.217962158654085
+P_subulatum_v10	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order	tis	24819	accessory	5759	23.20399693782989
+P_subulatum_v10	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order	tis	24819	core	14496	58.406865707723924
+P_subulatum_v10	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order	tis	24819	unique	4526	18.23602884886579
+P_subulatum_v10	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order	tts	24864	accessory	5761	23.170045045045047
+P_subulatum_v10	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order	tts	24864	core	14525	58.417792792792795
+P_subulatum_v10	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order	tts	24864	unique	4530	18.219111969111967
+P_turneriana_v10	Philonotis turneriana	Mosses	Bartramiales	trained	acceptor	21912	accessory	4839	22.08378970427163
+P_turneriana_v10	Philonotis turneriana	Mosses	Bartramiales	trained	acceptor	21912	core	13207	60.272909821102594
+P_turneriana_v10	Philonotis turneriana	Mosses	Bartramiales	trained	acceptor	21912	unique	3829	17.474443227455275
+P_turneriana_v10	Philonotis turneriana	Mosses	Bartramiales	trained	donor	21898	accessory	4837	22.08877523061467
+P_turneriana_v10	Philonotis turneriana	Mosses	Bartramiales	trained	donor	21898	core	13196	60.261211069504064
+P_turneriana_v10	Philonotis turneriana	Mosses	Bartramiales	trained	donor	21898	unique	3828	17.48104849757969
+P_turneriana_v10	Philonotis turneriana	Mosses	Bartramiales	trained	tis	28195	accessory	7092	25.153395992197197
+P_turneriana_v10	Philonotis turneriana	Mosses	Bartramiales	trained	tis	28195	core	14810	52.52704380209257
+P_turneriana_v10	Philonotis turneriana	Mosses	Bartramiales	trained	tis	28195	unique	6261	22.20606490512502
+P_turneriana_v10	Philonotis turneriana	Mosses	Bartramiales	trained	tts	28200	accessory	7093	25.152482269503547
+P_turneriana_v10	Philonotis turneriana	Mosses	Bartramiales	trained	tts	28200	core	14809	52.51418439716312
+P_turneriana_v10	Philonotis turneriana	Mosses	Bartramiales	trained	tts	28200	unique	6261	22.20212765957447
+P_wilsonii_v10	Ptychomitrium wilsonii	Mosses	Grimmiales	trained	acceptor	20279	accessory	3856	19.014744316780906
+P_wilsonii_v10	Ptychomitrium wilsonii	Mosses	Grimmiales	trained	acceptor	20279	core	12638	62.320627249864394
+P_wilsonii_v10	Ptychomitrium wilsonii	Mosses	Grimmiales	trained	acceptor	20279	unique	3772	18.600522708220325
+P_wilsonii_v10	Ptychomitrium wilsonii	Mosses	Grimmiales	trained	donor	20258	accessory	3851	19.009773916477442
+P_wilsonii_v10	Ptychomitrium wilsonii	Mosses	Grimmiales	trained	donor	20258	core	12626	62.32599466877283
+P_wilsonii_v10	Ptychomitrium wilsonii	Mosses	Grimmiales	trained	donor	20258	unique	3768	18.60005923585744
+P_wilsonii_v10	Ptychomitrium wilsonii	Mosses	Grimmiales	trained	tis	24821	accessory	5025	20.244953869707103
+P_wilsonii_v10	Ptychomitrium wilsonii	Mosses	Grimmiales	trained	tis	24821	core	13994	56.37967849804601
+P_wilsonii_v10	Ptychomitrium wilsonii	Mosses	Grimmiales	trained	tis	24821	unique	5790	23.327021473752065
+P_wilsonii_v10	Ptychomitrium wilsonii	Mosses	Grimmiales	trained	tts	24825	accessory	5025	20.241691842900302
+P_wilsonii_v10	Ptychomitrium wilsonii	Mosses	Grimmiales	trained	tts	24825	core	13997	56.38267875125881
+P_wilsonii_v10	Ptychomitrium wilsonii	Mosses	Grimmiales	trained	tts	24825	unique	5790	23.323262839879153
+Plagiochila_sp_v10	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	9692	accessory	1692	17.457697069748246
+Plagiochila_sp_v10	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	9692	core	6996	72.18324391250516
+Plagiochila_sp_v10	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	9692	unique	977	10.080478745356995
+Plagiochila_sp_v10	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order	donor	9687	accessory	1687	17.415092391865386
+Plagiochila_sp_v10	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order	donor	9687	core	7000	72.26179415711779
+Plagiochila_sp_v10	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order	donor	9687	unique	974	10.054712501290389
+Plagiochila_sp_v10	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order	tis	14545	accessory	3450	23.719491234101067
+Plagiochila_sp_v10	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order	tis	14545	core	8211	56.45238913716054
+Plagiochila_sp_v10	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order	tis	14545	unique	2879	19.793743554486078
+Plagiochila_sp_v10	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order	tts	15220	accessory	3609	23.71222076215506
+Plagiochila_sp_v10	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order	tts	15220	core	8543	56.13009198423128
+Plagiochila_sp_v10	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order	tts	15220	unique	3046	20.013140604467807
+R_cuspidigerum_v10	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained	acceptor	24492	accessory	5420	22.129674995917036
+R_cuspidigerum_v10	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained	acceptor	24492	core	12521	51.12281561326147
+R_cuspidigerum_v10	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained	acceptor	24492	unique	6525	26.641352278294953
+R_cuspidigerum_v10	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained	donor	24470	accessory	5416	22.13322435635472
+R_cuspidigerum_v10	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained	donor	24470	core	12506	51.107478545157335
+R_cuspidigerum_v10	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained	donor	24470	unique	6522	26.65304454434001
+R_cuspidigerum_v10	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained	tis	32677	accessory	7574	23.1783823484408
+R_cuspidigerum_v10	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained	tis	32677	core	13888	42.50084157052361
+R_cuspidigerum_v10	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained	tis	32677	unique	11193	34.2534504391468
+R_cuspidigerum_v10	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained	tts	32682	accessory	7574	23.174836301327947
+R_cuspidigerum_v10	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained	tts	32682	core	13888	42.49433939171409
+R_cuspidigerum_v10	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained	tts	32682	unique	11194	34.251269812129
+R_natans_v10	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order	acceptor	14160	accessory	2036	14.378531073446327
+R_natans_v10	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order	acceptor	14160	core	8955	63.24152542372882
+R_natans_v10	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order	acceptor	14160	unique	3141	22.18220338983051
+R_natans_v10	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order	donor	14141	accessory	2035	14.390778587087194
+R_natans_v10	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order	donor	14141	core	8946	63.26285269782901
+R_natans_v10	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order	donor	14141	unique	3132	22.14836291634255
+R_natans_v10	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order	tis	21314	accessory	3336	15.651684338932156
+R_natans_v10	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order	tis	21314	core	11366	53.3264520972131
+R_natans_v10	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order	tis	21314	unique	6583	30.885802758750117
+R_natans_v10	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order	tts	21318	accessory	3336	15.64874753729243
+R_natans_v10	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order	tts	21318	core	11370	53.33520968195891
+R_natans_v10	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order	tts	21318	unique	6582	30.875316633830565
+R_nitidulum_v10	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order	acceptor	23682	accessory	4720	19.93074909213749
+R_nitidulum_v10	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order	acceptor	23682	core	14551	61.443290262646734
+R_nitidulum_v10	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order	acceptor	23682	unique	4395	18.558398783886496
+R_nitidulum_v10	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order	donor	23662	accessory	4717	19.934916744146733
+R_nitidulum_v10	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order	donor	23662	core	14540	61.44873637055194
+R_nitidulum_v10	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order	donor	23662	unique	4389	18.54872791818105
+R_nitidulum_v10	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order	tis	30548	accessory	6491	21.248526908471913
+R_nitidulum_v10	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order	tis	30548	core	16165	52.91672122561215
+R_nitidulum_v10	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order	tis	30548	unique	7877	25.785648814979705
+R_nitidulum_v10	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order	tts	30548	accessory	6494	21.25834751865916
+R_nitidulum_v10	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order	tts	30548	core	16161	52.90362707869582
+R_nitidulum_v10	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order	tts	30548	unique	7877	25.785648814979705
+R_serrulatus_v10	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order	acceptor	18784	accessory	5958	31.718483816013627
+R_serrulatus_v10	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order	acceptor	18784	core	11214	59.69974446337309
+R_serrulatus_v10	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order	acceptor	18784	unique	1579	8.406090289608176
+R_serrulatus_v10	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order	donor	18773	accessory	5954	31.715761998615033
+R_serrulatus_v10	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order	donor	18773	core	11217	59.75070580088425
+R_serrulatus_v10	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order	donor	18773	unique	1571	8.368401427582166
+R_serrulatus_v10	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order	tis	23074	accessory	8503	36.85100112680939
+R_serrulatus_v10	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order	tis	23074	core	12091	52.400970789633355
+R_serrulatus_v10	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order	tis	23074	unique	2468	10.696021496056167
+R_serrulatus_v10	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order	tts	23146	accessory	8517	36.79685474812062
+R_serrulatus_v10	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order	tts	23146	core	12127	52.39350211699646
+R_serrulatus_v10	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order	tts	23146	unique	2467	10.658429102220687
+R_subpinnatus_v10	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order	acceptor	15868	accessory	4581	28.869422737585076
+R_subpinnatus_v10	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order	acceptor	15868	core	10311	64.97983362742627
+R_subpinnatus_v10	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order	acceptor	15868	unique	936	5.89866397781699
+R_subpinnatus_v10	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order	donor	15837	accessory	4567	28.837532360926943
+R_subpinnatus_v10	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order	donor	15837	core	10304	65.06282755572394
+R_subpinnatus_v10	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order	donor	15837	unique	932	5.884952958262297
+R_subpinnatus_v10	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order	tis	20099	accessory	7240	36.02169262152346
+R_subpinnatus_v10	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order	tis	20099	core	10973	54.59475595800786
+R_subpinnatus_v10	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order	tis	20099	unique	1878	9.343748445196278
+R_subpinnatus_v10	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order	tts	20298	accessory	7268	35.806483397379054
+R_subpinnatus_v10	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order	tts	20298	core	11109	54.729530002955954
+R_subpinnatus_v10	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order	tts	20298	unique	1882	9.271849443294906
+S_ampullaceum_v10	Splachnum ampullaceum	Mosses	Splachnales	unseen_order	acceptor	12526	accessory	1741	13.899089893022513
+S_ampullaceum_v10	Splachnum ampullaceum	Mosses	Splachnales	unseen_order	acceptor	12526	core	9302	74.26153600510938
+S_ampullaceum_v10	Splachnum ampullaceum	Mosses	Splachnales	unseen_order	acceptor	12526	unique	1440	11.496088136675715
+S_ampullaceum_v10	Splachnum ampullaceum	Mosses	Splachnales	unseen_order	donor	12524	accessory	1737	13.869370808048547
+S_ampullaceum_v10	Splachnum ampullaceum	Mosses	Splachnales	unseen_order	donor	12524	core	9313	74.36122644522517
+S_ampullaceum_v10	Splachnum ampullaceum	Mosses	Splachnales	unseen_order	donor	12524	unique	1437	11.473969977642925
+S_ampullaceum_v10	Splachnum ampullaceum	Mosses	Splachnales	unseen_order	tis	16745	accessory	2570	15.347865034338609
+S_ampullaceum_v10	Splachnum ampullaceum	Mosses	Splachnales	unseen_order	tis	16745	core	9918	59.22962078232308
+S_ampullaceum_v10	Splachnum ampullaceum	Mosses	Splachnales	unseen_order	tis	16745	unique	4253	25.398626455658405
+S_ampullaceum_v10	Splachnum ampullaceum	Mosses	Splachnales	unseen_order	tts	16918	accessory	2571	15.19683177680577
+S_ampullaceum_v10	Splachnum ampullaceum	Mosses	Splachnales	unseen_order	tts	16918	core	10051	59.41009575599953
+S_ampullaceum_v10	Splachnum ampullaceum	Mosses	Splachnales	unseen_order	tts	16918	unique	4259	25.174370492966073
+S_cupulare_v10	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order	acceptor	14138	accessory	2822	19.96039043711982
+S_cupulare_v10	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order	acceptor	14138	core	9881	69.88965907483379
+S_cupulare_v10	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order	acceptor	14138	unique	1403	9.92361012873108
+S_cupulare_v10	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order	donor	14122	accessory	2819	19.961761790114714
+S_cupulare_v10	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order	donor	14122	core	9870	69.89095029032715
+S_cupulare_v10	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order	donor	14122	unique	1402	9.927772270216684
+S_cupulare_v10	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order	tis	17147	accessory	4016	23.421006590074064
+S_cupulare_v10	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order	tis	17147	core	10357	60.401236367877765
+S_cupulare_v10	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order	tis	17147	unique	2770	16.154429346241326
+S_cupulare_v10	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order	tts	17427	accessory	4027	23.10782119699317
+S_cupulare_v10	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order	tts	17427	core	10606	60.85958570035003
+S_cupulare_v10	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order	tts	17427	unique	2758	15.826017099902451
+S_donnellii_v10	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order	acceptor	12092	accessory	1882	15.564009262322196
+S_donnellii_v10	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order	acceptor	12092	core	8298	68.6238835593781
+S_donnellii_v10	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order	acceptor	12092	unique	1884	15.580549123387364
+S_donnellii_v10	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order	donor	12054	accessory	1873	15.538410486145677
+S_donnellii_v10	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order	donor	12054	core	8295	68.81533101045297
+S_donnellii_v10	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order	donor	12054	unique	1860	15.430562468889995
+S_donnellii_v10	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order	tis	17933	accessory	3326	18.546813137790664
+S_donnellii_v10	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order	tis	17933	core	9850	54.92667149947025
+S_donnellii_v10	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order	tis	17933	unique	4740	26.431718061674008
+S_donnellii_v10	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order	tts	17995	accessory	3319	18.444012225618227
+S_donnellii_v10	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order	tts	17995	core	9864	54.815226451792164
+S_donnellii_v10	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order	tts	17995	unique	4785	26.59071964434565
+S_girgensohnii_v10	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order	acceptor	28369	accessory	3895	13.729775459127922
+S_girgensohnii_v10	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order	acceptor	28369	core	19038	67.1084634636399
+S_girgensohnii_v10	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order	acceptor	28369	unique	5369	18.925587789488524
+S_girgensohnii_v10	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order	donor	28359	accessory	3890	13.71698578934377
+S_girgensohnii_v10	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order	donor	28359	core	19038	67.13212736697345
+S_girgensohnii_v10	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order	donor	28359	unique	5364	18.914630276102823
+S_girgensohnii_v10	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order	tis	34246	accessory	4865	14.206038661449512
+S_girgensohnii_v10	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order	tis	34246	core	21003	61.32979034047772
+S_girgensohnii_v10	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order	tis	34246	unique	8324	24.306488349004262
+S_girgensohnii_v10	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order	tts	34229	accessory	4867	14.218937158549767
+S_girgensohnii_v10	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order	tts	34229	core	20971	61.266762102310906
+S_girgensohnii_v10	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order	tts	34229	unique	8326	24.32440328376523
+S_nepalensis_v10	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	16984	accessory	6074	35.76307112576543
+S_nepalensis_v10	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	16984	core	8779	51.68982571832313
+S_nepalensis_v10	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	16984	unique	2107	12.405793688177107
+S_nepalensis_v10	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order	donor	16995	accessory	6069	35.71050308914386
+S_nepalensis_v10	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order	donor	16995	core	8804	51.80347160929685
+S_nepalensis_v10	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order	donor	16995	unique	2100	12.35657546337158
+S_nepalensis_v10	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order	tis	32735	accessory	14325	43.760500992821136
+S_nepalensis_v10	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order	tis	32735	core	12258	37.44615854589888
+S_nepalensis_v10	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order	tis	32735	unique	6142	18.76279211852757
+S_nepalensis_v10	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order	tts	32764	accessory	14384	43.901843486753755
+S_nepalensis_v10	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order	tts	32764	core	12188	37.1993651568795
+S_nepalensis_v10	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order	tts	32764	unique	6162	18.80722744475644
+S_palustre_v10	Sphagnum palustre	Mosses	Sphagnales	unseen_order	acceptor	23824	accessory	3203	13.444425789120215
+S_palustre_v10	Sphagnum palustre	Mosses	Sphagnales	unseen_order	acceptor	23824	core	17986	75.49529885829416
+S_palustre_v10	Sphagnum palustre	Mosses	Sphagnales	unseen_order	acceptor	23824	unique	2516	10.560779046339825
+S_palustre_v10	Sphagnum palustre	Mosses	Sphagnales	unseen_order	donor	23806	accessory	3189	13.395782575821222
+S_palustre_v10	Sphagnum palustre	Mosses	Sphagnales	unseen_order	donor	23806	core	17992	75.57758548265143
+S_palustre_v10	Sphagnum palustre	Mosses	Sphagnales	unseen_order	donor	23806	unique	2522	10.593967907250272
+S_palustre_v10	Sphagnum palustre	Mosses	Sphagnales	unseen_order	tis	28804	accessory	4101	14.237605888071101
+S_palustre_v10	Sphagnum palustre	Mosses	Sphagnales	unseen_order	tis	28804	core	19184	66.60186085265936
+S_palustre_v10	Sphagnum palustre	Mosses	Sphagnales	unseen_order	tis	28804	unique	5508	19.12234411887238
+S_palustre_v10	Sphagnum palustre	Mosses	Sphagnales	unseen_order	tts	29189	accessory	4097	14.036109493302272
+S_palustre_v10	Sphagnum palustre	Mosses	Sphagnales	unseen_order	tts	29189	core	19459	66.66552468395628
+S_palustre_v10	Sphagnum palustre	Mosses	Sphagnales	unseen_order	tts	29189	unique	5507	18.866696358217137
+S_pennata_v10	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order	acceptor	16497	accessory	2666	16.160514032854458
+S_pennata_v10	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order	acceptor	16497	core	10296	62.4113475177305
+S_pennata_v10	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order	acceptor	16497	unique	3466	21.009880584348668
+S_pennata_v10	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order	donor	16491	accessory	2646	16.04511551755503
+S_pennata_v10	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order	donor	16491	core	10309	62.51288581650597
+S_pennata_v10	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order	donor	16491	unique	3468	21.02965253774786
+S_pennata_v10	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order	tis	18751	accessory	3176	16.937763319289637
+S_pennata_v10	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order	tis	18751	core	10602	56.54098448082769
+S_pennata_v10	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order	tis	18751	unique	4930	26.29193109700816
+S_pennata_v10	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order	tts	18821	accessory	3194	16.970405398225388
+S_pennata_v10	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order	tts	18821	core	10637	56.5166569257744
+S_pennata_v10	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order	tts	18821	unique	4924	26.162265554433876
+S_ruralis_v10	Syntrichia ruralis	Mosses	Pottiales	unseen_order	acceptor	30462	accessory	5724	18.790624384479024
+S_ruralis_v10	Syntrichia ruralis	Mosses	Pottiales	unseen_order	acceptor	30462	core	18240	59.87788063817215
+S_ruralis_v10	Syntrichia ruralis	Mosses	Pottiales	unseen_order	acceptor	30462	unique	6466	21.226446063948526
+S_ruralis_v10	Syntrichia ruralis	Mosses	Pottiales	unseen_order	donor	30440	accessory	5715	18.774638633377137
+S_ruralis_v10	Syntrichia ruralis	Mosses	Pottiales	unseen_order	donor	30440	core	18227	59.8784494086728
+S_ruralis_v10	Syntrichia ruralis	Mosses	Pottiales	unseen_order	donor	30440	unique	6465	21.23850197109067
+S_ruralis_v10	Syntrichia ruralis	Mosses	Pottiales	unseen_order	tis	43348	accessory	8885	20.49690873858079
+S_ruralis_v10	Syntrichia ruralis	Mosses	Pottiales	unseen_order	tis	43348	core	21178	48.8557718925902
+S_ruralis_v10	Syntrichia ruralis	Mosses	Pottiales	unseen_order	tis	43348	unique	13254	30.575805112115898
+S_ruralis_v10	Syntrichia ruralis	Mosses	Pottiales	unseen_order	tts	43357	accessory	8888	20.499573309961484
+S_ruralis_v10	Syntrichia ruralis	Mosses	Pottiales	unseen_order	tts	43357	core	21188	48.86869478976867
+S_ruralis_v10	Syntrichia ruralis	Mosses	Pottiales	unseen_order	tts	43357	unique	13248	30.555619623128905
+T_exsectiformis_v10	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	12858	accessory	3467	26.963757971690775
+T_exsectiformis_v10	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	12858	core	7783	60.530409083838855
+T_exsectiformis_v10	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	12858	unique	1588	12.350287758593872
+T_exsectiformis_v10	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order	donor	12877	accessory	3464	26.90067562320416
+T_exsectiformis_v10	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order	donor	12877	core	7806	60.61970955968005
+T_exsectiformis_v10	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order	donor	12877	unique	1589	12.339830705909762
+T_exsectiformis_v10	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order	tis	22132	accessory	7784	35.17079342129044
+T_exsectiformis_v10	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order	tis	22132	core	10031	45.32351346466655
+T_exsectiformis_v10	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order	tis	22132	unique	4305	19.451472980300018
+T_exsectiformis_v10	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order	tts	22663	accessory	7920	34.946829634205535
+T_exsectiformis_v10	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order	tts	22663	core	10287	45.39116621806469
+T_exsectiformis_v10	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order	tts	22663	unique	4434	19.564929620968098
+T_filiformis_v10	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	12017	accessory	2585	21.511192477323792
+T_filiformis_v10	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	12017	core	8964	74.59432470666556
+T_filiformis_v10	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	12017	unique	448	3.728051926437547
+T_filiformis_v10	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order	donor	12002	accessory	2584	21.52974504249292
+T_filiformis_v10	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order	donor	12002	core	8950	74.5709048491918
+T_filiformis_v10	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order	donor	12002	unique	449	3.741043159473421
+T_filiformis_v10	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order	tis	19014	accessory	5780	30.398653623645735
+T_filiformis_v10	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order	tis	19014	core	11709	61.58094035973493
+T_filiformis_v10	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order	tis	19014	unique	1511	7.946776059745451
+T_filiformis_v10	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order	tts	19422	accessory	5903	30.393368345175574
+T_filiformis_v10	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order	tts	19422	core	11956	61.559056739779635
+T_filiformis_v10	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order	tts	19422	unique	1541	7.934301307795284
+T_lacunosa_v10	Treubia lacunosa	Liverworts	Treubiales	unseen_order	acceptor	16898	accessory	2399	14.196946384187477
+T_lacunosa_v10	Treubia lacunosa	Liverworts	Treubiales	unseen_order	acceptor	16898	core	9573	56.65167475440881
+T_lacunosa_v10	Treubia lacunosa	Liverworts	Treubiales	unseen_order	acceptor	16898	unique	4893	28.95608947804474
+T_lacunosa_v10	Treubia lacunosa	Liverworts	Treubiales	unseen_order	donor	16870	accessory	2395	14.196799051570835
+T_lacunosa_v10	Treubia lacunosa	Liverworts	Treubiales	unseen_order	donor	16870	core	9558	56.65678719620628
+T_lacunosa_v10	Treubia lacunosa	Liverworts	Treubiales	unseen_order	donor	16870	unique	4887	28.96858328393598
+T_lacunosa_v10	Treubia lacunosa	Liverworts	Treubiales	unseen_order	tis	23460	accessory	3285	14.002557544757034
+T_lacunosa_v10	Treubia lacunosa	Liverworts	Treubiales	unseen_order	tis	23460	core	10715	45.673486786018756
+T_lacunosa_v10	Treubia lacunosa	Liverworts	Treubiales	unseen_order	tis	23460	unique	9449	40.2770673486786
+T_lacunosa_v10	Treubia lacunosa	Liverworts	Treubiales	unseen_order	tts	25135	accessory	3492	13.892977919236126
+T_lacunosa_v10	Treubia lacunosa	Liverworts	Treubiales	unseen_order	tts	25135	core	11216	44.62303560771832
+T_lacunosa_v10	Treubia lacunosa	Liverworts	Treubiales	unseen_order	tts	25135	unique	10391	41.34075989655858
+T_megapolitana_v10	Timmia megapolitana	Mosses	Timmiales	unseen_order	acceptor	21325	accessory	3246	15.221570926143025
+T_megapolitana_v10	Timmia megapolitana	Mosses	Timmiales	unseen_order	acceptor	21325	core	12624	59.19812426729191
+T_megapolitana_v10	Timmia megapolitana	Mosses	Timmiales	unseen_order	acceptor	21325	unique	5424	25.43493552168816
+T_megapolitana_v10	Timmia megapolitana	Mosses	Timmiales	unseen_order	donor	21306	accessory	3238	15.197596921055101
+T_megapolitana_v10	Timmia megapolitana	Mosses	Timmiales	unseen_order	donor	21306	core	12623	59.246221721580774
+T_megapolitana_v10	Timmia megapolitana	Mosses	Timmiales	unseen_order	donor	21306	unique	5414	25.410682436872243
+T_megapolitana_v10	Timmia megapolitana	Mosses	Timmiales	unseen_order	tis	25758	accessory	4106	15.94067862411678
+T_megapolitana_v10	Timmia megapolitana	Mosses	Timmiales	unseen_order	tis	25758	core	13877	53.8745244195978
+T_megapolitana_v10	Timmia megapolitana	Mosses	Timmiales	unseen_order	tis	25758	unique	7746	30.07221057535523
+T_megapolitana_v10	Timmia megapolitana	Mosses	Timmiales	unseen_order	tts	25751	accessory	4104	15.937245155527942
+T_megapolitana_v10	Timmia megapolitana	Mosses	Timmiales	unseen_order	tts	25751	core	13870	53.8619859422935
+T_megapolitana_v10	Timmia megapolitana	Mosses	Timmiales	unseen_order	tts	25751	unique	7746	30.080385227758146
+T_pellucida_1101_v10	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order	acceptor	18389	accessory	3381	18.385991625428247
+T_pellucida_1101_v10	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order	acceptor	18389	core	11369	61.825004078525204
+T_pellucida_1101_v10	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order	acceptor	18389	unique	3613	19.64761542226331
+T_pellucida_1101_v10	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order	donor	18375	accessory	3376	18.37278911564626
+T_pellucida_1101_v10	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order	donor	18375	core	11365	61.85034013605442
+T_pellucida_1101_v10	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order	donor	18375	unique	3608	19.635374149659864
+T_pellucida_1101_v10	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order	tis	23173	accessory	4760	20.541147024554437
+T_pellucida_1101_v10	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order	tis	23173	core	12864	55.512881370560564
+T_pellucida_1101_v10	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order	tis	23173	unique	5524	23.838087429335864
+T_pellucida_1101_v10	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order	tts	23174	accessory	4761	20.544575817726763
+T_pellucida_1101_v10	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order	tts	23174	core	12861	55.49754034694054
+T_pellucida_1101_v10	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order	tts	23174	unique	5526	23.84568913437473
+T_pellucida_128_v10	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order	acceptor	12581	accessory	2090	16.612351959303712
+T_pellucida_128_v10	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order	acceptor	12581	core	9199	73.11819410221763
+T_pellucida_128_v10	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order	acceptor	12581	unique	1233	9.800492806613146
+T_pellucida_128_v10	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order	donor	12560	accessory	2091	16.648089171974522
+T_pellucida_128_v10	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order	donor	12560	core	9185	73.12898089171975
+T_pellucida_128_v10	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order	donor	12560	unique	1231	9.800955414012739
+T_pellucida_128_v10	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order	tis	15146	accessory	2907	19.193186319820416
+T_pellucida_128_v10	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order	tis	15146	core	9725	64.20837184735244
+T_pellucida_128_v10	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order	tis	15146	unique	2506	16.545622606628815
+T_pellucida_128_v10	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order	tts	15420	accessory	2898	18.79377431906615
+T_pellucida_128_v10	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order	tts	15420	core	9955	64.55901426718547
+T_pellucida_128_v10	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order	tts	15420	unique	2509	16.27107652399481
+T_sandei_v10	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order	acceptor	40566	accessory	14453	35.62835872405463
+T_sandei_v10	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order	acceptor	40566	core	21846	53.852980328353794
+T_sandei_v10	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order	acceptor	40566	unique	4237	10.44470739042548
+T_sandei_v10	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order	donor	40544	accessory	14441	35.61809392265194
+T_sandei_v10	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order	donor	40544	core	21839	53.864936858721386
+T_sandei_v10	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order	donor	40544	unique	4236	10.447908445146014
+T_sandei_v10	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order	tis	52315	accessory	21064	40.26378667686132
+T_sandei_v10	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order	tis	52315	core	24419	46.676861320844885
+T_sandei_v10	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order	tis	52315	unique	6804	13.005830067858167
+T_sandei_v10	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order	tts	52310	accessory	21061	40.26190021028484
+T_sandei_v10	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order	tts	52310	core	24411	46.666029439877654
+T_sandei_v10	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order	tts	52310	unique	6804	13.007073217358057
+T_subglabra_v10	Tayloria subglabra	Mosses	Splachnales	unseen_order	acceptor	15734	accessory	2395	15.221812635057837
+T_subglabra_v10	Tayloria subglabra	Mosses	Splachnales	unseen_order	acceptor	15734	core	10182	64.71335960340663
+T_subglabra_v10	Tayloria subglabra	Mosses	Splachnales	unseen_order	acceptor	15734	unique	3123	19.848735223083768
+T_subglabra_v10	Tayloria subglabra	Mosses	Splachnales	unseen_order	donor	15744	accessory	2397	15.22484756097561
+T_subglabra_v10	Tayloria subglabra	Mosses	Splachnales	unseen_order	donor	15744	core	10198	64.77388211382114
+T_subglabra_v10	Tayloria subglabra	Mosses	Splachnales	unseen_order	donor	15744	unique	3120	19.817073170731707
+T_subglabra_v10	Tayloria subglabra	Mosses	Splachnales	unseen_order	tis	20005	accessory	3267	16.33091727068233
+T_subglabra_v10	Tayloria subglabra	Mosses	Splachnales	unseen_order	tis	20005	core	10984	54.90627343164209
+T_subglabra_v10	Tayloria subglabra	Mosses	Splachnales	unseen_order	tis	20005	unique	5744	28.712821794551363
+T_subglabra_v10	Tayloria subglabra	Mosses	Splachnales	unseen_order	tts	20045	accessory	3246	16.19356447992018
+T_subglabra_v10	Tayloria subglabra	Mosses	Splachnales	unseen_order	tts	20045	core	11006	54.9064604639561
+T_subglabra_v10	Tayloria subglabra	Mosses	Splachnales	unseen_order	tts	20045	unique	5755	28.710401596408083
+U_hutchinsiae_v10	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order	acceptor	16900	accessory	3556	21.041420118343197
+U_hutchinsiae_v10	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order	acceptor	16900	core	10541	62.37278106508876
+U_hutchinsiae_v10	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order	acceptor	16900	unique	2770	16.390532544378697
+U_hutchinsiae_v10	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order	donor	16856	accessory	3537	20.983626008542952
+U_hutchinsiae_v10	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order	donor	16856	core	10528	62.458471760797345
+U_hutchinsiae_v10	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order	donor	16856	unique	2761	16.379924062648314
+U_hutchinsiae_v10	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order	tis	22465	accessory	5289	23.543289561540174
+U_hutchinsiae_v10	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order	tis	22465	core	11664	51.92076563543289
+U_hutchinsiae_v10	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order	tis	22465	unique	5504	24.500333852659693
+U_hutchinsiae_v10	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order	tts	22535	accessory	5307	23.550033281562015
+U_hutchinsiae_v10	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order	tts	22535	core	11666	51.76836032837808
+U_hutchinsiae_v10	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order	tts	22535	unique	5525	24.517417350787664
+V_dusenii_v10	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	12856	accessory	2371	18.44275046670815
+V_dusenii_v10	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	12856	core	9107	70.83851897946484
+V_dusenii_v10	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	12856	unique	1363	10.602053515868077
+V_dusenii_v10	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order	donor	12811	accessory	2370	18.499726797283586
+V_dusenii_v10	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order	donor	12811	core	9072	70.81414409491843
+V_dusenii_v10	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order	donor	12811	unique	1355	10.576848021231754
+V_dusenii_v10	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order	tis	19523	accessory	4831	24.745172360805203
+V_dusenii_v10	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order	tis	19523	core	10996	56.32331096655227
+V_dusenii_v10	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order	tis	19523	unique	3686	18.88029503662347
+V_dusenii_v10	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order	tts	20260	accessory	4911	24.239881539980257
+V_dusenii_v10	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order	tts	20260	core	11453	56.53010858835143
+V_dusenii_v10	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order	tts	20260	unique	3882	19.160908193484698

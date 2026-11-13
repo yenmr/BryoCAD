@@ -1,0 +1,379 @@
+short_name	gene_category	n_genes	species	division	order	training_group
+A_agrestis_v10	accessory	5150	Anthoceros agrestis	Hornworts	Anthocerotales	trained
+A_agrestis_v10	core	11747	Anthoceros agrestis	Hornworts	Anthocerotales	trained
+A_agrestis_v10	unique	8860	Anthoceros agrestis	Hornworts	Anthocerotales	trained
+A_alternifolium_v10	accessory	15540	Archidium alternifolium	Mosses	Archidiales	unseen_order
+A_alternifolium_v10	core	16485	Archidium alternifolium	Mosses	Archidiales	unseen_order
+A_alternifolium_v10	unique	21398	Archidium alternifolium	Mosses	Archidiales	unseen_order
+A_androgynum_v10	accessory	6466	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order
+A_androgynum_v10	core	13538	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order
+A_androgynum_v10	unique	8553	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order
+A_angustatum_v10	accessory	7813	Atrichum angustatum	Mosses	Polytrichales	unseen_order
+A_angustatum_v10	core	13005	Atrichum angustatum	Mosses	Polytrichales	unseen_order
+A_angustatum_v10	unique	5564	Atrichum angustatum	Mosses	Polytrichales	unseen_order
+A_attenuatus_v10	accessory	8801	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order
+A_attenuatus_v10	core	13285	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order
+A_attenuatus_v10	unique	1662	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order
+A_macrosporum_v10	accessory	2320	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order
+A_macrosporum_v10	core	10192	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order
+A_macrosporum_v10	unique	1502	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order
+A_palustre_v10	accessory	7028	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order
+A_palustre_v10	core	14092	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order
+A_palustre_v10	unique	6555	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order
+A_rupestris_v10	accessory	5631	Andreaea rupestris	Mosses	Andreaeales	unseen_order
+A_rupestris_v10	core	16339	Andreaea rupestris	Mosses	Andreaeales	unseen_order
+A_rupestris_v10	unique	4726	Andreaea rupestris	Mosses	Andreaeales	unseen_order
+A_sandvicensis_v10	accessory	3952	Acrolejeunea sandvicensis	Liverworts	Porellales	trained
+A_sandvicensis_v10	core	11356	Acrolejeunea sandvicensis	Liverworts	Porellales	trained
+A_sandvicensis_v10	unique	7348	Acrolejeunea sandvicensis	Liverworts	Porellales	trained
+A_subdivergens_v10	accessory	10306	Aerobryopsis subdivergens	Mosses	Hypnales	trained
+A_subdivergens_v10	core	13820	Aerobryopsis subdivergens	Mosses	Hypnales	trained
+A_subdivergens_v10	unique	4259	Aerobryopsis subdivergens	Mosses	Hypnales	trained
+A_urvilleanus_v10	accessory	12122	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order
+A_urvilleanus_v10	core	12985	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order
+A_urvilleanus_v10	unique	11501	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order
+A_wilsonii_v10	accessory	2847	Andreaea wilsonii	Mosses	Andreaeales	unseen_order
+A_wilsonii_v10	core	10811	Andreaea wilsonii	Mosses	Andreaeales	unseen_order
+A_wilsonii_v10	unique	1873	Andreaea wilsonii	Mosses	Andreaeales	unseen_order
+B_amplexifolia_v10	accessory	4663	Barbula amplexifolia	Mosses	Pottiales	unseen_order
+B_amplexifolia_v10	core	13425	Barbula amplexifolia	Mosses	Pottiales	unseen_order
+B_amplexifolia_v10	unique	6795	Barbula amplexifolia	Mosses	Pottiales	unseen_order
+B_aphylla_v10	accessory	10242	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order
+B_aphylla_v10	core	21069	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order
+B_aphylla_v10	unique	10545	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order
+B_illecebra_v10	accessory	9476	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order
+B_illecebra_v10	core	13127	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order
+B_illecebra_v10	unique	1757	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order
+B_ithyphylla_v10	accessory	6682	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order
+B_ithyphylla_v10	core	14371	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order
+B_ithyphylla_v10	unique	5474	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order
+B_laetum_v10	accessory	10182	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order
+B_laetum_v10	core	13568	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order
+B_laetum_v10	unique	2873	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order
+B_mossmaniana_v10	accessory	7044	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order
+B_mossmaniana_v10	core	14762	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order
+B_mossmaniana_v10	unique	3992	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order
+B_norvegicum_v10	accessory	6524	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order
+B_norvegicum_v10	core	15616	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order
+B_norvegicum_v10	unique	6409	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order
+B_novae_angliae_v10	accessory	8974	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order
+B_novae_angliae_v10	core	13223	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order
+B_novae_angliae_v10	unique	2427	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order
+B_pusilla_349_v10	accessory	2445	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order
+B_pusilla_349_v10	core	9889	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order
+B_pusilla_349_v10	unique	4807	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order
+B_pusilla_890_v10	accessory	2880	Blasia pusilla 890	Liverworts	Blasiales	trained
+B_pusilla_890_v10	core	10328	Blasia pusilla 890	Liverworts	Blasiales	trained
+B_pusilla_890_v10	unique	4814	Blasia pusilla 890	Liverworts	Blasiales	trained
+B_tridens_v10	accessory	6326	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order
+B_tridens_v10	core	12784	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order
+B_tridens_v10	unique	6871	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order
+C_acidophyllum_v10	accessory	10636	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order
+C_acidophyllum_v10	core	14647	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order
+C_acidophyllum_v10	unique	5589	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order
+C_americanum_v10	accessory	8528	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order
+C_americanum_v10	core	12766	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order
+C_americanum_v10	unique	2758	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order
+C_cavernarum_v10	accessory	3896	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order
+C_cavernarum_v10	core	11281	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order
+C_cavernarum_v10	unique	12160	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order
+C_conicum_v10	accessory	2643	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order
+C_conicum_v10	core	10379	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order
+C_conicum_v10	unique	4637	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order
+C_cordifolium_v10	accessory	10874	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order
+C_cordifolium_v10	core	17567	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order
+C_cordifolium_v10	unique	3811	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order
+C_filicinum_v10	accessory	8284	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order
+C_filicinum_v10	core	14632	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order
+C_filicinum_v10	unique	3427	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order
+C_nitens_600_v10	accessory	9106	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order
+C_nitens_600_v10	core	12933	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order
+C_nitens_600_v10	unique	2062	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order
+C_nitens_617_v10	accessory	9115	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order
+C_nitens_617_v10	core	12838	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order
+C_nitens_617_v10	unique	1955	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order
+C_nitens_618_v10	accessory	9485	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order
+C_nitens_618_v10	core	12816	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order
+C_nitens_618_v10	unique	2267	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order
+D_chilense_v10	accessory	7330	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order
+D_chilense_v10	core	14134	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order
+D_chilense_v10	unique	4521	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order
+D_collenchymatosum_v10	accessory	4580	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order
+D_collenchymatosum_v10	core	11719	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order
+D_collenchymatosum_v10	unique	6734	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order
+D_fulvifolium_v10	accessory	3324	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order
+D_fulvifolium_v10	core	11686	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order
+D_fulvifolium_v10	unique	3806	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order
+D_fulvum_v10	accessory	8618	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order
+D_fulvum_v10	core	15865	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order
+D_fulvum_v10	unique	4430	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order
+E_ciliata_1023_v10	accessory	4364	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order
+E_ciliata_1023_v10	core	13816	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order
+E_ciliata_1023_v10	unique	6989	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order
+E_ciliata_1025_v10	accessory	6641	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order
+E_ciliata_1025_v10	core	14794	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order
+E_ciliata_1025_v10	unique	6582	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order
+E_concinnus_v10	accessory	10091	Entodon concinnus	Mosses	Hypnales	trained
+E_concinnus_v10	core	13392	Entodon concinnus	Mosses	Hypnales	trained
+E_concinnus_v10	unique	3836	Entodon concinnus	Mosses	Hypnales	trained
+E_obtusulum_v10	accessory	7545	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order
+E_obtusulum_v10	core	13061	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order
+E_obtusulum_v10	unique	5472	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order
+F_cristula_v10	accessory	10411	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order
+F_cristula_v10	core	14833	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order
+F_cristula_v10	unique	15886	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order
+F_fuciformis_v10	accessory	2048	Folioceros fuciformis	Hornworts	Anthocerotales	trained
+F_fuciformis_v10	core	8592	Folioceros fuciformis	Hornworts	Anthocerotales	trained
+F_fuciformis_v10	unique	2019	Folioceros fuciformis	Hornworts	Anthocerotales	trained
+F_javanicus_v10	accessory	6089	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order
+F_javanicus_v10	core	14260	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order
+F_javanicus_v10	unique	6943	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order
+F_moniliata_v10	accessory	4463	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order
+F_moniliata_v10	core	12359	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order
+F_moniliata_v10	unique	6022	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order
+F_sullivantii_v10	accessory	5778	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order
+F_sullivantii_v10	core	12114	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order
+F_sullivantii_v10	unique	6371	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order
+G_aurantiacum_v10	accessory	5186	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order
+G_aurantiacum_v10	core	13895	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order
+G_aurantiacum_v10	unique	5282	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order
+G_magellanica_v10	accessory	4823	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order
+G_magellanica_v10	core	12558	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order
+G_magellanica_v10	unique	4784	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order
+G_obtusifolia_v10	accessory	7919	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order
+G_obtusifolia_v10	core	14999	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order
+G_obtusifolia_v10	unique	7454	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order
+G_philippinensis_v10	accessory	8697	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order
+G_philippinensis_v10	core	12865	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order
+G_philippinensis_v10	unique	6073	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order
+G_repens_v10	accessory	7890	Gigaspermum repens	Mosses	Gigaspermales	unseen_order
+G_repens_v10	core	20564	Gigaspermum repens	Mosses	Gigaspermales	unseen_order
+G_repens_v10	unique	11251	Gigaspermum repens	Mosses	Gigaspermales	unseen_order
+H_ciliata_1009_v10	accessory	5113	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained
+H_ciliata_1009_v10	core	13589	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained
+H_ciliata_1009_v10	unique	7216	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained
+H_ciliata_329_v10	accessory	5056	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order
+H_ciliata_329_v10	core	14104	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order
+H_ciliata_329_v10	unique	6108	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order
+H_elatum_v10	accessory	6630	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order
+H_elatum_v10	core	12505	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order
+H_elatum_v10	unique	9513	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order
+H_japonicum_v10	accessory	8099	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order
+H_japonicum_v10	core	16112	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order
+H_japonicum_v10	unique	11353	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order
+H_kurzii_v10	accessory	12297	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order
+H_kurzii_v10	core	17461	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order
+H_kurzii_v10	unique	12305	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order
+H_luridum_v10	accessory	8666	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order
+H_luridum_v10	core	13067	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order
+H_luridum_v10	unique	3432	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order
+H_mnioides_v10	accessory	5488	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order
+H_mnioides_v10	core	12612	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order
+H_mnioides_v10	unique	7262	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order
+H_scalpellifolium_v10	accessory	10486	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order
+H_scalpellifolium_v10	core	15271	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order
+H_scalpellifolium_v10	unique	3272	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order
+H_varium_v10	accessory	14405	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order
+H_varium_v10	core	25859	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order
+H_varium_v10	unique	6321	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order
+J_erectum_v10	accessory	7575	Jungermannia erectum	Liverworts	Jungermanniales	trained
+J_erectum_v10	core	11371	Jungermannia erectum	Liverworts	Jungermanniales	trained
+J_erectum_v10	unique	11740	Jungermannia erectum	Liverworts	Jungermanniales	trained
+K_praelongum_v10	accessory	10237	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order
+K_praelongum_v10	core	14221	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order
+K_praelongum_v10	unique	2958	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order
+L_albidum_v10	accessory	7759	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order
+L_albidum_v10	core	14966	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order
+L_albidum_v10	unique	10862	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order
+L_bowringii_v10	accessory	11416	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order
+L_bowringii_v10	core	14904	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order
+L_bowringii_v10	unique	10987	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order
+L_cruciata_v10	accessory	3568	Lunularia cruciata	Liverworts	Lunulariales	unseen_order
+L_cruciata_v10	core	10936	Lunularia cruciata	Liverworts	Lunulariales	unseen_order
+L_cruciata_v10	unique	5149	Lunularia cruciata	Liverworts	Lunulariales	unseen_order
+L_gaudichaudii_v10	accessory	8184	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order
+L_gaudichaudii_v10	core	14097	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order
+L_gaudichaudii_v10	unique	5404	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order
+L_lagurus_v10	accessory	8073	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order
+L_lagurus_v10	core	12770	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order
+L_lagurus_v10	unique	2266	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order
+L_reptans_v10	accessory	4532	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order
+L_reptans_v10	core	12001	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order
+L_reptans_v10	unique	3011	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order
+M_furcata_v10	accessory	6375	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order
+M_furcata_v10	core	12552	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order
+M_furcata_v10	unique	6535	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order
+M_hamata_v10	accessory	8432	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order
+M_hamata_v10	core	11617	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order
+M_hamata_v10	unique	8581	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order
+M_hornum_v10	accessory	8238	Mnium hornum	Mosses	Bryales	unseen_order
+M_hornum_v10	core	14708	Mnium hornum	Mosses	Bryales	unseen_order
+M_hornum_v10	unique	8777	Mnium hornum	Mosses	Bryales	unseen_order
+M_polymorpha_v61	accessory	3003	Marchantia polymorpha	Liverworts	Marchantiales	trained
+M_polymorpha_v61	core	10793	Marchantia polymorpha	Liverworts	Marchantiales	trained
+M_polymorpha_v61	unique	4139	Marchantia polymorpha	Liverworts	Marchantiales	trained
+Mesoptychia_sp_v10	accessory	9507	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order
+Mesoptychia_sp_v10	core	13252	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order
+Mesoptychia_sp_v10	unique	7466	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order
+N_confluens_v10	accessory	9789	Noteroclada confluens	Liverworts	Pelliales	unseen_order
+N_confluens_v10	core	20865	Noteroclada confluens	Liverworts	Pelliales	unseen_order
+N_confluens_v10	unique	19924	Noteroclada confluens	Liverworts	Pelliales	unseen_order
+N_yunnanensis_v10	accessory	3936	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order
+N_yunnanensis_v10	core	10827	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order
+N_yunnanensis_v10	unique	5381	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order
+O_anomalum_v10	accessory	5795	Orthotrichum anomalum	Mosses	Orthotrichales	trained
+O_anomalum_v10	core	12724	Orthotrichum anomalum	Mosses	Orthotrichales	trained
+O_anomalum_v10	unique	7537	Orthotrichum anomalum	Mosses	Orthotrichales	trained
+O_sphagni_v10	accessory	5245	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order
+O_sphagni_v10	core	12105	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order
+O_sphagni_v10	unique	4262	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order
+P_ambigua_v10	accessory	5319	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order
+P_ambigua_v10	core	13096	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order
+P_ambigua_v10	unique	8717	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order
+P_appendiculatum_v10	accessory	4226	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order
+P_appendiculatum_v10	core	11481	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order
+P_appendiculatum_v10	unique	4896	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order
+P_caespitans_v10	accessory	4683	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order
+P_caespitans_v10	core	11348	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order
+P_caespitans_v10	unique	6106	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order
+P_chinensis_v10	accessory	11020	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order
+P_chinensis_v10	core	12360	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order
+P_chinensis_v10	unique	14203	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order
+P_ciliare_v10	accessory	8378	Plagiomnium ciliare	Mosses	Bryales	unseen_order
+P_ciliare_v10	core	14517	Plagiomnium ciliare	Mosses	Bryales	unseen_order
+P_ciliare_v10	unique	10511	Plagiomnium ciliare	Mosses	Bryales	unseen_order
+P_cinclidioides_v10	accessory	8597	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order
+P_cinclidioides_v10	core	14160	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order
+P_cinclidioides_v10	unique	7194	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order
+P_commune_v10	accessory	7550	Polytrichum commune	Mosses	Polytrichales	unseen_order
+P_commune_v10	core	12671	Polytrichum commune	Mosses	Polytrichales	unseen_order
+P_commune_v10	unique	5344	Polytrichum commune	Mosses	Polytrichales	unseen_order
+P_cygnisetum_v10	accessory	6121	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order
+P_cygnisetum_v10	core	11653	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order
+P_cygnisetum_v10	unique	5146	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order
+P_enerve_v10	accessory	14068	Paraleucobryum enerve	Mosses	Dicranales	trained
+P_enerve_v10	core	15579	Paraleucobryum enerve	Mosses	Dicranales	trained
+P_enerve_v10	unique	8787	Paraleucobryum enerve	Mosses	Dicranales	trained
+P_hirtellus_v10	accessory	9053	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order
+P_hirtellus_v10	core	13234	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order
+P_hirtellus_v10	unique	5756	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order
+P_laevis_1032_v10	accessory	3493	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained
+P_laevis_1032_v10	core	10014	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained
+P_laevis_1032_v10	unique	3188	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained
+P_laevis_902_v10	accessory	4634	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order
+P_laevis_902_v10	core	10504	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order
+P_laevis_902_v10	unique	4321	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order
+P_magellanicus_v10	accessory	6238	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order
+P_magellanicus_v10	core	12536	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order
+P_magellanicus_v10	unique	3664	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order
+P_microstomum_v10	accessory	6226	Pogonatum microstomum	Mosses	Polytrichales	unseen_order
+P_microstomum_v10	core	12206	Pogonatum microstomum	Mosses	Polytrichales	unseen_order
+P_microstomum_v10	unique	5044	Pogonatum microstomum	Mosses	Polytrichales	unseen_order
+P_ohioense_v10	accessory	9933	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order
+P_ohioense_v10	core	19982	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order
+P_ohioense_v10	unique	5035	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order
+P_patens_v33	accessory	5516	Physcomitrium patens	Mosses	Funariales	trained
+P_patens_v33	core	18772	Physcomitrium patens	Mosses	Funariales	trained
+P_patens_v33	unique	7451	Physcomitrium patens	Mosses	Funariales	trained
+P_platyphylla_v10	accessory	6005	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order
+P_platyphylla_v10	core	10629	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order
+P_platyphylla_v10	unique	4489	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order
+P_pulcherrimum_v10	accessory	4817	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order
+P_pulcherrimum_v10	core	11559	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order
+P_pulcherrimum_v10	unique	5959	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order
+P_purpurea_v10	accessory	17755	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order
+P_purpurea_v10	core	13541	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order
+P_purpurea_v10	unique	25973	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order
+P_semidecurrens_v10	accessory	9526	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order
+P_semidecurrens_v10	core	12263	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order
+P_semidecurrens_v10	unique	9151	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order
+P_spiniforme_v10	accessory	8230	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained
+P_spiniforme_v10	core	14364	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained
+P_spiniforme_v10	unique	7346	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained
+P_strictum_v10	accessory	6593	Polytrichum strictum	Mosses	Polytrichales	unseen_order
+P_strictum_v10	core	11986	Polytrichum strictum	Mosses	Polytrichales	unseen_order
+P_strictum_v10	unique	3599	Polytrichum strictum	Mosses	Polytrichales	unseen_order
+P_subfuscatum_v10	accessory	7642	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order
+P_subfuscatum_v10	core	12721	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order
+P_subfuscatum_v10	unique	5125	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order
+P_subulatum_v10	accessory	6110	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order
+P_subulatum_v10	core	15200	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order
+P_subulatum_v10	unique	4967	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order
+P_turneriana_v10	accessory	7093	Philonotis turneriana	Mosses	Bartramiales	trained
+P_turneriana_v10	core	14810	Philonotis turneriana	Mosses	Bartramiales	trained
+P_turneriana_v10	unique	6264	Philonotis turneriana	Mosses	Bartramiales	trained
+P_wilsonii_v10	accessory	5029	Ptychomitrium wilsonii	Mosses	Grimmiales	trained
+P_wilsonii_v10	core	13999	Ptychomitrium wilsonii	Mosses	Grimmiales	trained
+P_wilsonii_v10	unique	5790	Ptychomitrium wilsonii	Mosses	Grimmiales	trained
+Plagiochila_sp_v10	accessory	5409	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order
+Plagiochila_sp_v10	core	11652	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order
+Plagiochila_sp_v10	unique	4518	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order
+R_cuspidigerum_v10	accessory	7579	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained
+R_cuspidigerum_v10	core	13889	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained
+R_cuspidigerum_v10	unique	11198	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained
+R_natans_v10	accessory	3341	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order
+R_natans_v10	core	11377	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order
+R_natans_v10	unique	6642	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order
+R_nitidulum_v10	accessory	6530	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order
+R_nitidulum_v10	core	16260	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order
+R_nitidulum_v10	unique	8042	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order
+R_serrulatus_v10	accessory	9356	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order
+R_serrulatus_v10	core	13309	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order
+R_serrulatus_v10	unique	2870	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order
+R_subpinnatus_v10	accessory	9018	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order
+R_subpinnatus_v10	core	13216	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order
+R_subpinnatus_v10	unique	2546	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order
+S_ampullaceum_v10	accessory	3947	Splachnum ampullaceum	Mosses	Splachnales	unseen_order
+S_ampullaceum_v10	core	14834	Splachnum ampullaceum	Mosses	Splachnales	unseen_order
+S_ampullaceum_v10	unique	6545	Splachnum ampullaceum	Mosses	Splachnales	unseen_order
+S_cupulare_v10	accessory	5322	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order
+S_cupulare_v10	core	13114	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order
+S_cupulare_v10	unique	3916	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order
+S_donnellii_v10	accessory	5010	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order
+S_donnellii_v10	core	12003	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order
+S_donnellii_v10	unique	9367	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order
+S_girgensohnii_v10	accessory	4958	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order
+S_girgensohnii_v10	core	21414	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order
+S_girgensohnii_v10	unique	8554	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order
+S_nepalensis_v10	accessory	17207	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order
+S_nepalensis_v10	core	13970	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order
+S_nepalensis_v10	unique	7507	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order
+S_palustre_v10	accessory	5703	Sphagnum palustre	Mosses	Sphagnales	unseen_order
+S_palustre_v10	core	26135	Sphagnum palustre	Mosses	Sphagnales	unseen_order
+S_palustre_v10	unique	8194	Sphagnum palustre	Mosses	Sphagnales	unseen_order
+S_pennata_v10	accessory	4315	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order
+S_pennata_v10	core	14151	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order
+S_pennata_v10	unique	8124	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order
+S_ruralis_v10	accessory	9000	Syntrichia ruralis	Mosses	Pottiales	unseen_order
+S_ruralis_v10	core	21500	Syntrichia ruralis	Mosses	Pottiales	unseen_order
+S_ruralis_v10	unique	13722	Syntrichia ruralis	Mosses	Pottiales	unseen_order
+T_exsectiformis_v10	accessory	9423	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order
+T_exsectiformis_v10	core	11939	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order
+T_exsectiformis_v10	unique	5691	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order
+T_filiformis_v10	accessory	6448	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order
+T_filiformis_v10	core	12579	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order
+T_filiformis_v10	unique	1955	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order
+T_lacunosa_v10	accessory	3766	Treubia lacunosa	Liverworts	Treubiales	unseen_order
+T_lacunosa_v10	core	11819	Treubia lacunosa	Liverworts	Treubiales	unseen_order
+T_lacunosa_v10	unique	11396	Treubia lacunosa	Liverworts	Treubiales	unseen_order
+T_megapolitana_v10	accessory	4108	Timmia megapolitana	Mosses	Timmiales	unseen_order
+T_megapolitana_v10	core	13890	Timmia megapolitana	Mosses	Timmiales	unseen_order
+T_megapolitana_v10	unique	7747	Timmia megapolitana	Mosses	Timmiales	unseen_order
+T_pellucida_1101_v10	accessory	4765	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order
+T_pellucida_1101_v10	core	12864	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order
+T_pellucida_1101_v10	unique	5527	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order
+T_pellucida_128_v10	accessory	3821	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order
+T_pellucida_128_v10	core	12182	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order
+T_pellucida_128_v10	unique	3317	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order
+T_sandei_v10	accessory	21161	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order
+T_sandei_v10	core	24558	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order
+T_sandei_v10	unique	6902	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order
+T_subglabra_v10	accessory	4008	Tayloria subglabra	Mosses	Splachnales	unseen_order
+T_subglabra_v10	core	13036	Tayloria subglabra	Mosses	Splachnales	unseen_order
+T_subglabra_v10	unique	7245	Tayloria subglabra	Mosses	Splachnales	unseen_order
+U_hutchinsiae_v10	accessory	5898	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order
+U_hutchinsiae_v10	core	12856	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order
+U_hutchinsiae_v10	unique	6332	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order
+V_dusenii_v10	accessory	8017	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order
+V_dusenii_v10	core	14030	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order
+V_dusenii_v10	unique	6662	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order

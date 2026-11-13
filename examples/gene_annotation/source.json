@@ -1,0 +1,18 @@
+{
+  "assembly": "MpTak_v6.fa.gz",
+  "source_fasta": "MpTak_v6.fa.gz",
+  "source_gff3": "MpTak_genecad.gff3.gz",
+  "chromosome": "chr2",
+  "start": 1,
+  "end": 200000,
+  "length": 200000,
+  "sequence_id": "chr2",
+  "coordinate_convention": "1-based, inclusive (source and output)",
+  "coordinate_transform": "fragment_position = source_position - start + 1",
+  "requested_flank_bp": 2000,
+  "complete_gene_count": 13,
+  "gff_record_count": 174,
+  "left_flank_bp": 37517,
+  "right_flank_bp": 12611,
+  "annotation_policy": "Complete genes with flanks and their descendants only; boundary genes omitted"
+}

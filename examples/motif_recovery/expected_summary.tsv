@@ -1,0 +1,5 @@
+task	rows	sequence_length	motif_width
+donor	4	8192	2
+acceptor	4	8192	2
+tis	4	8192	3
+tts	4	8192	3

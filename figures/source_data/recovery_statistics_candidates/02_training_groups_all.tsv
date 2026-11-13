@@ -1,0 +1,505 @@
+short_name	species	division	order	training_group	motif	n_sites	n_genes	n_exact	exact_recovery_rate	n_predicted_canonical	canonical_recovery_rate	subset
+A_agrestis_v10	Anthoceros agrestis	Hornworts	Anthocerotales	trained	acceptor	90242	19523	71072	0.7875711974468651	NA	NA	all
+A_agrestis_v10	Anthoceros agrestis	Hornworts	Anthocerotales	trained	donor	88893	19460	68332	0.7686994476505462	NA	NA	all
+A_agrestis_v10	Anthoceros agrestis	Hornworts	Anthocerotales	trained	tis	25328	25328	11368	0.448831332912192	NA	NA	all
+A_agrestis_v10	Anthoceros agrestis	Hornworts	Anthocerotales	trained	tts	25262	25262	4587	0.1815770722824796	7918	0.3134351991132927	all
+A_alternifolium_v10	Archidium alternifolium	Mosses	Archidiales	unseen_order	acceptor	160392	40457	111731	0.696612050476333	NA	NA	all
+A_alternifolium_v10	Archidium alternifolium	Mosses	Archidiales	unseen_order	donor	159250	40441	111433	0.6997362637362637	NA	NA	all
+A_alternifolium_v10	Archidium alternifolium	Mosses	Archidiales	unseen_order	tis	53422	53422	16192	0.30309610272921267	NA	NA	all
+A_alternifolium_v10	Archidium alternifolium	Mosses	Archidiales	unseen_order	tts	53425	53425	5682	0.10635470285446888	12026	0.2251006083294338	all
+A_androgynum_v10	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order	acceptor	111868	21494	89881	0.8034558586905997	NA	NA	all
+A_androgynum_v10	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order	donor	110895	21471	89563	0.8076378556291988	NA	NA	all
+A_androgynum_v10	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order	tis	27122	27122	10195	0.3758941081041221	NA	NA	all
+A_androgynum_v10	Aulacomnium androgynum	Mosses	Aulacomniales	unseen_order	tts	27131	27131	3416	0.12590763333456195	8122	0.29936235302790165	all
+A_angustatum_v10	Atrichum angustatum	Mosses	Polytrichales	unseen_order	acceptor	105992	19931	86395	0.8151086874481093	NA	NA	all
+A_angustatum_v10	Atrichum angustatum	Mosses	Polytrichales	unseen_order	donor	104830	19907	85838	0.8188304874558809	NA	NA	all
+A_angustatum_v10	Atrichum angustatum	Mosses	Polytrichales	unseen_order	tis	26339	26339	9998	0.37958920232355065	NA	NA	all
+A_angustatum_v10	Atrichum angustatum	Mosses	Polytrichales	unseen_order	tts	26342	26342	2988	0.1134310227013894	7129	0.2706324500797206	all
+A_attenuatus_v10	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order	acceptor	90559	17281	80648	0.8905575370752769	NA	NA	all
+A_attenuatus_v10	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order	donor	89766	17271	80401	0.8956731947507965	NA	NA	all
+A_attenuatus_v10	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order	tis	22593	22593	11429	0.505864648342407	NA	NA	all
+A_attenuatus_v10	Anomodon attenuatus	Mosses	Hypnales	unseen_species_seen_order	tts	22613	22613	3425	0.15146154866669614	8182	0.361827267500995	all
+A_macrosporum_v10	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order	acceptor	54013	8583	49448	0.9154833095736212	NA	NA	all
+A_macrosporum_v10	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order	donor	52716	8535	48195	0.9142385613475984	NA	NA	all
+A_macrosporum_v10	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order	tis	7252	7252	3502	0.4829012686155543	NA	NA	all
+A_macrosporum_v10	Andreaeobryum macrosporum	Mosses	Andreaeobryales	unseen_order	tts	8386	8386	1028	0.12258526114953494	2896	0.34533746720725017	all
+A_palustre_v10	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order	acceptor	90688	17574	80497	0.8876257057163021	NA	NA	all
+A_palustre_v10	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order	donor	89786	17585	80349	0.8948945269863898	NA	NA	all
+A_palustre_v10	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order	tis	23156	23156	10940	0.4724477457246502	NA	NA	all
+A_palustre_v10	Aulacomnium palustre	Mosses	Aulacomniales	unseen_order	tts	23203	23203	3329	0.14347282678963927	8019	0.34560186182821184	all
+A_rupestris_v10	Andreaea rupestris	Mosses	Andreaeales	unseen_order	acceptor	124903	20859	106823	0.8552476721936223	NA	NA	all
+A_rupestris_v10	Andreaea rupestris	Mosses	Andreaeales	unseen_order	donor	123812	20847	105436	0.8515814299098633	NA	NA	all
+A_rupestris_v10	Andreaea rupestris	Mosses	Andreaeales	unseen_order	tis	26053	26053	11481	0.4406786166660269	NA	NA	all
+A_rupestris_v10	Andreaea rupestris	Mosses	Andreaeales	unseen_order	tts	26033	26033	2914	0.11193485191871856	7738	0.29723812084661777	all
+A_sandvicensis_v10	Acrolejeunea sandvicensis	Liverworts	Porellales	trained	acceptor	90051	17311	67581	0.7504747309857748	NA	NA	all
+A_sandvicensis_v10	Acrolejeunea sandvicensis	Liverworts	Porellales	trained	donor	89050	17286	65877	0.7397754070746771	NA	NA	all
+A_sandvicensis_v10	Acrolejeunea sandvicensis	Liverworts	Porellales	trained	tis	22664	22664	8110	0.35783621602541477	NA	NA	all
+A_sandvicensis_v10	Acrolejeunea sandvicensis	Liverworts	Porellales	trained	tts	22669	22669	1904	0.08399135383122326	4859	0.21434558207243373	all
+A_subdivergens_v10	Aerobryopsis subdivergens	Mosses	Hypnales	trained	acceptor	114159	22447	90933	0.7965469213991012	NA	NA	all
+A_subdivergens_v10	Aerobryopsis subdivergens	Mosses	Hypnales	trained	donor	113242	22427	91023	0.8037918793380547	NA	NA	all
+A_subdivergens_v10	Aerobryopsis subdivergens	Mosses	Hypnales	trained	tis	28348	28348	11696	0.41258642585014815	NA	NA	all
+A_subdivergens_v10	Aerobryopsis subdivergens	Mosses	Hypnales	trained	tts	28344	28344	3881	0.136924922382162	8774	0.3095540502399097	all
+A_urvilleanus_v10	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	52342	11536	44883	0.8574949371441672	NA	NA	all
+A_urvilleanus_v10	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order	donor	51609	11539	44152	0.8555096979209053	NA	NA	all
+A_urvilleanus_v10	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order	tis	18108	18108	6141	0.33913187541418155	NA	NA	all
+A_urvilleanus_v10	Acrobolbus urvilleanus	Liverworts	Jungermanniales	unseen_species_seen_order	tts	19346	19346	1574	0.08136048795616665	3817	0.19730176780729863	all
+A_wilsonii_v10	Andreaea wilsonii	Mosses	Andreaeales	unseen_order	acceptor	71909	10802	65837	0.915559943817881	NA	NA	all
+A_wilsonii_v10	Andreaea wilsonii	Mosses	Andreaeales	unseen_order	donor	71000	10798	64856	0.9134647887323945	NA	NA	all
+A_wilsonii_v10	Andreaea wilsonii	Mosses	Andreaeales	unseen_order	tis	12810	12810	6607	0.5157689305230289	NA	NA	all
+A_wilsonii_v10	Andreaea wilsonii	Mosses	Andreaeales	unseen_order	tts	12884	12884	1557	0.12084756286867432	4505	0.3496584911518162	all
+B_amplexifolia_v10	Barbula amplexifolia	Mosses	Pottiales	unseen_order	acceptor	106652	19449	89186	0.836233732138169	NA	NA	all
+B_amplexifolia_v10	Barbula amplexifolia	Mosses	Pottiales	unseen_order	donor	105597	19428	88821	0.8411318503366573	NA	NA	all
+B_amplexifolia_v10	Barbula amplexifolia	Mosses	Pottiales	unseen_order	tis	24868	24868	11362	0.4568923918288564	NA	NA	all
+B_amplexifolia_v10	Barbula amplexifolia	Mosses	Pottiales	unseen_order	tts	24873	24873	3572	0.14360953644514132	8407	0.337997024886423	all
+B_aphylla_v10	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order	acceptor	174156	32917	137625	0.7902397850203267	NA	NA	all
+B_aphylla_v10	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order	donor	172566	32888	136099	0.7886779551012366	NA	NA	all
+B_aphylla_v10	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order	tis	41363	41363	16864	0.40770737132219614	NA	NA	all
+B_aphylla_v10	Buxbaumia aphylla	Mosses	Buxbaumiales	unseen_order	tts	41395	41395	4535	0.10955429399685952	11109	0.26836574465515156	all
+B_illecebra_v10	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order	acceptor	86718	16980	77034	0.8883276828340138	NA	NA	all
+B_illecebra_v10	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order	donor	85981	16993	76804	0.8932671171537898	NA	NA	all
+B_illecebra_v10	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order	tis	22159	22159	11198	0.5053477142470328	NA	NA	all
+B_illecebra_v10	Bryoandersonia illecebra	Mosses	Hypnales	unseen_species_seen_order	tts	22172	22172	3305	0.1490618798484575	7848	0.353959949485838	all
+B_ithyphylla_v10	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order	acceptor	114227	20532	94460	0.8269498454831169	NA	NA	all
+B_ithyphylla_v10	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order	donor	113241	20508	94636	0.835704382688249	NA	NA	all
+B_ithyphylla_v10	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order	tis	25464	25464	11707	0.45974709393653784	NA	NA	all
+B_ithyphylla_v10	Bartramia ithyphylla	Mosses	Bartramiales	unseen_species_seen_order	tts	25495	25495	3977	0.1559913708570308	8927	0.3501470876642479	all
+B_laetum_v10	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order	acceptor	87777	17729	77192	0.8794103238889458	NA	NA	all
+B_laetum_v10	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order	donor	87043	17723	76916	0.8836552048987282	NA	NA	all
+B_laetum_v10	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order	tis	23163	23163	11138	0.4808530846608816	NA	NA	all
+B_laetum_v10	Brachythecium laetum	Mosses	Hypnales	unseen_species_seen_order	tts	23229	23229	3494	0.15041542898962504	8113	0.34926169873864565	all
+B_mossmaniana_v10	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order	acceptor	98327	17383	90025	0.9155674433268584	NA	NA	all
+B_mossmaniana_v10	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order	donor	97442	17350	89715	0.9207015455347796	NA	NA	all
+B_mossmaniana_v10	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order	tis	23312	23312	12734	0.54624227865477	NA	NA	all
+B_mossmaniana_v10	Bartramia mossmaniana	Mosses	Bartramiales	unseen_species_seen_order	tts	23338	23338	3999	0.1713514439969149	9258	0.3966920901533979	all
+B_norvegicum_v10	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order	acceptor	124685	22648	102388	0.8211733568592854	NA	NA	all
+B_norvegicum_v10	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order	donor	123591	22624	101499	0.8212491200815594	NA	NA	all
+B_norvegicum_v10	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order	tis	28559	28559	12340	0.43208795826184393	NA	NA	all
+B_norvegicum_v10	Bryoxiphium norvegicum	Mosses	Bryoxiphiales	unseen_order	tts	28554	28554	3350	0.11732156615535476	8761	0.3068221615185263	all
+B_novae_angliae_v10	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order	acceptor	86399	16892	76727	0.8880542598872672	NA	NA	all
+B_novae_angliae_v10	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order	donor	85605	16891	76428	0.8927983178552654	NA	NA	all
+B_novae_angliae_v10	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order	tis	22203	22203	10859	0.48907805251542585	NA	NA	all
+B_novae_angliae_v10	Bryhnia novae-angliae	Mosses	Hypnales	unseen_species_seen_order	tts	22287	22287	3207	0.14389554448781802	7789	0.3494862475882802	all
+B_pusilla_349_v10	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order	acceptor	58078	9758	52712	0.9076070112607184	NA	NA	all
+B_pusilla_349_v10	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order	donor	57282	9748	51833	0.9048741314898224	NA	NA	all
+B_pusilla_349_v10	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order	tis	12774	12774	5637	0.441286989196806	NA	NA	all
+B_pusilla_349_v10	Blasia pusilla 349	Liverworts	Blasiales	unseen_species_seen_order	tts	13399	13399	1474	0.1100082095678782	3884	0.28987237853571163	all
+B_pusilla_890_v10	Blasia pusilla 890	Liverworts	Blasiales	trained	acceptor	79079	13581	65803	0.8321172498387688	NA	NA	all
+B_pusilla_890_v10	Blasia pusilla 890	Liverworts	Blasiales	trained	donor	78217	13567	64856	0.8291803572113479	NA	NA	all
+B_pusilla_890_v10	Blasia pusilla 890	Liverworts	Blasiales	trained	tis	18028	18028	7373	0.408974927889949	NA	NA	all
+B_pusilla_890_v10	Blasia pusilla 890	Liverworts	Blasiales	trained	tts	18030	18030	1846	0.1023849140321686	4776	0.264891846921797	all
+B_tridens_v10	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	76979	15476	60199	0.7820184725704413	NA	NA	all
+B_tridens_v10	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order	donor	76093	15464	59012	0.7755246868962979	NA	NA	all
+B_tridens_v10	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order	tis	21563	21563	7928	0.3676668367110328	NA	NA	all
+B_tridens_v10	Bazzania tridens	Liverworts	Jungermanniales	unseen_species_seen_order	tts	21665	21665	2020	0.09323794138010616	4936	0.22783291022386337	all
+C_acidophyllum_v10	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order	acceptor	86248	17436	76096	0.8822929227344403	NA	NA	all
+C_acidophyllum_v10	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order	donor	85463	17428	75524	0.8837040590664966	NA	NA	all
+C_acidophyllum_v10	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order	tis	24071	24071	10636	0.44185949898217775	NA	NA	all
+C_acidophyllum_v10	Chorisodontium acidophyllum	Mosses	Dicranales	unseen_species_seen_order	tts	24282	24282	3021	0.12441314553990612	7491	0.3085001235483074	all
+C_americanum_v10	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order	acceptor	87202	17194	77477	0.8884773285016399	NA	NA	all
+C_americanum_v10	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order	donor	86432	17163	77105	0.8920885783043317	NA	NA	all
+C_americanum_v10	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order	tis	22560	22560	11147	0.494104609929078	NA	NA	all
+C_americanum_v10	Climacium americanum	Mosses	Hypnales	unseen_species_seen_order	tts	22560	22560	3334	0.1477836879432624	7958	0.3527482269503546	all
+C_cavernarum_v10	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order	acceptor	98088	19914	69233	0.70582538129027	NA	NA	all
+C_cavernarum_v10	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order	donor	97251	19894	68112	0.7003732609433322	NA	NA	all
+C_cavernarum_v10	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order	tis	27342	27342	8381	0.30652476044181115	NA	NA	all
+C_cavernarum_v10	Cyathodium cavernarum	Liverworts	Marchantiales	unseen_species_seen_order	tts	27341	27341	2215	0.08101386196554625	5573	0.2038330712117333	all
+C_conicum_v10	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order	acceptor	84150	14458	66468	0.7898752228163993	NA	NA	all
+C_conicum_v10	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order	donor	83389	14439	65114	0.7808463946084016	NA	NA	all
+C_conicum_v10	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order	tis	17652	17652	7326	0.4150237933378654	NA	NA	all
+C_conicum_v10	Conocephalum conicum	Liverworts	Marchantiales	unseen_species_seen_order	tts	17651	17651	1848	0.10469661775536795	4963	0.2811738711687723	all
+C_cordifolium_v10	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order	acceptor	64726	13131	57758	0.8923461978184964	NA	NA	all
+C_cordifolium_v10	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order	donor	64009	13120	57419	0.8970457279445078	NA	NA	all
+C_cordifolium_v10	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order	tis	15587	15587	7773	0.49868480143709504	NA	NA	all
+C_cordifolium_v10	Calliergon cordifolium	Mosses	Hypnales	unseen_species_seen_order	tts	16262	16262	2309	0.14198745541753782	5802	0.3567826835567581	all
+C_filicinum_v10	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order	acceptor	86280	16319	73174	0.8480992118683357	NA	NA	all
+C_filicinum_v10	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order	donor	85659	16329	72920	0.8512824104880982	NA	NA	all
+C_filicinum_v10	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order	tis	19268	19268	9018	0.468029894124974	NA	NA	all
+C_filicinum_v10	Cratoneuron filicinum	Mosses	Hypnales	unseen_species_seen_order	tts	19415	19415	2720	0.1400978624774659	6677	0.34390934844192633	all
+C_nitens_600_v10	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order	acceptor	54289	11059	48779	0.8985061430492365	NA	NA	all
+C_nitens_600_v10	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order	donor	53690	11121	48441	0.9022350530825108	NA	NA	all
+C_nitens_600_v10	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order	tis	11834	11834	6156	0.5201960452932229	NA	NA	all
+C_nitens_600_v10	Catagonium nitens 600	Mosses	Hypnales	unseen_species_seen_order	tts	12457	12457	1779	0.1428112707714538	4447	0.3569880388536566	all
+C_nitens_617_v10	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order	acceptor	63347	12215	57447	0.9068622034192622	NA	NA	all
+C_nitens_617_v10	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order	donor	62667	12236	57070	0.9106866452838016	NA	NA	all
+C_nitens_617_v10	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order	tis	14198	14198	7258	0.5111987603887872	NA	NA	all
+C_nitens_617_v10	Catagonium nitens 617	Mosses	Hypnales	unseen_species_seen_order	tts	14450	14450	2080	0.1439446366782007	5272	0.36484429065743945	all
+C_nitens_618_v10	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order	acceptor	78577	15142	70362	0.8954528678875497	NA	NA	all
+C_nitens_618_v10	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order	donor	77809	15161	70019	0.8998830469482965	NA	NA	all
+C_nitens_618_v10	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order	tis	19161	19161	9437	0.4925108292886593	NA	NA	all
+C_nitens_618_v10	Catagonium nitens 618	Mosses	Hypnales	unseen_species_seen_order	tts	19340	19340	2753	0.14234746639089968	6821	0.35268872802481904	all
+D_chilense_v10	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order	acceptor	79732	14841	72162	0.9050569407515175	NA	NA	all
+D_chilense_v10	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order	donor	78894	14806	71817	0.9102973610160467	NA	NA	all
+D_chilense_v10	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order	tis	19479	19479	9670	0.496432055033626	NA	NA	all
+D_chilense_v10	Dicranoloma chilense	Mosses	Dicranales	unseen_species_seen_order	tts	19728	19728	2669	0.13528994322789945	6840	0.3467153284671533	all
+D_collenchymatosum_v10	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order	acceptor	96350	18420	76381	0.7927451997924234	NA	NA	all
+D_collenchymatosum_v10	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order	donor	95421	18404	75650	0.7928024229467308	NA	NA	all
+D_collenchymatosum_v10	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order	tis	22977	22977	9196	0.4002263132697915	NA	NA	all
+D_collenchymatosum_v10	Distichophyllum collenchymatosum	Mosses	Hookeriales	unseen_order	tts	22980	22980	2668	0.11610095735422106	6637	0.28881636205395994	all
+D_fulvifolium_v10	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order	acceptor	101346	16706	79751	0.786918082608095	NA	NA	all
+D_fulvifolium_v10	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order	donor	100074	16683	78319	0.7826108679577113	NA	NA	all
+D_fulvifolium_v10	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order	tis	18809	18809	8340	0.4434047530437557	NA	NA	all
+D_fulvifolium_v10	Diphyscium fulvifolium	Mosses	Diphysciales	unseen_order	tts	18808	18808	1995	0.10607188430455124	5528	0.29391748192258615	all
+D_fulvum_v10	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order	acceptor	63576	12080	57682	0.9072920598968164	NA	NA	all
+D_fulvum_v10	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order	donor	62935	12089	57412	0.9122427901803448	NA	NA	all
+D_fulvum_v10	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order	tis	14489	14489	7211	0.4976879011664021	NA	NA	all
+D_fulvum_v10	Dicranum fulvum	Mosses	Dicranales	unseen_species_seen_order	tts	15208	15208	2090	0.13742766964755393	5244	0.3448185165702262	all
+E_ciliata_1023_v10	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order	acceptor	99099	17960	83107	0.8386260204442023	NA	NA	all
+E_ciliata_1023_v10	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order	donor	98031	17927	82452	0.84108088257796	NA	NA	all
+E_ciliata_1023_v10	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order	tis	22106	22106	9440	0.42703338460146567	NA	NA	all
+E_ciliata_1023_v10	Encalypta ciliata 1023	Mosses	Encalyptales	unseen_order	tts	22393	22393	2669	0.11918903228687536	7050	0.3148305273969544	all
+E_ciliata_1025_v10	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order	acceptor	96761	18170	86025	0.8890462066328376	NA	NA	all
+E_ciliata_1025_v10	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order	donor	95820	18150	85323	0.8904508453350032	NA	NA	all
+E_ciliata_1025_v10	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order	tis	25989	25989	11877	0.4570010389010735	NA	NA	all
+E_ciliata_1025_v10	Encalypta ciliata 1025	Mosses	Encalyptales	unseen_order	tts	26032	26032	3171	0.12181161647203442	8195	0.31480485556238474	all
+E_concinnus_v10	Entodon concinnus	Mosses	Hypnales	trained	acceptor	106651	21092	87079	0.816485546314615	NA	NA	all
+E_concinnus_v10	Entodon concinnus	Mosses	Hypnales	trained	donor	105800	21072	87252	0.82468809073724	NA	NA	all
+E_concinnus_v10	Entodon concinnus	Mosses	Hypnales	trained	tis	27315	27315	11757	0.43042284459088415	NA	NA	all
+E_concinnus_v10	Entodon concinnus	Mosses	Hypnales	trained	tts	27320	27320	3698	0.13535871156661786	8582	0.3141288433382138	all
+E_obtusulum_v10	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order	acceptor	89228	17493	77784	0.8717442955126193	NA	NA	all
+E_obtusulum_v10	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order	donor	88397	17485	77285	0.8742943765059901	NA	NA	all
+E_obtusulum_v10	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order	tis	23797	23797	10906	0.45829306215069127	NA	NA	all
+E_obtusulum_v10	Ectropothecium obtusulum	Mosses	Hypnales	unseen_species_seen_order	tts	23828	23828	3090	0.1296793688098036	7711	0.323610877958704	all
+F_cristula_v10	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order	acceptor	105655	25203	75254	0.7122616061710283	NA	NA	all
+F_cristula_v10	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order	donor	104414	25140	72495	0.6943034458980597	NA	NA	all
+F_cristula_v10	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order	tis	37608	37608	11259	0.29937779195915765	NA	NA	all
+F_cristula_v10	Fossombronia cristula	Liverworts	Fossombroniales	unseen_order	tts	37672	37672	3042	0.08074962837120407	6581	0.17469207899766404	all
+F_fuciformis_v10	Folioceros fuciformis	Hornworts	Anthocerotales	trained	acceptor	51718	8265	42768	0.8269461309408717	NA	NA	all
+F_fuciformis_v10	Folioceros fuciformis	Hornworts	Anthocerotales	trained	donor	50856	8245	41566	0.817327355670914	NA	NA	all
+F_fuciformis_v10	Folioceros fuciformis	Hornworts	Anthocerotales	trained	tis	9267	9267	4300	0.4640120858961908	NA	NA	all
+F_fuciformis_v10	Folioceros fuciformis	Hornworts	Anthocerotales	trained	tts	9262	9262	1068	0.11530986827898942	2838	0.30641330166270786	all
+F_javanicus_v10	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order	acceptor	115692	21494	94033	0.8127874010303219	NA	NA	all
+F_javanicus_v10	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order	donor	114609	21473	93050	0.8118908637192541	NA	NA	all
+F_javanicus_v10	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order	tis	27302	27302	11177	0.4093839279173687	NA	NA	all
+F_javanicus_v10	Fissidens javanicus	Mosses	Dicranales	unseen_species_seen_order	tts	27301	27301	3167	0.11600307681037324	8002	0.2931028167466393	all
+F_moniliata_v10	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order	acceptor	58640	11342	50579	0.8625341064120055	NA	NA	all
+F_moniliata_v10	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order	donor	57916	11303	49464	0.8540645072173493	NA	NA	all
+F_moniliata_v10	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order	tis	15952	15952	6488	0.4067201604814443	NA	NA	all
+F_moniliata_v10	Frullania moniliata	Liverworts	Porellales	unseen_species_seen_order	tts	17005	17005	1641	0.09650102910908556	4234	0.2489855924728021	all
+F_sullivantii_v10	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order	acceptor	73455	14554	64056	0.8720441086379416	NA	NA	all
+F_sullivantii_v10	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order	donor	72701	14543	63780	0.8772919217067165	NA	NA	all
+F_sullivantii_v10	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order	tis	18974	18974	8247	0.43464741224833986	NA	NA	all
+F_sullivantii_v10	Fontinalis sullivantii	Mosses	Hypnales	unseen_species_seen_order	tts	19069	19069	2603	0.13650427395248832	5982	0.313702868530075	all
+G_aurantiacum_v10	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order	acceptor	99928	17920	85549	0.856106396605556	NA	NA	all
+G_aurantiacum_v10	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order	donor	99117	17899	85405	0.8616584440610592	NA	NA	all
+G_aurantiacum_v10	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order	tis	22445	22445	10874	0.48447315660503454	NA	NA	all
+G_aurantiacum_v10	Gymnostomum aurantiacum	Mosses	Pottiales	unseen_order	tts	22467	22467	3347	0.14897405083010637	8140	0.3623091645524547	all
+G_magellanica_v10	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order	acceptor	43393	8413	38275	0.8820547092849077	NA	NA	all
+G_magellanica_v10	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order	donor	42580	8362	37586	0.8827148896195397	NA	NA	all
+G_magellanica_v10	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order	tis	9849	9849	4452	0.4520255863539446	NA	NA	all
+G_magellanica_v10	Gackstroemia magellanica	Liverworts	Porellales	unseen_species_seen_order	tts	10601	10601	1270	0.1198000188661447	3159	0.2979907555890954	all
+G_obtusifolia_v10	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order	acceptor	117180	22748	95720	0.8168629458952039	NA	NA	all
+G_obtusifolia_v10	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order	donor	116257	22727	95494	0.8214043025366214	NA	NA	all
+G_obtusifolia_v10	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order	tis	30356	30356	12221	0.4025892739491369	NA	NA	all
+G_obtusifolia_v10	Grimmia obtusifolia	Mosses	Grimmiales	unseen_species_seen_order	tts	30365	30365	3369	0.11095010703112136	8450	0.27828091552774575	all
+G_philippinensis_v10	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order	acceptor	102986	20268	79985	0.7766589633542423	NA	NA	all
+G_philippinensis_v10	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order	donor	102065	20260	79809	0.7819428795375496	NA	NA	all
+G_philippinensis_v10	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order	tis	25387	25387	9714	0.3826367826052704	NA	NA	all
+G_philippinensis_v10	Gollania philippinensis	Mosses	Hypnales	unseen_species_seen_order	tts	25439	25439	3163	0.12433664845316247	7190	0.2826368961044066	all
+G_repens_v10	Gigaspermum repens	Mosses	Gigaspermales	unseen_order	acceptor	27051	8163	22066	0.8157184577279952	NA	NA	all
+G_repens_v10	Gigaspermum repens	Mosses	Gigaspermales	unseen_order	donor	26841	8143	21956	0.8180023098990351	NA	NA	all
+G_repens_v10	Gigaspermum repens	Mosses	Gigaspermales	unseen_order	tis	9794	9794	3894	0.39759036144578314	NA	NA	all
+G_repens_v10	Gigaspermum repens	Mosses	Gigaspermales	unseen_order	tts	11340	11340	1210	0.10670194003527336	2820	0.24867724867724864	all
+H_ciliata_1009_v10	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained	acceptor	111377	20631	90640	0.8138125465760435	NA	NA	all
+H_ciliata_1009_v10	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained	donor	110326	20607	90509	0.8203777894603267	NA	NA	all
+H_ciliata_1009_v10	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained	tis	25902	25902	10716	0.413713226777855	NA	NA	all
+H_ciliata_1009_v10	Hedwigia ciliata 1009	Mosses	Hedwigiales	trained	tts	25901	25901	3701	0.14289023589822786	8482	0.327477703563569	all
+H_ciliata_329_v10	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order	acceptor	85145	15924	76092	0.8936754947442598	NA	NA	all
+H_ciliata_329_v10	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order	donor	84135	15885	75595	0.8984964640161645	NA	NA	all
+H_ciliata_329_v10	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order	tis	20272	20272	9584	0.47277032359905286	NA	NA	all
+H_ciliata_329_v10	Hedwigia ciliata 329	Mosses	Hedwigiales	unseen_species_seen_order	tts	20487	20487	3017	0.1472641187094255	7406	0.3614975350222092	all
+H_elatum_v10	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order	acceptor	101848	21067	77620	0.7621160945723038	NA	NA	all
+H_elatum_v10	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order	donor	100911	21053	77063	0.763672939520964	NA	NA	all
+H_elatum_v10	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order	tis	27615	27615	9226	0.33409378960709757	NA	NA	all
+H_elatum_v10	Hypopterygium elatum	Mosses	Hypopterygiales	unseen_order	tts	27601	27601	3100	0.11231477120394188	6961	0.2522010072098837	all
+H_japonicum_v10	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order	acceptor	124710	26686	95543	0.7661214016518323	NA	NA	all
+H_japonicum_v10	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order	donor	123828	26679	94338	0.7618470782052524	NA	NA	all
+H_japonicum_v10	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order	tis	35065	35065	12341	0.3519463852844717	NA	NA	all
+H_japonicum_v10	Hypopterygium flavolimbatum	Mosses	Hypopterygiales	unseen_order	tts	35081	35081	4035	0.11501952623927482	9096	0.2592856532025883	all
+H_kurzii_v10	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	76864	17391	59593	0.7753044338051623	NA	NA	all
+H_kurzii_v10	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order	donor	76062	17408	57933	0.7616549656858879	NA	NA	all
+H_kurzii_v10	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order	tis	24578	24578	7676	0.3123118235820653	NA	NA	all
+H_kurzii_v10	Herbertus kurzii	Liverworts	Jungermanniales	unseen_species_seen_order	tts	24747	24747	1987	0.08029256071443003	4699	0.18988160181032043	all
+H_luridum_v10	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order	acceptor	100348	18945	82827	0.8253976162952924	NA	NA	all
+H_luridum_v10	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order	donor	99642	18939	82806	0.8310351056783284	NA	NA	all
+H_luridum_v10	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order	tis	24037	24037	10391	0.4322918833465075	NA	NA	all
+H_luridum_v10	Hygrohypnum luridum	Mosses	Hypnales	unseen_species_seen_order	tts	24049	24049	3386	0.14079587508836125	7896	0.3283296602769346	all
+H_mnioides_v10	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order	acceptor	63394	12555	49855	0.7864308925134871	NA	NA	all
+H_mnioides_v10	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order	donor	62344	12547	48757	0.7820640318234313	NA	NA	all
+H_mnioides_v10	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order	tis	15809	15809	4968	0.31425137579859574	NA	NA	all
+H_mnioides_v10	Haplomitrium mnioides	Liverworts	Haplomitriales	unseen_order	tts	16118	16118	1491	0.09250527360714728	3859	0.23942176448690905	all
+H_scalpellifolium_v10	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order	acceptor	81547	16296	71603	0.8780580524114927	NA	NA	all
+H_scalpellifolium_v10	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order	donor	80697	16229	70994	0.8797600902140105	NA	NA	all
+H_scalpellifolium_v10	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order	tis	20030	20030	9451	0.4718422366450325	NA	NA	all
+H_scalpellifolium_v10	Homaliodendron scalpellifolium	Mosses	Hypnales	unseen_species_seen_order	tts	20243	20243	2907	0.1436051968581732	6943	0.3429827594724102	all
+H_varium_v10	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order	acceptor	153629	29759	135576	0.8824896341185583	NA	NA	all
+H_varium_v10	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order	donor	151970	29708	134821	0.8871553596104494	NA	NA	all
+H_varium_v10	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order	tis	37726	37726	17860	0.4734135609394052	NA	NA	all
+H_varium_v10	Hygroamblystegium varium	Mosses	Hypnales	unseen_species_seen_order	tts	38208	38208	5506	0.14410594639865998	13421	0.35126151591289784	all
+J_erectum_v10	Jungermannia erectum	Liverworts	Jungermanniales	trained	acceptor	86802	18833	63100	0.726941775535126	NA	NA	all
+J_erectum_v10	Jungermannia erectum	Liverworts	Jungermanniales	trained	donor	85899	18805	61689	0.7181573708657842	NA	NA	all
+J_erectum_v10	Jungermannia erectum	Liverworts	Jungermanniales	trained	tis	30547	30547	9567	0.31318951124496675	NA	NA	all
+J_erectum_v10	Jungermannia erectum	Liverworts	Jungermanniales	trained	tts	30551	30551	2174	0.0711597001734804	5091	0.16663938987267193	all
+K_praelongum_v10	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order	acceptor	50262	11587	44757	0.8904739166766146	NA	NA	all
+K_praelongum_v10	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order	donor	49693	11557	44449	0.8944720584388143	NA	NA	all
+K_praelongum_v10	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order	tis	13016	13016	6745	0.5182083589428396	NA	NA	all
+K_praelongum_v10	Kindbergia praelongum	Mosses	Hypnales	unseen_species_seen_order	tts	14125	14125	2086	0.14768141592920353	4938	0.3495929203539823	all
+L_albidum_v10	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order	acceptor	80843	15638	71969	0.8902316836337097	NA	NA	all
+L_albidum_v10	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order	donor	80042	15663	71490	0.8931560930511482	NA	NA	all
+L_albidum_v10	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order	tis	22682	22682	9637	0.4248743497046116	NA	NA	all
+L_albidum_v10	Leucobryum albidum	Mosses	Dicranales	unseen_species_seen_order	tts	22760	22760	2715	0.11928822495606328	6967	0.3061072056239016	all
+L_bowringii_v10	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order	acceptor	125228	26057	97900	0.7817740441434823	NA	NA	all
+L_bowringii_v10	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order	donor	124108	26039	97817	0.7881603119863345	NA	NA	all
+L_bowringii_v10	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order	tis	37316	37316	12916	0.34612498660092184	NA	NA	all
+L_bowringii_v10	Leucobryum bowringii	Mosses	Dicranales	unseen_species_seen_order	tts	37314	37314	3876	0.10387522109663933	9266	0.24832502545961305	all
+L_cruciata_v10	Lunularia cruciata	Liverworts	Lunulariales	unseen_order	acceptor	84120	14737	66679	0.7926652401331431	NA	NA	all
+L_cruciata_v10	Lunularia cruciata	Liverworts	Lunulariales	unseen_order	donor	83266	14724	64991	0.7805226623111474	NA	NA	all
+L_cruciata_v10	Lunularia cruciata	Liverworts	Lunulariales	unseen_order	tis	19286	19286	8248	0.4276677382557296	NA	NA	all
+L_cruciata_v10	Lunularia cruciata	Liverworts	Lunulariales	unseen_order	tts	19277	19277	1846	0.0957617886600612	4939	0.25621206619287235	all
+L_gaudichaudii_v10	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order	acceptor	86300	16236	78098	0.9049594438006952	NA	NA	all
+L_gaudichaudii_v10	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order	donor	85352	16216	77714	0.9105117630518323	NA	NA	all
+L_gaudichaudii_v10	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order	tis	20849	20849	10240	0.49115065470765984	NA	NA	all
+L_gaudichaudii_v10	Leptotheca gaudichaudii	Mosses	Rhizogoniales	unseen_species_seen_order	tts	21121	21121	3181	0.15060839922352162	7779	0.36830642488518534	all
+L_lagurus_v10	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order	acceptor	85099	16154	76534	0.8993525188310086	NA	NA	all
+L_lagurus_v10	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order	donor	84320	16145	76314	0.9050521821631878	NA	NA	all
+L_lagurus_v10	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order	tis	21381	21381	10924	0.5109209110892848	NA	NA	all
+L_lagurus_v10	Lepyrodon lagurus	Mosses	Hypnales	unseen_species_seen_order	tts	21440	21440	3147	0.14678171641791044	7689	0.3586287313432836	all
+L_reptans_v10	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	61601	11277	55120	0.8947906689826464	NA	NA	all
+L_reptans_v10	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order	donor	60947	11267	54207	0.8894121121630268	NA	NA	all
+L_reptans_v10	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order	tis	17277	17277	7839	0.45372460496614	NA	NA	all
+L_reptans_v10	Lepidozia reptans	Liverworts	Jungermanniales	unseen_species_seen_order	tts	17693	17693	1838	0.10388289153902672	4920	0.2780760752840106	all
+M_furcata_v10	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order	acceptor	55483	12034	47356	0.853522700647045	NA	NA	all
+M_furcata_v10	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order	donor	54919	12020	46543	0.8474844771390594	NA	NA	all
+M_furcata_v10	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order	tis	21403	21403	8982	0.419660795215624	NA	NA	all
+M_furcata_v10	Metzgeria furcata	Liverworts	Metzgeriales	unseen_order	tts	21856	21856	2047	0.09365849194729137	5329	0.2438232064421669	all
+M_hamata_v10	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order	acceptor	76968	18512	58225	0.756483213803139	NA	NA	all
+M_hamata_v10	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order	donor	76259	18496	56768	0.7444104958103306	NA	NA	all
+M_hamata_v10	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order	tis	28603	28603	10194	0.3563961822186484	NA	NA	all
+M_hamata_v10	Metzgeria hamata	Liverworts	Metzgeriales	unseen_order	tts	28607	28607	2512	0.08781067570874261	6020	0.2104380046841682	all
+M_hornum_v10	Mnium hornum	Mosses	Bryales	unseen_order	acceptor	87230	18368	75348	0.8637853949329359	NA	NA	all
+M_hornum_v10	Mnium hornum	Mosses	Bryales	unseen_order	donor	86283	18353	75289	0.8725820845357718	NA	NA	all
+M_hornum_v10	Mnium hornum	Mosses	Bryales	unseen_order	tis	23800	23800	9957	0.4183613445378151	NA	NA	all
+M_hornum_v10	Mnium hornum	Mosses	Bryales	unseen_order	tts	24014	24014	3165	0.1317981177646373	7393	0.30786208045306906	all
+M_polymorpha_v61	Marchantia polymorpha	Liverworts	Marchantiales	trained	acceptor	78548	13940	68355	0.8702322146967459	NA	NA	all
+M_polymorpha_v61	Marchantia polymorpha	Liverworts	Marchantiales	trained	donor	77699	13901	66798	0.859702184069293	NA	NA	all
+M_polymorpha_v61	Marchantia polymorpha	Liverworts	Marchantiales	trained	tis	18005	18005	8864	0.49230769230769234	NA	NA	all
+M_polymorpha_v61	Marchantia polymorpha	Liverworts	Marchantiales	trained	tts	17997	17997	2206	0.12257598488636996	5966	0.33149969439351	all
+Mesoptychia_sp_v10	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	50131	10240	44432	0.8863178472402305	NA	NA	all
+Mesoptychia_sp_v10	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order	donor	49539	10232	43698	0.8820928965057834	NA	NA	all
+Mesoptychia_sp_v10	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order	tis	16143	16143	6807	0.4216688347890727	NA	NA	all
+Mesoptychia_sp_v10	Mesoptychia sp.	Liverworts	Jungermanniales	unseen_species_seen_order	tts	16529	16529	1667	0.10085304616129229	4177	0.25270736281686734	all
+N_confluens_v10	Noteroclada confluens	Liverworts	Pelliales	unseen_order	acceptor	65795	15365	55925	0.8499886009575196	NA	NA	all
+N_confluens_v10	Noteroclada confluens	Liverworts	Pelliales	unseen_order	donor	64502	15283	54650	0.8472605500604632	NA	NA	all
+N_confluens_v10	Noteroclada confluens	Liverworts	Pelliales	unseen_order	tis	20987	20987	6930	0.3302044122552056	NA	NA	all
+N_confluens_v10	Noteroclada confluens	Liverworts	Pelliales	unseen_order	tts	23417	23417	2008	0.08574966904385703	5006	0.21377631635136865	all
+N_yunnanensis_v10	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order	acceptor	85069	15044	64285	0.7556806827398935	NA	NA	all
+N_yunnanensis_v10	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order	donor	83615	15001	61542	0.7360162650242181	NA	NA	all
+N_yunnanensis_v10	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order	tis	18825	18825	7312	0.3884196547144754	NA	NA	all
+N_yunnanensis_v10	Notothylas yunnanensis	Hornworts	Notothyladales	unseen_species_seen_order	tts	18809	18809	2147	0.11414748258812273	4794	0.2548779839438567	all
+O_anomalum_v10	Orthotrichum anomalum	Mosses	Orthotrichales	trained	acceptor	105532	20414	84743	0.8030076185422431	NA	NA	all
+O_anomalum_v10	Orthotrichum anomalum	Mosses	Orthotrichales	trained	donor	104403	20386	85106	0.8151681465091999	NA	NA	all
+O_anomalum_v10	Orthotrichum anomalum	Mosses	Orthotrichales	trained	tis	26046	26046	10525	0.40409275896490826	NA	NA	all
+O_anomalum_v10	Orthotrichum anomalum	Mosses	Orthotrichales	trained	tts	26045	26045	3794	0.14567095411787293	8148	0.31284315607602226	all
+O_sphagni_v10	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	51852	9316	47065	0.9076795494870016	NA	NA	all
+O_sphagni_v10	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order	donor	51110	9289	46321	0.9063001369594992	NA	NA	all
+O_sphagni_v10	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order	tis	12661	12661	5991	0.47318537240344366	NA	NA	all
+O_sphagni_v10	Odontoschisma sphagni	Liverworts	Jungermanniales	unseen_species_seen_order	tts	13289	13289	1366	0.10279178267740235	3741	0.2815110241553164	all
+P_ambigua_v10	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order	acceptor	85073	17978	64312	0.7559625263009415	NA	NA	all
+P_ambigua_v10	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order	donor	84106	17962	63285	0.7524433453023566	NA	NA	all
+P_ambigua_v10	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order	tis	27081	27081	9139	0.33746907425870537	NA	NA	all
+P_ambigua_v10	Pallavicinia ambigua	Liverworts	Pallaviciniales	unseen_order	tts	27086	27086	2328	0.08594846045927786	5638	0.2081518127445913	all
+P_appendiculatum_v10	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order	acceptor	86877	15652	68308	0.7862610357171633	NA	NA	all
+P_appendiculatum_v10	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order	donor	86096	15635	66292	0.7699776993123955	NA	NA	all
+P_appendiculatum_v10	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order	tis	20601	20601	8222	0.3991068394738119	NA	NA	all
+P_appendiculatum_v10	Plagiochasma appendiculatum	Liverworts	Marchantiales	unseen_species_seen_order	tts	20609	20609	1822	0.08840797709738464	4980	0.2416420010674948	all
+P_caespitans_v10	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order	acceptor	54345	10489	42929	0.7899346766031834	NA	NA	all
+P_caespitans_v10	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order	donor	53292	10389	41961	0.7873789687007431	NA	NA	all
+P_caespitans_v10	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order	tis	11075	11075	3931	0.3549435665914221	NA	NA	all
+P_caespitans_v10	Porella caespitans var. nipponica	Liverworts	Porellales	unseen_species_seen_order	tts	12822	12822	1266	0.09873654656059896	2986	0.2328809858056465	all
+P_chinensis_v10	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order	acceptor	75170	17837	57584	0.7660502860183583	NA	NA	all
+P_chinensis_v10	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order	donor	74312	17797	56665	0.7625282592313489	NA	NA	all
+P_chinensis_v10	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order	tis	27676	27676	8277	0.299067784361902	NA	NA	all
+P_chinensis_v10	Porella chinensis	Liverworts	Porellales	unseen_species_seen_order	tts	27952	27952	2233	0.07988694905552375	5134	0.18367200915855753	all
+P_pulcherrimum_v10	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order	acceptor	38018	7988	30166	0.793466252827608	NA	NA	all
+P_pulcherrimum_v10	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order	donor	37207	7923	29405	0.7903082753245357	NA	NA	all
+P_pulcherrimum_v10	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order	tis	8258	8258	3120	0.3778154516832163	NA	NA	all
+P_pulcherrimum_v10	Ptilidium pulcherrimum	Liverworts	Ptilidiales	unseen_order	tts	9437	9437	831	0.08805764543816891	2057	0.21797181307618943	all
+P_ciliare_v10	Plagiomnium ciliare	Mosses	Bryales	unseen_order	acceptor	92072	20097	77902	0.8460987053610218	NA	NA	all
+P_ciliare_v10	Plagiomnium ciliare	Mosses	Bryales	unseen_order	donor	91096	20038	77898	0.8551198735400017	NA	NA	all
+P_ciliare_v10	Plagiomnium ciliare	Mosses	Bryales	unseen_order	tis	27075	27075	10795	0.3987072945521699	NA	NA	all
+P_ciliare_v10	Plagiomnium ciliare	Mosses	Bryales	unseen_order	tts	27222	27222	3463	0.12721328337374185	8058	0.29601057967820144	all
+P_cinclidioides_v10	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order	acceptor	80317	16385	70672	0.8799133433768691	NA	NA	all
+P_cinclidioides_v10	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order	donor	79407	16377	70559	0.8885740551840517	NA	NA	all
+P_cinclidioides_v10	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order	tis	20135	20135	9069	0.4504097342935188	NA	NA	all
+P_cinclidioides_v10	Pseudobryum cinclidioides	Mosses	Bryales	unseen_order	tts	21033	21033	2868	0.13635715304521467	6810	0.3237769219797461	all
+P_commune_v10	Polytrichum commune	Mosses	Polytrichales	unseen_order	acceptor	102444	18595	86061	0.8400784819023076	NA	NA	all
+P_commune_v10	Polytrichum commune	Mosses	Polytrichales	unseen_order	donor	101528	18567	85312	0.8402805137499015	NA	NA	all
+P_commune_v10	Polytrichum commune	Mosses	Polytrichales	unseen_order	tis	23478	23478	9749	0.4152397989607292	NA	NA	all
+P_commune_v10	Polytrichum commune	Mosses	Polytrichales	unseen_order	tts	23483	23483	3040	0.12945535067921476	7174	0.30549759400417326	all
+P_cygnisetum_v10	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order	acceptor	70011	12926	63503	0.9070431789290254	NA	NA	all
+P_cygnisetum_v10	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order	donor	69075	12878	62870	0.9101701049583786	NA	NA	all
+P_cygnisetum_v10	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order	tis	16217	16217	8278	0.5104519948202504	NA	NA	all
+P_cygnisetum_v10	Ptychomnion cygnisetum	Mosses	Ptychomniales	unseen_order	tts	16568	16568	2514	0.15173829068083053	6230	0.37602607436021246	all
+P_enerve_v10	Paraleucobryum enerve	Mosses	Dicranales	trained	acceptor	128034	27366	99614	0.7780277113891623	NA	NA	all
+P_enerve_v10	Paraleucobryum enerve	Mosses	Dicranales	trained	donor	127027	27343	99499	0.7832901666574823	NA	NA	all
+P_enerve_v10	Paraleucobryum enerve	Mosses	Dicranales	trained	tis	38450	38450	14623	0.3803120936280884	NA	NA	all
+P_enerve_v10	Paraleucobryum enerve	Mosses	Dicranales	trained	tts	38456	38456	5169	0.13441335552319533	10541	0.27410547118785106	all
+P_hirtellus_v10	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	80187	16120	61931	0.7723321735443401	NA	NA	all
+P_hirtellus_v10	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order	donor	79364	16069	60870	0.7669724308250592	NA	NA	all
+P_hirtellus_v10	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order	tis	23035	23035	8481	0.3681788582591709	NA	NA	all
+P_hirtellus_v10	Plicanthus hirtellus	Liverworts	Jungermanniales	unseen_species_seen_order	tts	23121	23121	1867	0.08074910254746767	4867	0.21050127589637127	all
+P_laevis_1032_v10	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained	acceptor	66530	11427	55687	0.8370208928303021	NA	NA	all
+P_laevis_1032_v10	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained	donor	65605	11406	54220	0.8264613977593172	NA	NA	all
+P_laevis_1032_v10	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained	tis	14028	14028	6311	0.44988594240091245	NA	NA	all
+P_laevis_1032_v10	Phaeoceros laevis 1032	Hornworts	Notothyladales	trained	tts	14028	14028	1555	0.11084972911320216	4116	0.2934131736526946	all
+P_laevis_902_v10	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order	acceptor	58444	10446	47914	0.8198275272055301	NA	NA	all
+P_laevis_902_v10	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order	donor	57577	10402	46443	0.8066241728467964	NA	NA	all
+P_laevis_902_v10	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order	tis	12390	12390	5474	0.44180790960451977	NA	NA	all
+P_laevis_902_v10	Phaeoceros laevis 902	Hornworts	Notothyladales	unseen_species_seen_order	tts	12419	12419	1352	0.10886544810371206	3537	0.28480553989854257	all
+P_magellanicus_v10	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order	acceptor	80358	14004	73654	0.9165733343288782	NA	NA	all
+P_magellanicus_v10	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order	donor	79375	13987	73111	0.9210834645669292	NA	NA	all
+P_magellanicus_v10	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order	tis	18258	18258	9198	0.5037791652974039	NA	NA	all
+P_magellanicus_v10	Polytrichadelphus magellanicus	Mosses	Polytrichales	unseen_order	tts	18370	18370	2783	0.15149700598802396	6511	0.3544365813826892	all
+P_microstomum_v10	Pogonatum microstomum	Mosses	Polytrichales	unseen_order	acceptor	96544	16739	80742	0.8363233344381836	NA	NA	all
+P_microstomum_v10	Pogonatum microstomum	Mosses	Polytrichales	unseen_order	donor	95499	16700	79937	0.8370454140881056	NA	NA	all
+P_microstomum_v10	Pogonatum microstomum	Mosses	Polytrichales	unseen_order	tis	21005	21005	8453	0.40242799333492024	NA	NA	all
+P_microstomum_v10	Pogonatum microstomum	Mosses	Polytrichales	unseen_order	tts	21015	21015	2591	0.1232928860337854	6370	0.30311682131810613	all
+P_ohioense_v10	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order	acceptor	110278	21060	98826	0.8961533578773645	NA	NA	all
+P_ohioense_v10	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order	donor	109121	21077	98007	0.898149760357768	NA	NA	all
+P_ohioense_v10	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order	tis	28011	28011	12632	0.45096569204955195	NA	NA	all
+P_ohioense_v10	Polytrichastrum ohioense	Mosses	Polytrichales	unseen_order	tts	28097	28097	3873	0.13784389792504537	9169	0.32633377228885646	all
+P_patens_v33	Physcomitrium patens	Mosses	Funariales	trained	acceptor	126207	23302	110961	0.8791984596733937	NA	NA	all
+P_patens_v33	Physcomitrium patens	Mosses	Funariales	trained	donor	123833	23005	110451	0.891935106151026	NA	NA	all
+P_patens_v33	Physcomitrium patens	Mosses	Funariales	trained	tis	31203	31203	14331	0.4592827612729546	NA	NA	all
+P_patens_v33	Physcomitrium patens	Mosses	Funariales	trained	tts	32101	32101	3836	0.11949783495841251	10475	0.3263138219993147	all
+P_platyphylla_v10	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order	acceptor	57223	10888	50175	0.8768327420792339	NA	NA	all
+P_platyphylla_v10	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order	donor	56538	10852	49741	0.8797799709929605	NA	NA	all
+P_platyphylla_v10	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order	tis	16611	16611	6417	0.38631027632291853	NA	NA	all
+P_platyphylla_v10	Porella platyphylla	Liverworts	Porellales	unseen_species_seen_order	tts	17075	17075	1741	0.1019619326500732	4262	0.24960468521229867	all
+P_purpurea_v10	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order	acceptor	112286	32245	74284	0.6615606576064692	NA	NA	all
+P_purpurea_v10	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order	donor	111275	32216	72901	0.6551426645697596	NA	NA	all
+P_purpurea_v10	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order	tis	57266	57266	14626	0.25540460308036184	NA	NA	all
+P_purpurea_v10	Pleurozia purpurea	Liverworts	Pleuroziales	unseen_order	tts	57268	57268	4796	0.08374659495704408	8464	0.14779632604595935	all
+P_semidecurrens_v10	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	45681	9510	39896	0.873360915916902	NA	NA	all
+P_semidecurrens_v10	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order	donor	45030	9473	38942	0.8648012436153676	NA	NA	all
+P_semidecurrens_v10	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order	tis	14043	14043	5590	0.39806309193192335	NA	NA	all
+P_semidecurrens_v10	Plagiochila semidecurrens	Liverworts	Jungermanniales	unseen_species_seen_order	tts	14973	14973	1315	0.08782475121886062	3359	0.22433714018566753	all
+P_spiniforme_v10	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained	acceptor	119211	23638	94047	0.788912097038025	NA	NA	all
+P_spiniforme_v10	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained	donor	118095	23601	93894	0.7950717642575892	NA	NA	all
+P_spiniforme_v10	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained	tis	29881	29881	11962	0.40032127438840737	NA	NA	all
+P_spiniforme_v10	Pyrrhobryum spiniforme	Mosses	Rhizogoniales	trained	tts	29894	29894	3686	0.1233023349167057	8782	0.29377132534956846	all
+P_strictum_v10	Polytrichum strictum	Mosses	Polytrichales	unseen_order	acceptor	66177	11929	60905	0.920334859543346	NA	NA	all
+P_strictum_v10	Polytrichum strictum	Mosses	Polytrichales	unseen_order	donor	65435	11954	60314	0.9217391304347826	NA	NA	all
+P_strictum_v10	Polytrichum strictum	Mosses	Polytrichales	unseen_order	tis	14594	14594	7191	0.4927367411264903	NA	NA	all
+P_strictum_v10	Polytrichum strictum	Mosses	Polytrichales	unseen_order	tts	15108	15108	2213	0.14647868678845644	5298	0.3506751389992057	all
+P_subfuscatum_v10	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order	acceptor	94866	17393	79213	0.8349988404697152	NA	NA	all
+P_subfuscatum_v10	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order	donor	93854	17342	78554	0.836980842585292	NA	NA	all
+P_subfuscatum_v10	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order	tis	22081	22081	8984	0.4068656310855487	NA	NA	all
+P_subfuscatum_v10	Pogonatum subfuscatum	Mosses	Polytrichales	unseen_order	tts	22173	22173	2617	0.11802642853921436	6381	0.2877824381003924	all
+P_subulatum_v10	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order	acceptor	110208	20043	93325	0.8468078542392566	NA	NA	all
+P_subulatum_v10	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order	donor	109376	20031	93018	0.8504425102399064	NA	NA	all
+P_subulatum_v10	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order	tis	24819	24819	11554	0.4655304403884121	NA	NA	all
+P_subulatum_v10	Pleuridium subulatum	Mosses	Pseudoditrichales	unseen_order	tts	24864	24864	3112	0.12516087516087515	8163	0.32830598455598453	all
+P_turneriana_v10	Philonotis turneriana	Mosses	Bartramiales	trained	acceptor	117236	21912	98524	0.8403903237913269	NA	NA	all
+P_turneriana_v10	Philonotis turneriana	Mosses	Bartramiales	trained	donor	116262	21898	97857	0.8416937606440625	NA	NA	all
+P_turneriana_v10	Philonotis turneriana	Mosses	Bartramiales	trained	tis	28195	28195	12939	0.45891115446001063	NA	NA	all
+P_turneriana_v10	Philonotis turneriana	Mosses	Bartramiales	trained	tts	28200	28200	4285	0.1519503546099291	9691	0.34365248226950357	all
+P_wilsonii_v10	Ptychomitrium wilsonii	Mosses	Grimmiales	trained	acceptor	115253	20279	92550	0.8030159735538337	NA	NA	all
+P_wilsonii_v10	Ptychomitrium wilsonii	Mosses	Grimmiales	trained	donor	114148	20258	91897	0.8050688579738585	NA	NA	all
+P_wilsonii_v10	Ptychomitrium wilsonii	Mosses	Grimmiales	trained	tis	24821	24821	10622	0.4279440796100076	NA	NA	all
+P_wilsonii_v10	Ptychomitrium wilsonii	Mosses	Grimmiales	trained	tts	24825	24825	2928	0.11794561933534745	7626	0.307190332326284	all
+Plagiochila_sp_v10	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	48421	9692	43145	0.8910390119989261	NA	NA	all
+Plagiochila_sp_v10	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order	donor	47875	9687	42580	0.8893994778067885	NA	NA	all
+Plagiochila_sp_v10	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order	tis	14545	14545	6311	0.4338948092127879	NA	NA	all
+Plagiochila_sp_v10	Plagiochila sp.	Liverworts	Jungermanniales	unseen_species_seen_order	tts	15220	15220	1601	0.10519053876478318	3999	0.26274638633377134	all
+R_cuspidigerum_v10	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained	acceptor	122084	24492	93164	0.763113921562203	NA	NA	all
+R_cuspidigerum_v10	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained	donor	120978	24470	93294	0.7711650052075584	NA	NA	all
+R_cuspidigerum_v10	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained	tis	32677	32677	11818	0.3616611072007834	NA	NA	all
+R_cuspidigerum_v10	Racopilum cuspidigerum	Mosses	Hypnodendrales	trained	tts	32682	32682	3973	0.12156538767517289	9137	0.27957285355853373	all
+R_natans_v10	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order	acceptor	81020	14160	64758	0.7992841273759566	NA	NA	all
+R_natans_v10	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order	donor	80292	14141	63171	0.7867658048124346	NA	NA	all
+R_natans_v10	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order	tis	21314	21314	8332	0.3909167683212912	NA	NA	all
+R_natans_v10	Ricciocarpos natans	Liverworts	Marchantiales	unseen_species_seen_order	tts	21318	21318	2162	0.10141664321230884	5518	0.25884229289802047	all
+R_nitidulum_v10	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order	acceptor	129934	23682	103892	0.7995751689319193	NA	NA	all
+R_nitidulum_v10	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order	donor	128733	23662	103472	0.8037721485555375	NA	NA	all
+R_nitidulum_v10	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order	tis	30548	30548	12213	0.3997970407227969	NA	NA	all
+R_nitidulum_v10	Racomitrium nitidulum	Mosses	Grimmiales	unseen_species_seen_order	tts	30548	30548	3336	0.10920518528217886	8670	0.2838156344114181	all
+R_serrulatus_v10	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order	acceptor	98214	18784	79833	0.8128474555562344	NA	NA	all
+R_serrulatus_v10	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order	donor	97347	18773	79799	0.8197376395780045	NA	NA	all
+R_serrulatus_v10	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order	tis	23074	23074	9855	0.427104099852648	NA	NA	all
+R_serrulatus_v10	Regmatodon serrulatus	Mosses	Hypnales	unseen_species_seen_order	tts	23146	23146	3215	0.13890089000259223	7453	0.321999481551888	all
+R_subpinnatus_v10	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order	acceptor	80274	15868	71086	0.8855420185863417	NA	NA	all
+R_subpinnatus_v10	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order	donor	79530	15837	70694	0.8888972714698856	NA	NA	all
+R_subpinnatus_v10	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order	tis	20099	20099	9685	0.481864769391512	NA	NA	all
+R_subpinnatus_v10	Rhytidiadelphus subpinnatus	Mosses	Hypnales	unseen_species_seen_order	tts	20298	20298	3023	0.14893092915558184	7238	0.35658685584786676	all
+S_ampullaceum_v10	Splachnum ampullaceum	Mosses	Splachnales	unseen_order	acceptor	71499	12526	65799	0.9202786052951788	NA	NA	all
+S_ampullaceum_v10	Splachnum ampullaceum	Mosses	Splachnales	unseen_order	donor	70609	12524	65149	0.922672747100228	NA	NA	all
+S_ampullaceum_v10	Splachnum ampullaceum	Mosses	Splachnales	unseen_order	tis	16745	16745	8130	0.4855180650940579	NA	NA	all
+S_ampullaceum_v10	Splachnum ampullaceum	Mosses	Splachnales	unseen_order	tts	16918	16918	2451	0.144875280766048	6209	0.36700555621231823	all
+S_cupulare_v10	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order	acceptor	77620	14138	70506	0.9083483638237568	NA	NA	all
+S_cupulare_v10	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order	donor	76712	14122	69889	0.9110569402440296	NA	NA	all
+S_cupulare_v10	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order	tis	17147	17147	8748	0.5101767072957368	NA	NA	all
+S_cupulare_v10	Schistidium cupulare	Mosses	Grimmiales	unseen_species_seen_order	tts	17427	17427	2303	0.13215125953979456	6330	0.3632294715097263	all
+S_donnellii_v10	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order	acceptor	65119	12092	58471	0.8979099801901135	NA	NA	all
+S_donnellii_v10	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order	donor	64400	12054	57407	0.8914130434782609	NA	NA	all
+S_donnellii_v10	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order	tis	17933	17933	8068	0.44989683823119386	NA	NA	all
+S_donnellii_v10	Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	unseen_order	tts	17995	17995	1909	0.10608502361767158	4979	0.2766879688802445	all
+S_girgensohnii_v10	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order	acceptor	154303	28369	126154	0.8175732163340959	NA	NA	all
+S_girgensohnii_v10	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order	donor	152612	28359	125103	0.8197454983880691	NA	NA	all
+S_girgensohnii_v10	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order	tis	34246	34246	14188	0.41429656018221106	NA	NA	all
+S_girgensohnii_v10	Sphagnum girgensohnii	Mosses	Sphagnales	unseen_order	tts	34229	34229	3933	0.11490256799789653	9888	0.28887785211370476	all
+S_nepalensis_v10	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	68416	16984	57266	0.837026426566885	NA	NA	all
+S_nepalensis_v10	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order	donor	67861	16995	56538	0.8331442212758433	NA	NA	all
+S_nepalensis_v10	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order	tis	32735	32735	9950	0.30395601038643655	NA	NA	all
+S_nepalensis_v10	Scapania nepalensis	Liverworts	Jungermanniales	unseen_species_seen_order	tts	32764	32764	2482	0.0757538762055915	6026	0.1839213771212306	all
+S_palustre_v10	Sphagnum palustre	Mosses	Sphagnales	unseen_order	acceptor	129572	23824	114989	0.8874525360417375	NA	NA	all
+S_palustre_v10	Sphagnum palustre	Mosses	Sphagnales	unseen_order	donor	127598	23806	113321	0.8881095314973589	NA	NA	all
+S_palustre_v10	Sphagnum palustre	Mosses	Sphagnales	unseen_order	tis	28804	28804	12533	0.4351131787251771	NA	NA	all
+S_palustre_v10	Sphagnum palustre	Mosses	Sphagnales	unseen_order	tts	29189	29189	3695	0.12658878344581864	9598	0.32882250162732535	all
+S_pennata_v10	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order	acceptor	85004	16497	66043	0.7769399087101784	NA	NA	all
+S_pennata_v10	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order	donor	83956	16491	65144	0.7759302491781409	NA	NA	all
+S_pennata_v10	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order	tis	18751	18751	7206	0.3842995040264519	NA	NA	all
+S_pennata_v10	Schistostega pennata	Mosses	Dicranales	unseen_species_seen_order	tts	18821	18821	2015	0.10706126135699484	5317	0.28250358641942513	all
+S_ruralis_v10	Syntrichia ruralis	Mosses	Pottiales	unseen_order	acceptor	139533	30462	117233	0.8401811757792064	NA	NA	all
+S_ruralis_v10	Syntrichia ruralis	Mosses	Pottiales	unseen_order	donor	138525	30440	117562	0.8486699151777658	NA	NA	all
+S_ruralis_v10	Syntrichia ruralis	Mosses	Pottiales	unseen_order	tis	43348	43348	18459	0.42583279505398175	NA	NA	all
+S_ruralis_v10	Syntrichia ruralis	Mosses	Pottiales	unseen_order	tts	43357	43357	6079	0.14020804022418526	13558	0.3127061374172567	all
+T_exsectiformis_v10	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	60085	12858	52043	0.8661562786053092	NA	NA	all
+T_exsectiformis_v10	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order	donor	59474	12877	51376	0.8638396610283485	NA	NA	all
+T_exsectiformis_v10	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order	tis	22132	22132	8019	0.36232604373757454	NA	NA	all
+T_exsectiformis_v10	Tritomaria exsectiformis	Liverworts	Jungermanniales	unseen_species_seen_order	tts	22663	22663	1944	0.08577858182941359	4848	0.21391695715483383	all
+T_filiformis_v10	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	64110	12017	57661	0.8994072687568242	NA	NA	all
+T_filiformis_v10	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order	donor	63462	12002	56953	0.8974346853235007	NA	NA	all
+T_filiformis_v10	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order	tis	19014	19014	8525	0.44835384453560534	NA	NA	all
+T_filiformis_v10	Tetralophozia filiformis	Liverworts	Jungermanniales	unseen_species_seen_order	tts	19422	19422	1903	0.0979816702708269	5116	0.263412624858408	all
+T_lacunosa_v10	Treubia lacunosa	Liverworts	Treubiales	unseen_order	acceptor	80868	16898	58693	0.7257877034179157	NA	NA	all
+T_lacunosa_v10	Treubia lacunosa	Liverworts	Treubiales	unseen_order	donor	79839	16870	56976	0.7136361928380867	NA	NA	all
+T_lacunosa_v10	Treubia lacunosa	Liverworts	Treubiales	unseen_order	tis	23460	23460	6561	0.27966751918158567	NA	NA	all
+T_lacunosa_v10	Treubia lacunosa	Liverworts	Treubiales	unseen_order	tts	25135	25135	2007	0.07984881639148597	4455	0.1772428884026258	all
+T_megapolitana_v10	Timmia megapolitana	Mosses	Timmiales	unseen_order	acceptor	118490	21325	93344	0.7877795594564942	NA	NA	all
+T_megapolitana_v10	Timmia megapolitana	Mosses	Timmiales	unseen_order	donor	117367	21306	92660	0.7894893794678232	NA	NA	all
+T_megapolitana_v10	Timmia megapolitana	Mosses	Timmiales	unseen_order	tis	25758	25758	10403	0.4038745244195978	NA	NA	all
+T_megapolitana_v10	Timmia megapolitana	Mosses	Timmiales	unseen_order	tts	25751	25751	3097	0.12026717409032658	7714	0.2995611820900159	all
+T_pellucida_1101_v10	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order	acceptor	100948	18389	82498	0.8172326346237667	NA	NA	all
+T_pellucida_1101_v10	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order	donor	99867	18375	81625	0.8173370582875225	NA	NA	all
+T_pellucida_1101_v10	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order	tis	23173	23173	9587	0.41371423639580546	NA	NA	all
+T_pellucida_1101_v10	Tetraphis pellucida 1011	Mosses	Tetraphidales	unseen_order	tts	23174	23174	2382	0.10278760680072496	6485	0.279839475274014	all
+T_pellucida_128_v10	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order	acceptor	70587	12581	63684	0.9022057886013004	NA	NA	all
+T_pellucida_128_v10	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order	donor	69643	12560	62786	0.9015407147882774	NA	NA	all
+T_pellucida_128_v10	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order	tis	15146	15146	7596	0.5015185527532021	NA	NA	all
+T_pellucida_128_v10	Tetraphis pellucida 128	Mosses	Tetraphidales	unseen_order	tts	15420	15420	1749	0.11342412451361868	5095	0.33041504539559013	all
+T_sandei_v10	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order	acceptor	197183	40566	156975	0.796087898043949	NA	NA	all
+T_sandei_v10	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order	donor	195746	40544	157150	0.8028261113892493	NA	NA	all
+T_sandei_v10	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order	tis	52315	52315	21545	0.4118321705055911	NA	NA	all
+T_sandei_v10	Thamnobryum sandei	Mosses	Hypnales	unseen_species_seen_order	tts	52310	52310	6830	0.13056776906901166	15588	0.29799273561460526	all
+T_subglabra_v10	Tayloria subglabra	Mosses	Splachnales	unseen_order	acceptor	86693	15734	73867	0.852052645542316	NA	NA	all
+T_subglabra_v10	Tayloria subglabra	Mosses	Splachnales	unseen_order	donor	86034	15744	73180	0.85059395122858406	NA	NA	all
+T_subglabra_v10	Tayloria subglabra	Mosses	Splachnales	unseen_order	tis	20005	20005	8674	0.4335916020994751	NA	NA	all
+T_subglabra_v10	Tayloria subglabra	Mosses	Splachnales	unseen_order	tts	20045	20045	2673	0.13334996258418558	6547	0.3266151159890247	all
+U_hutchinsiae_v10	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order	acceptor	85679	16900	75524	0.8814762077055054	NA	NA	all
+U_hutchinsiae_v10	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order	donor	84826	16856	75271	0.887357649777191	NA	NA	all
+U_hutchinsiae_v10	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order	tis	22465	22465	10515	0.4680614288893835	NA	NA	all
+U_hutchinsiae_v10	Ulota hutchinsiae	Mosses	Orthotrichales	unseen_species_seen_order	tts	22535	22535	3445	0.15287330818726425	7635	0.3388063013090748	all
+V_dusenii_v10	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order	acceptor	66235	12856	58426	0.8821016079112252	NA	NA	all
+V_dusenii_v10	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order	donor	65461	12811	57447	0.8775759612593758	NA	NA	all
+V_dusenii_v10	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order	tis	19523	19523	7731	0.3959944680633099	NA	NA	all
+V_dusenii_v10	Vetaforma dusenii	Liverworts	Jungermanniales	unseen_species_seen_order	tts	20260	20260	1797	0.0886969397828233	4935	0.24358341559723592	all

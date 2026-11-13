@@ -1,0 +1,36 @@
+{
+  "platform": "Linux-5.14.0-611.54.3.el9_7.x86_64-x86_64-with-glibc2.34",
+  "python": "3.12.16 (main, Oct 26 2026, 11:37:43) [GCC 15.3.0]",
+  "CUDA_VISIBLE_DEVICES": "0",
+  "packages": {
+    "torch": "2.7.1+cu128",
+    "triton": "3.3.1",
+    "transformers": "4.49.0",
+    "mamba-ssm": "2.2.4",
+    "causal-conv1d": "1.5.0.post8",
+    "peft": "0.14.0",
+    "huggingface-hub": "0.36.2",
+    "PyVCF3": "1.0.4",
+    "numpy": "2.1.3",
+    "pandas": "2.2.3"
+  },
+  "errors": [],
+  "cuda_available": true,
+  "cuda": "12.8",
+  "gpu": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+  "compute_capability": [
+    12,
+    0
+  ],
+  "compiled_architectures": [
+    "sm_75",
+    "sm_80",
+    "sm_86",
+    "sm_90",
+    "sm_100",
+    "sm_120",
+    "compute_120"
+  ],
+  "visible_gpu_count": 1,
+  "cuda_basic_operation_passed": true
+}

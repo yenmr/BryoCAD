@@ -1,0 +1,19 @@
+denominator	reference_group	predicted_class	division	n_species	rho	p	q	label
+canonical_only	All references	TAA	Asterids	30	-0.5221357063403782	0.003080279591202035	0.009015452462054737	n=30; rho=-0.52; q=0.00902
+canonical_only	All references	TAA	Basal Angio	2	NA	NA	NA	n=2; rho=NA; q=NA
+canonical_only	All references	TAA	Eudicots	10	-0.6484848484848484	0.042540127684489414	0.08030380003361812	n=10; rho=-0.65; q=0.0803
+canonical_only	All references	TAA	Magnoliids	4	-0.4	0.6000000000000001	0.663451099488582	n=4; rho=-0.40; q=0.663
+canonical_only	All references	TAA	Monocots	28	-0.8144499178981938	1.335140074693557e-7	2.1921443588274774e-6	n=28; rho=-0.81; q=2.19e-06
+canonical_only	All references	TAA	Rosids	58	-0.6615091205512321	1.5761797487232546e-8	8.959002259361441e-7	n=58; rho=-0.66; q=8.96e-07
+canonical_only	All references	TAG	Asterids	30	0.4829810901001112	0.006862029611424804	0.018298745630466143	n=30; rho=0.48; q=0.0183
+canonical_only	All references	TAG	Basal Angio	2	NA	NA	NA	n=2; rho=NA; q=NA
+canonical_only	All references	TAG	Eudicots	10	0.10303030303030301	0.7769984634438898	0.8233556217509351	n=10; rho=0.10; q=0.823
+canonical_only	All references	TAG	Magnoliids	4	0.8	0.19999999999999987	0.2642936528069567	n=4; rho=0.80; q=0.264
+canonical_only	All references	TAG	Monocots	28	0.7416529830322933	6.299375333156595e-6	2.6997322856385404e-5	n=28; rho=0.74; q=2.7e-05
+canonical_only	All references	TAG	Rosids	58	0.6183210803162202	2.3156711220987378e-7	2.6171243364163015e-6	n=58; rho=0.62; q=2.62e-06
+canonical_only	All references	TGA	Asterids	30	0.4407119021134594	0.014787303356820068	0.032263207323971053	n=30; rho=0.44; q=0.0323
+canonical_only	All references	TGA	Basal Angio	2	NA	NA	NA	n=2; rho=NA; q=NA
+canonical_only	All references	TGA	Eudicots	10	0.6848484848484847	0.028882797506732782	0.05874467289504973	n=10; rho=0.68; q=0.0587
+canonical_only	All references	TGA	Magnoliids	4	0.2	0.8	0.8233556217509351	n=4; rho=0.20; q=0.823
+canonical_only	All references	TGA	Monocots	28	0.840175150519978	2.2397505648403603e-8	8.959002259361441e-7	n=28; rho=0.84; q=8.96e-07
+canonical_only	All references	TGA	Rosids	58	0.5948814174536283	8.460765226138788e-7	5.640510150759192e-6	n=58; rho=0.59; q=5.64e-06

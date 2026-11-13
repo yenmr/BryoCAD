@@ -1,0 +1,13 @@
+subset	motif	group1	group2	n1	n2	mean_difference_pp	p	family	q	test
+all	acceptor	trained	unseen_all	17	109	-3.624462745510626	0.9984909818714613	primary_pooled	0.9985739761800334	one-sided Welch t-test: trained > unseen; species unit
+all	acceptor	trained	unseen_species_seen_order	17	61	-4.637673918458796	0.9998044690199557	secondary_stratified	0.9998044690199557	one-sided Welch t-test: trained > unseen; species unit
+all	acceptor	trained	unseen_order	17	48	-2.336840213222313	0.9584655726408301	secondary_stratified	0.9998044690199557	one-sided Welch t-test: trained > unseen; species unit
+all	donor	trained	unseen_all	17	109	-3.631834426487124	0.9977057964606189	primary_pooled	0.9985739761800334	one-sided Welch t-test: trained > unseen; species unit
+all	donor	trained	unseen_species_seen_order	17	61	-4.657035092849249	0.9996569789704952	secondary_stratified	0.9998044690199557	one-sided Welch t-test: trained > unseen; species unit
+all	donor	trained	unseen_order	17	48	-2.3289752463185875	0.9498906282293497	secondary_stratified	0.9998044690199557	one-sided Welch t-test: trained > unseen; species unit
+all	tis	trained	unseen_all	17	109	-0.823431157120208	0.7418559992530609	primary_pooled	0.9985739761800334	one-sided Welch t-test: trained > unseen; species unit
+all	tis	trained	unseen_species_seen_order	17	61	-1.7387676120388995	0.8973291526652748	secondary_stratified	0.9998044690199557	one-sided Welch t-test: trained > unseen; species unit
+all	tis	trained	unseen_order	17	48	0.33980892100562987	0.40632588486724613	secondary_stratified	0.9998044690199557	one-sided Welch t-test: trained > unseen; species unit
+all	tts	trained	unseen_all	17	109	0.5599903616676671	0.20267377883103593	primary_pooled	0.9985739761800334	one-sided Welch t-test: trained > unseen; species unit
+all	tts	trained	unseen_species_seen_order	17	61	0.40709565632036926	0.28281667242279446	secondary_stratified	0.9998044690199557	one-sided Welch t-test: trained > unseen; species unit
+all	tts	trained	unseen_order	17	48	0.7542940497131917	0.1409915608862447	secondary_stratified	0.9998044690199557	one-sided Welch t-test: trained > unseen; species unit

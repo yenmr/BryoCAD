@@ -1,0 +1,23 @@
+##fileformat=VCFv4.2
+##contig=<ID=chr2,length=200000>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr2	25142	.	A	G	.	PASS	.
+chr2	25444	.	C	T	.	PASS	.
+chr2	26125	.	C	T	.	PASS	.
+chr2	26462	.	C	T	.	PASS	.
+chr2	44020	.	T	A	.	PASS	.
+chr2	45902	.	A	G	.	PASS	.
+chr2	47524	.	C	T	.	PASS	.
+chr2	49652	.	T	C	.	PASS	.
+chr2	57117	.	G	T	.	PASS	.
+chr2	73717	.	A	G	.	PASS	.
+chr2	74722	.	C	G	.	PASS	.
+chr2	76401	.	C	A	.	PASS	.
+chr2	78480	.	C	A	.	PASS	.
+chr2	84558	.	T	C	.	PASS	.
+chr2	120779	.	C	A	.	PASS	.
+chr2	141438	.	A	G	.	PASS	.
+chr2	150850	.	A	C	.	PASS	.
+chr2	169330	.	C	A	.	PASS	.
+chr2	173619	.	C	A	.	PASS	.
+chr2	189773	.	G	A	.	PASS	.

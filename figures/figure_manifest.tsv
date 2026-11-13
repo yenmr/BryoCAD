@@ -1,0 +1,23 @@
+figure_panel	document	page	analysis	source_data	script	status
+1A–C	main	1	Study schematic	manifests/training_genomes_17.tsv		manual schematic; 17 orders label conflicts with current manifest (15 unique orders)
+2A–D	main	2	Seven organisms; TIS/TTS/donor/acceptor	figures/source_data/model_organisms/by_task_and_species_merged.csv	figures/plot_model_organisms.R	data available; supplied overview script is not exact final layout
+3A	main	3	Training exposure groups	figures/source_data/bryophyte_recovery/	motif_recovery/plot_recovery.R	one-sided Welch t-tests + BH confirmed by author; exact alternative direction/BH family should follow final plotting code; final output/script pairing to retain
+3B	main	3	Core/accessory/unique comparison	figures/source_data/recovery_statistics_candidates/	motif_recovery/plot_recovery.R	one-sided Welch t-tests + BH confirmed by author; exact alternative direction/BH family should follow final plotting code; final output/script pairing to retain
+3C	main	3	Bryophyte lineage comparison	figures/source_data/recovery_statistics_candidates/	motif_recovery/plot_recovery.R	one-sided Welch t-tests + BH confirmed by author; exact alternative direction/BH family should follow final plotting code; final output/script pairing to retain
+4A	main	4	Synthetic SNVs	figures/source_data/variants/BryoCAD_Fig4B_summary.tsv	variant_analysis/plot_synthetic_snv_scores.R	generation/scoring/plotting code supplied; per-variant input still needed
+4B	main	4	Synthetic deletion MLM	figures/source_data/variants/synthetic_deletion_core_score_statistics_mlm.tsv	variant_analysis/stat_synthetic_deletion_mlm.R	core-event input/scored table needed
+4C	main	4	Natural SNP MAF by score ranking	figures/source_data/variants/model_comparison_fig4D_cumulative_summary_135.tsv	variant_analysis/plot_natural_snp_comparison.R	confirm cumulative versus disjoint displayed output; figure uses unsupported deleterious wording
+5A	main	5	CDS segments and coding-transcript PR comparison; UTRs excluded	figures/source_data/gene_annotation/comparison.metrics.tsv	figures/plot_gene_annotation_coding.R	CDS/cds_ex and CDS/tx selected; excludes full_structure/full_tx
+5B	main	5	Per-base prediction examples		gene_annotation/plot_gene_annotation_region.py	code and positive-strand invocation supplied; input Zarr/GFF data required for rerun
+5C	main	5	Genome-browser examples with RNA tracks			IGV session/track provenance for selected loci needed
+5D	main	5	123 bryophyte assemblies; selected whole chromosomes/contigs; CDS and coding transcripts without UTR	figures/source_data/pangenome_candidates/	figures/plot_gene_annotation_coding.R	scope confirmed; 50 Mb target/seed 42; exact selection outputs to archive
+6A–D	main	6	15 additional species	figures/source_data/lineage_transfer/combined_exact_recovery.csv	figures/plot_lineage_transfer.R	exclude all seven model organisms; final tree/layout source not yet matched
+S1	support	1	Gene counts; exposure by gene class; unique-gene proportion	figures/source_data/recovery_statistics_candidates/	motif_recovery/plot_recovery.R	one-sided Welch t-tests + BH confirmed by author; exact alternative direction/BH family should follow final plotting code; verify accessory-only subset labels
+S2	support	2	Lineage comparison by gene class	figures/source_data/recovery_statistics_candidates/	motif_recovery/plot_recovery.R	one-sided Welch t-tests + BH confirmed by author; exact alternative direction/BH family should follow final plotting code; verify accessory-only subset labels
+S3	support	3	Assembly span versus recovery	figures/source_data/recovery_statistics_candidates/	motif_recovery/plot_recovery.R	included in latest layout; keep workflow
+S4	support	4	Coding genes per Mb versus recovery	figures/source_data/recovery_statistics_candidates/	motif_recovery/plot_recovery.R	included in latest layout; keep workflow
+S5	support	5	GC versus recovery	figures/source_data/recovery_statistics_candidates/	motif_recovery/plot_recovery.R	included in latest layout; keep workflow
+S6	support	6	Bryophyte TTS bias	figures/source_data/bryophyte_recovery/	motif_recovery/tts/analyze_tts.R	processed tables available
+S7	support	7	132-angiosperm TTS bias	figures/source_data/angiosperm_tts/	motif_recovery/tts/assemble_tts_figure.R	panel summary tables available; upstream processed pair missing
+S8	support	8	Full 22-species comparison	figures/source_data/lineage_transfer/combined_exact_recovery.csv	figures/plot_lineage_transfer.R	all 22 included; exact tree/layout source pending
+S9	support	9	Accessibility AUROC transfer		chromatin_accessibility/eval_performance.py	prediction script found: checkpoint-4000; local supplied training filename is TIS job; actual ATAC training job and final inputs needed

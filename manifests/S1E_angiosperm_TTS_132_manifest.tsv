@@ -1,0 +1,133 @@
+species	division	order	version	short_name	source	common_name	verification_status
+Liriodendron chinense	Magnoliids	Magnoliales	v1.0	Liriodendron_chinense	TreeGenes	Chinese Tulip Tree	supplied TTS manifest; per-species scored count not verified
+Cinnamomum kanehirae	Magnoliids	Laurales	GCA_003546025.1	Cinnamomum_kanehirae	NCBI	Stout Camphor Tree	supplied TTS manifest; per-species scored count not verified
+Aristolochia fimbriata	Magnoliids	Piperales	GCF_009769425.1	Aristolochia_fimbriata	NCBI	Dutchman's Pipe	supplied TTS manifest; per-species scored count not verified
+Phalaenopsis equestris	Monocots	Orchidales	GCF_001263595.1	Phalaenopsis_equestris	NCBI	Orchid	supplied TTS manifest; per-species scored count not verified
+Dendrobium catenatum	Monocots	Orchidales	GCF_001605985.2	Dendrobium_catenatum	NCBI	Dendrobium Orchid	supplied TTS manifest; per-species scored count not verified
+Cocos nucifera	Monocots	Arecales	GCA_008124465.1.	Cocos_nucifera	NCBI	Coconut Palm	supplied TTS manifest; per-species scored count not verified
+Nelumbo nucifera	Eudicots	Proteales	GCF_000365185.1.	Nelumbo_nucifera	NCBI	Sacred Lotus	supplied TTS manifest; per-species scored count not verified
+Cannabis sativa	Rosids	Rosales	GCF_029168945.1.	Cannabis_sativa	NCBI	Hemp	supplied TTS manifest; per-species scored count not verified
+Drosera capensis	Eudicots	Caryophyllales	GCA_001925005.2.	Drosera_capensis	NCBI	Cape Sundew	supplied TTS manifest; per-species scored count not verified
+Camellia sinensis	Asterids	Ericales	GCF_004153795.1.	Camellia_sinensis	NCBI	Tea Plant	supplied TTS manifest; per-species scored count not verified
+Ipomoea batatas	Asterids	Solanales	v4.0	Ipomoea_batatas	sweetpotato_gr	Sweet Potato	supplied TTS manifest; per-species scored count not verified
+Phoenix dactylifera	Monocots	Arecales	GCF_009389715.1.	Phoenix_dactylifera	NCBI	Date Palm	supplied TTS manifest; per-species scored count not verified
+Avena sativa	Monocots	Poales	v2.0	Avena_sativa	Ensembl	Oat	supplied TTS manifest; per-species scored count not verified
+Macadamia integrifolia	Eudicots	Proteales	GCF_013358625.1.	Macadamia_integrifolia	NCBI	Macadamia Nut	supplied TTS manifest; per-species scored count not verified
+Cicer arietinum	Rosids	Fabales	GCF_000331145.2.	Cicer_arietinum	NCBI	Chickpea	supplied TTS manifest; per-species scored count not verified
+Arachis hypogaea	Rosids	Fabales	GCF_003086295.3.	Arachis_hypogaea	NCBI	Peanut	supplied TTS manifest; per-species scored count not verified
+Malus domestica	Rosids	Rosales	GCF_042453785.1.	Malus_domestica	NCBI	Apple	supplied TTS manifest; per-species scored count not verified
+Pyrus communis	Rosids	Rosales	GCF_963583255.1.	Pyrus_communis	NCBI	Pear	supplied TTS manifest; per-species scored count not verified
+Rubus occidentalis	Rosids	Rosales	v3.0	Rubus_occidentalis	rosaceae	Black Raspberry	supplied TTS manifest; per-species scored count not verified
+Morus notabilis	Rosids	Rosales	GCF_000414095.1.	Morus_notabilis	NCBI	Mulberry	supplied TTS manifest; per-species scored count not verified
+Ziziphus jujuba	Rosids	Rosales	GCF_031755915.1.	Ziziphus_jujuba	NCBI	Jujube	supplied TTS manifest; per-species scored count not verified
+Ricinus communis	Rosids	Malpighiales	GCF_019578655.1.	Ricinus_communis	NCBI	Castor Bean	supplied TTS manifest; per-species scored count not verified
+Jatropha curcas	Rosids	Malpighiales	GCF_014843425.1.	Jatropha_curcas	NCBI	Physic Nut	supplied TTS manifest; per-species scored count not verified
+Linum usitatissimum	Rosids	Malpighiales	v1.0	Linum_usitatissimum	gigadb	Flax	supplied TTS manifest; per-species scored count not verified
+Salix purpurea	Rosids	Malpighiales	GCA_029228495.1.	Salix_purpurea	NCBI	Purple Willow	supplied TTS manifest; per-species scored count not verified
+Hevea brasiliensis	Rosids	Malpighiales	GCF_030052815.1.	Hevea_brasiliensis	NCBI	Rubber Tree	supplied TTS manifest; per-species scored count not verified
+Raphanus sativus	Rosids	Brassicales	GCF_000801105.2.	Raphanus_sativus	NCBI	Radish	supplied TTS manifest; per-species scored count not verified
+Carica papaya	Rosids	Brassicales	GCF_000150535.2.	Carica_papaya	NCBI	Papaya	supplied TTS manifest; per-species scored count not verified
+Durio zibethinus	Rosids	Malvales	GCF_002303985.1.	Durio_zibethinus	NCBI	Durian	supplied TTS manifest; per-species scored count not verified
+Hibiscus syriacus	Rosids	Malvales	GCF_006381635.1.	Hibiscus_syriacus	NCBI	Rose of Sharon	supplied TTS manifest; per-species scored count not verified
+Citrus sinensis	Rosids	Sapindales	GCF_022201045.2.	Citrus_sinensis	NCBI	Sweet Orange	supplied TTS manifest; per-species scored count not verified
+Mangifera indica	Rosids	Sapindales	GCF_011075055.1.	Mangifera_indica	NCBI	Mango	supplied TTS manifest; per-species scored count not verified
+Acer yangbiense	Rosids	Sapindales	GCA_008009225.1.	Acer_yangbiense	NCBI	Yangbi Maple	supplied TTS manifest; per-species scored count not verified
+Eucalyptus grandis	Rosids	Myrtales	V1.0	Eucalyptus_grandis	Ensembl	rose gum	supplied TTS manifest; per-species scored count not verified
+Punica granatum	Rosids	Myrtales	GCF_007655135.1.	Punica_granatum	NCBI	Pomegranate	supplied TTS manifest; per-species scored count not verified
+Quercus robur	Rosids	Fagales	GCF_932294415.1.	Quercus_robur	NCBI	Pedunculate Oak	supplied TTS manifest; per-species scored count not verified
+Castanea mollissima	Rosids	Fagales	GCA_053895485.1.	Castanea_mollissima	NCBI	Chinese Chestnut	supplied TTS manifest; per-species scored count not verified
+Cucurbita pepo	Rosids	Cucurbitales	GCF_002806865.2.	Cucurbita_pepo	NCBI	Zucchini	supplied TTS manifest; per-species scored count not verified
+Momordica charantia	Rosids	Cucurbitales	GCF_001995035.1.	Momordica_charantia	NCBI	Bitter Melon	supplied TTS manifest; per-species scored count not verified
+Lagenaria siceraria	Rosids	Cucurbitales	v1.0	Lagenaria_siceraria	NCBI	Bottle Gourd	supplied TTS manifest; per-species scored count not verified
+Amaranthus hypochondriacus	Eudicots	Caryophyllales	GCA_977020195.1.	Amaranthus_hypochondriacus	cucurbitgenomics	Prince's Feather	supplied TTS manifest; per-species scored count not verified
+Spinacia oleracea	Eudicots	Caryophyllales	GCF_020520425.1.	Spinacia_oleracea	NCBI	Spinach	supplied TTS manifest; per-species scored count not verified
+Vaccinium corymbosum	Asterids	Ericales	v1.0	Vaccinium_corymbosum	GDV	Blueberry	supplied TTS manifest; per-species scored count not verified
+Rhododendron simsii	Asterids	Ericales	GCA_014282245.1.	Rhododendron_simsii	NCBI	Azalea	supplied TTS manifest; per-species scored count not verified
+Nicotiana tabacum	Asterids	Solanales	GCF_000715075.1.	Nicotiana_tabacum	NCBI	Tobacco	supplied TTS manifest; per-species scored count not verified
+Nicotiana benthamiana	Asterids	Solanales	v1	Nicotiana_benthamiana	SOI	Bentham's Tobacco	supplied TTS manifest; per-species scored count not verified
+Petunia axillaris	Asterids	Solanales	v1.6.2	Petunia_axillaris	SOI	White Petunia	supplied TTS manifest; per-species scored count not verified
+Solanum melongena	Asterids	Solanales	v4.1	Solanum_melongena	SOI	Eggplant	supplied TTS manifest; per-species scored count not verified
+Solanum pennellii	Asterids	Solanales	GCF_001406875.1.	Solanum_pennellii	NCBI	Wild Tomato	supplied TTS manifest; per-species scored count not verified
+Cuscuta australis	Asterids	Solanales	GCA_003260385.1.	Cuscuta_australis	NCBI	Dodder	supplied TTS manifest; per-species scored count not verified
+Tectona grandis	Asterids	Lamiales	v1.0	Tectona_grandis	TreeGenes	Teak	supplied TTS manifest; per-species scored count not verified
+Salvia splendens	Asterids	Lamiales	GCF_004379255.2.	Salvia_splendens	NCBI	Scarlet Sage	supplied TTS manifest; per-species scored count not verified
+Handroanthus impetiginosus	Asterids	Lamiales	GCA_002762385.1.	Handroanthus_impetiginosus	NCBI	Pink Trumpet Tree	supplied TTS manifest; per-species scored count not verified
+Erythranthe guttata	Asterids	Lamiales	GCF_000504015.1.	Erythranthe_guttata	NCBI	Monkeyflower	supplied TTS manifest; per-species scored count not verified
+Striga asiatica	Asterids	Lamiales	GCA_008636005.1.	Striga_asiatica	NCBI	Witchweed	supplied TTS manifest; per-species scored count not verified
+Genlisea aurea	Asterids	Lamiales	GCF_000516465.1	Genlisea_aurea	NCBI	Corkscrew Plant	supplied TTS manifest; per-species scored count not verified
+Chrysanthemum nankingense	Asterids	Asterales	v1.0	Chrysanthemum_nankingense	CGD	Chrysanthemum	supplied TTS manifest; per-species scored count not verified
+Mikania micrantha	Asterids	Asterales	GCA_009363875.1.	Mikania_micrantha	NCBI	Bitter Vine	supplied TTS manifest; per-species scored count not verified
+Coffea arabica	Asterids	Gentianales	GCF_036785885.1.	Coffea_arabica	NCBI	Arabica Coffee	supplied TTS manifest; per-species scored count not verified
+Apium graveolens	Asterids	Apiales	GCF_009905375.1.	Apium_graveolens	NCBI	Celery	supplied TTS manifest; per-species scored count not verified
+Actinidia chinensis	Asterids	Ericales	v1.69	Actinidia_chinensis	Ensembl	Kiwifruit	supplied TTS manifest; per-species scored count not verified
+Amborella trichopoda	Basal Angio	Amborellales	v1.0	Amborella_trichopoda	Phytozome	Amborella	supplied TTS manifest; per-species scored count not verified
+Brachypodium distachyon	Monocots	Poales	v3.1	Brachypodium_distachyon	Phytozome	False Brome	supplied TTS manifest; per-species scored count not verified
+Coffea canephora	Asterids	Gentianales	v1.0	Coffea_canephora	Ensembl	Robusta Coffee	supplied TTS manifest; per-species scored count not verified
+Cucumis sativus	Rosids	Cucurbitales	v2.0	Cucumis_sativus	Phytozome	Cucumber	supplied TTS manifest; per-species scored count not verified
+Kalanchoe fedtschenkoi	Eudicots	Saxifragales	v1.1	Kalanchoe_fedtschenkoi	Phytozome	Lavender Scallops	supplied TTS manifest; per-species scored count not verified
+Musa acuminata	Monocots	Zingiberales	v2.6	Musa_acuminata	Phytozome	Banana	supplied TTS manifest; per-species scored count not verified
+Nymphaea colorata	Basal Angio	Nymphaeales	v1.62	Nymphaea_colorata	Ensembl	Water Lily	supplied TTS manifest; per-species scored count not verified
+Persea americana	Magnoliids	Laurales	v1.0	Persea_americana	Ensembl	Avocado	supplied TTS manifest; per-species scored count not verified
+Papaver somniferum	Eudicots	Ranunculales	v1.0	Papaver_somniferum	Ensembl	Opium Poppy	supplied TTS manifest; per-species scored count not verified
+Citrus clementina	Rosids	Sapindales	v1.0	Citrus_clementina	Phytozome	Clementine	supplied TTS manifest; per-species scored count not verified
+Spirodela polyrhiza	Monocots	Alismatales	v2	Spirodela_polyrhiza	Phytozome	Great Duckweed	supplied TTS manifest; per-species scored count not verified
+Gossypium raimondii	Rosids	Malvales	v2.1	Gossypium_raimondii	Phytozome	Cotton	supplied TTS manifest; per-species scored count not verified
+Medicago truncatula	Rosids	Fabales	v4.0	Medicago_truncatula	Phytozome	Barrel Medic	supplied TTS manifest; per-species scored count not verified
+Aquilegia coerulea	Eudicots	Ranunculales	v3.1	Aquilegia_coerulea	Phytozome	Columbine	supplied TTS manifest; per-species scored count not verified
+Ananas comosus	Monocots	Poales	v3	Ananas_comosus	Phytozome	Pineapple	supplied TTS manifest; per-species scored count not verified
+Daucus carota	Asterids	Apiales	v2.0	Daucus_carota	Phytozome	Carrot	supplied TTS manifest; per-species scored count not verified
+Asparagus officinalis	Monocots	Asparagales	v1.1	Asparagus_officinalis	Phytozome	Garden Asparagus	supplied TTS manifest; per-species scored count not verified
+Arabidopsis lyrata	Rosids	Brassicales	v2.1	Arabidopsis_lyrata	Phytozome	Lyrate Rockcress	supplied TTS manifest; per-species scored count not verified
+Brassica oleracea	Rosids	Brassicales	v2.1	Brassica_oleracea	Phytozome	Cabbage	supplied TTS manifest; per-species scored count not verified
+Beta vulgaris	Eudicots	Caryophyllales	vEL10.2	Beta_vulgaris	Ensembl	Sugar Beet	supplied TTS manifest; per-species scored count not verified
+Capsella rubella	Rosids	Brassicales	v1.1	Capsella_rubella	Phytozome	Pink Shepherd's Purse	supplied TTS manifest; per-species scored count not verified
+Elaeis guineensis	Monocots	Arecales	v5.1	Elaeis_guineensis	Phytozome	African Oil Palm	supplied TTS manifest; per-species scored count not verified
+Glycine max	Rosids	Fabales	Wm82.a6.v1	Glycine_max	Phytozome	Soybean	supplied TTS manifest; per-species scored count not verified
+Manihot esculenta	Rosids	Malpighiales	v8.1	Manihot_esculenta	Phytozome	Cassava	supplied TTS manifest; per-species scored count not verified
+Sorghum bicolor	Monocots	Poales	v3.1.1	Sorghum_bicolor	Phytozome	Sorghum	supplied TTS manifest; per-species scored count not verified
+Solanum tuberosum	Asterids	Solanales	v6.1	Solanum_tuberosum	Phytozome	Potato	supplied TTS manifest; per-species scored count not verified
+Setaria viridis	Monocots	Poales	v2.1	Setaria_viridis	Phytozome	Green Foxtail	supplied TTS manifest; per-species scored count not verified
+Theobroma cacao	Rosids	Malvales	v2.1	Theobroma_cacao	Phytozome	Cacao Tree	supplied TTS manifest; per-species scored count not verified
+Vitis vinifera	Rosids	Vitales	v2.1	Vitis_vinifera	Phytozome	Grapevine	supplied TTS manifest; per-species scored count not verified
+Zostera marina	Monocots	Alismatales	v3.1	Zostera_marina	Phytozome	Eelgrass	supplied TTS manifest; per-species scored count not verified
+Aegilops tauschii	Monocots	Poales	v4.0	Aegilops_tauschii	Ensembl	Tausch's Goatgrass	supplied TTS manifest; per-species scored count not verified
+Arabidopsis thaliana	Rosids	Brassicales	Araport11	Arabidopsis_thaliana	Phytozome	Thale Cress	supplied TTS manifest; per-species scored count not verified
+Brassica napus	Rosids	Brassicales	v1	Brassica_napus	Ensembl	Rapeseed	supplied TTS manifest; per-species scored count not verified
+Brassica rapa	Rosids	Brassicales	v1	Brassica_rapa	Ensembl	Field Mustard	supplied TTS manifest; per-species scored count not verified
+Capsicum annuum	Asterids	Solanales	v2	Capsicum_annuum	Ensembl	Pepper	supplied TTS manifest; per-species scored count not verified
+Corylus avellana	Rosids	Fagales	v1	Corylus_avellana	Ensembl	Hazelnut	supplied TTS manifest; per-species scored count not verified
+Cajanus cajan	Rosids	Fabales	v1	Cajanus_cajan	Ensembl	Pigeon Pea	supplied TTS manifest; per-species scored count not verified
+Corchorus capsularis	Rosids	Malvales	v1.1	Corchorus_capsularis	Ensembl	Jute	supplied TTS manifest; per-species scored count not verified
+Cynara cardunculus	Asterids	Asterales	v1	Cynara_cardunculus	Ensembl	Artichoke	supplied TTS manifest; per-species scored count not verified
+Citrullus lanatus	Rosids	Cucurbitales	v1	Citrullus_lanatus	Ensembl	Watermelon	supplied TTS manifest; per-species scored count not verified
+Chenopodium quinoa	Eudicots	Caryophyllales	v1	Chenopodium_quinoa	Ensembl	Quinoa	supplied TTS manifest; per-species scored count not verified
+Camelina sativa	Rosids	Brassicales	Cs	Camelina_sativa	Ensembl	False Flax	supplied TTS manifest; per-species scored count not verified
+Dioscorea rotundata	Monocots	Dioscoreales	v1.0	Dioscorea_rotundata	Ensembl	Guinea Yam	supplied TTS manifest; per-species scored count not verified
+Eutrema salsugineum	Rosids	Brassicales	v1	Eutrema_salsugineum	Ensembl	Salt Cress	supplied TTS manifest; per-species scored count not verified
+Eragrostis tef	Monocots	Poales	v3	Eragrostis_tef	Ensembl	Teff	supplied TTS manifest; per-species scored count not verified
+Ficus carica	Rosids	Rosales	v1	Ficus_carica	Ensembl	Fig	supplied TTS manifest; per-species scored count not verified
+Fragaria vesca	Rosids	Rosales	v4.0.a2	Fragaria_vesca	Phytozome	Strawberry	supplied TTS manifest; per-species scored count not verified
+Hordeum vulgare	Monocots	Poales	v1	Hordeum_vulgare	Ensembl	Barley	supplied TTS manifest; per-species scored count not verified
+Juglans regia	Rosids	Fagales	v2	Juglans_regia	Ensembl	Walnut	supplied TTS manifest; per-species scored count not verified
+Lupinus angustifolius	Rosids	Fabales	v1	Lupinus_angustifolius	Ensembl	Narrow-leafed Lupin	supplied TTS manifest; per-species scored count not verified
+Leersia perrieri	Monocots	Poales	v1.4	Leersia_perrieri	Ensembl	Cutgrass	supplied TTS manifest; per-species scored count not verified
+Lactuca sativa	Asterids	Asterales	v7	Lactuca_sativa	Ensembl	Lettuce	supplied TTS manifest; per-species scored count not verified
+Olea europaea	Asterids	Lamiales	A9	Olea_europaea	Ensembl	Olive	supplied TTS manifest; per-species scored count not verified
+Oryza glaberrima	Monocots	Poales	v1	Oryza_glaberrima	Ensembl	African Rice	supplied TTS manifest; per-species scored count not verified
+Oryza sativa	Monocots	Poales	MSU7	Oryza_sativa	Ensembl	Rice	supplied TTS manifest; per-species scored count not verified
+Panicum hallii	Monocots	Poales	v2.1	Panicum_hallii	Ensembl	Hall's Panicgrass	supplied TTS manifest; per-species scored count not verified
+Prunus persica	Rosids	Rosales	v2	Prunus_persica	Ensembl	Peach	supplied TTS manifest; per-species scored count not verified
+Pisum sativum	Rosids	Fabales	v1a	Pisum_sativum	Ensembl	Pea	supplied TTS manifest; per-species scored count not verified
+Populus trichocarpa	Rosids	Malpighiales	v4.1	Populus_trichocarpa	Phytozome	Black Cottonwood	supplied TTS manifest; per-species scored count not verified
+Pistacia vera	Rosids	Sapindales	v2	Pistacia_vera	Ensembl	Pistachio	supplied TTS manifest; per-species scored count not verified
+Phaseolus vulgaris	Rosids	Fabales	g1	Phaseolus_vulgaris	Ensembl	Common Bean	supplied TTS manifest; per-species scored count not verified
+Secale cereale	Monocots	Poales	v1	Secale_cereale	Ensembl	Rye	supplied TTS manifest; per-species scored count not verified
+Sesamum indicum	Asterids	Lamiales	v1.0	Sesamum_indicum	Ensembl	Sesame	supplied TTS manifest; per-species scored count not verified
+Setaria italica	Monocots	Poales	v2.0	Setaria_italica	Ensembl	Foxtail Millet	supplied TTS manifest; per-species scored count not verified
+Solanum lycopersicum	Asterids	Solanales	ITAG4.0	Solanum_lycopersicum	Ensembl	Tomato	supplied TTS manifest; per-species scored count not verified
+Saccharum spontaneum	Monocots	Poales	hic	Saccharum_spontaneum	Ensembl	Wild Sugarcane	supplied TTS manifest; per-species scored count not verified
+Triticum dicoccoides	Monocots	Poales	v1	Triticum_dicoccoides	Ensembl	Wild Emmer Wheat	supplied TTS manifest; per-species scored count not verified
+Trifolium pratense	Rosids	Fabales	Trpr	Trifolium_pratense	Ensembl	Red Clover	supplied TTS manifest; per-species scored count not verified
+Triticum urartu	Monocots	Poales	v1.0	Triticum_urartu	Ensembl	Red Wild Einkorn	supplied TTS manifest; per-species scored count not verified
+Vigna radiata	Rosids	Fabales	v6	Vigna_radiata	Ensembl	Mung Bean	supplied TTS manifest; per-species scored count not verified
+Zea mays	Monocots	Poales	B73 v4	Zea_mays	Ensembl	Maize	supplied TTS manifest; per-species scored count not verified

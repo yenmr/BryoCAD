@@ -1,0 +1,17 @@
+{
+  "arguments": {
+    "results": "zs_recovery_results_fullset_bryophytes_bryocad_small",
+    "samples": "/homes/yenmr/projects/BryoCAD/zs_analysis/samples_list.tsv",
+    "genomes": "genome_summary.tsv",
+    "orthogroups": "/homes/yenmr/projects/BryoCAD/orthofinder/bryoPlusAngio/Orthogroups_long_classified.tsv",
+    "outdir": "recovery_processed_v1"
+  },
+  "canonical_filter": "reference_is_canonical",
+  "deduplicated": false,
+  "OG_category_counts": {
+    "core": 1742233,
+    "accessory": 911647,
+    "unique": 833992
+  },
+  "problem_species_motif_pairs": 73
+}

@@ -1,0 +1,10 @@
+division	gene_category	n_species	median	q25	q75	min	max
+Hornworts	core	5	10504	10014	10827	8592	11747
+Hornworts	accessory	5	3936	3493	4634	2048	5150
+Hornworts	unique	5	4321	3188	5381	2019	8860
+Liverworts	core	38	12054	11372.5	12934.75	9889	20865
+Liverworts	accessory	38	5448.5	4285.25	9330.5	2445	17755
+Liverworts	unique	38	6652	4834.5	9313	1955	25973
+Mosses	core	83	13895	12899	14935	10192	26135
+Mosses	accessory	83	7550	5740.5	8987	2320	21161
+Mosses	unique	83	5589	3808.5	7398.5	1502	21398

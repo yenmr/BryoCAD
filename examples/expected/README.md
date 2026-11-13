@@ -1,0 +1,3 @@
+# Recorded example outputs
+
+These outputs were generated on 2026-11-12 in dicos job 7591707 using the unpacked unified conda environment built in job 7589721, on NVIDIA RTX PRO 6000 Blackwell. All checks passed: 16 motif records, 20 finite SNP LLRs, 10 ATAC predictions, and a final GeneCAD GFF containing 113 feature records after protein refinement. They document execution, not benchmark accuracy. Numerical values may vary across hardware and precision; do not require bitwise identity. The environment inventory omits its temporary interpreter path. GeneCAD protein refinement additionally downloads upstream ProtT5/ReelProtein resources; their revisions are controlled by the upstream pipeline and are not pinned in the BryoCAD model revision manifest.

@@ -1,0 +1,13 @@
+subset	motif	group1	group2	n1	n2	mean_difference_pp	p	q	test
+core_accessory	acceptor	Hornworts	Liverworts	5	38	-1.2118216173913066	0.35342132592752484	0.39759899166846546	two-sided Welch t-test; species unit
+core_accessory	acceptor	Hornworts	Mosses	5	83	-3.452513616371944	0.021274082636391852	0.036469855948100316	two-sided Welch t-test; species unit
+core_accessory	acceptor	Liverworts	Mosses	38	83	-2.2406919989806373	0.009669892180260684	0.01933978436052137	two-sided Welch t-test; species unit
+core_accessory	donor	Hornworts	Liverworts	5	38	-1.7448718180942957	0.22056471710811612	0.2738044764100752	two-sided Welch t-test; species unit
+core_accessory	donor	Hornworts	Mosses	5	83	-4.739627315744999	0.008800691784206746	0.01933978436052137	two-sided Welch t-test; species unit
+core_accessory	donor	Liverworts	Mosses	38	83	-2.994755497650703	8.778407555502854e-4	0.0031602267199810274	two-sided Welch t-test; species unit
+core_accessory	tis	Hornworts	Liverworts	5	38	3.1767159225993655	0.035728488164185446	0.058464798814121643	two-sided Welch t-test; species unit
+core_accessory	tis	Hornworts	Mosses	5	83	-3.468419929721145	0.017983916956473174	0.03258367048644932	two-sided Welch t-test; species unit
+core_accessory	tis	Liverworts	Mosses	38	83	-6.645135852320511	8.17126284584041e-8	5.723932145281347e-7	two-sided Welch t-test; species unit
+core_accessory	tts	Hornworts	Liverworts	5	38	2.223390597587574	0.06556583843404977	0.09441480734503166	two-sided Welch t-test; species unit
+core_accessory	tts	Hornworts	Mosses	5	83	-1.5870725389056206	0.149859992671397	0.19267713343465329	two-sided Welch t-test; species unit
+core_accessory	tts	Liverworts	Mosses	38	83	-3.8104631364931945	1.5591067658423598e-24	1.8709281190108318e-23	two-sided Welch t-test; species unit

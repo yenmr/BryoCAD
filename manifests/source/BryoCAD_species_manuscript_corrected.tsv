@@ -1,0 +1,127 @@
+species	division	order	version	short_name	source	training_status
+Anthoceros agrestis	Hornworts	Anthocerotales	v1.0	A_agrestis_v10	Ensembl	seen species
+Archidium alternifolium	Mosses	Archidiales	v1.0	A_alternifolium_v10	bryogenomes	unseen order
+Aulacomnium androgynum	Mosses	Aulacomniales	v1.0	A_androgynum_v10	bryogenomes	unseen order
+Atrichum angustatum	Mosses	Polytrichales	v1.0	A_angustatum_v10	bryogenomes	unseen order
+Anomodon attenuatus	Mosses	Hypnales	v1.0	A_attenuatus_v10	bryogenomes	seen order
+Andreaeobryum macrosporum	Mosses	Andreaeobryales	v1.0	A_macrosporum_v10	bryogenomes	unseen order
+Aulacomnium palustre	Mosses	Aulacomniales	v1.0	A_palustre_v10	bryogenomes	unseen order
+Andreaea rupestris	Mosses	Andreaeales	v1.0	A_rupestris_v10	bryogenomes	unseen order
+Acrolejeunea sandvicensis	Liverworts	Porellales	v1.0	A_sandvicensis_v10	bryogenomes	seen species
+Aerobryopsis subdivergens	Mosses	Hypnales	v1.0	A_subdivergens_v10	bryogenomes	seen species
+Acrobolbus urvilleanus	Liverworts	Jungermanniales	v1.0	A_urvilleanus_v10	bryogenomes	seen order
+Andreaea wilsonii	Mosses	Andreaeales	v1.0	A_wilsonii_v10	bryogenomes	unseen order
+Barbula amplexifolia	Mosses	Pottiales	v1.0	B_amplexifolia_v10	bryogenomes	unseen order
+Buxbaumia aphylla	Mosses	Buxbaumiales	v1.0	B_aphylla_v10	bryogenomes	unseen order
+Bryoandersonia illecebra	Mosses	Hypnales	v1.0	B_illecebra_v10	bryogenomes	seen species
+Bartramia ithyphylla	Mosses	Bartramiales	v1.0	B_ithyphylla_v10	bryogenomes	seen order
+Brachythecium laetum	Mosses	Hypnales	v1.0	B_laetum_v10	bryogenomes	seen order
+Bartramia mossmaniana	Mosses	Bartramiales	v1.0	B_mossmaniana_v10	bryogenomes	seen order
+Bryoxiphium norvegicum	Mosses	Bryoxiphiales	v1.0	B_norvegicum_v10	bryogenomes	unseen order
+Bryhnia novae-angliae	Mosses	Hypnales	v1.0	B_novae_angliae_v10	bryogenomes	seen order
+Blasia pusilla 349	Liverworts	Blasiales	v1.0	B_pusilla_349_v10	bryogenomes	seen order
+Blasia pusilla 890	Liverworts	Blasiales	v1.0	B_pusilla_890_v10	bryogenomes	seen species
+Bazzania tridens	Liverworts	Jungermanniales	v1.0	B_tridens_v10	bryogenomes	seen order
+Chorisodontium acidophyllum	Mosses	Dicranales	v1.0	C_acidophyllum_v10	bryogenomes	seen order
+Climacium americanum	Mosses	Hypnales	v1.0	C_americanum_v10	bryogenomes	seen order
+Cyathodium cavernarum	Liverworts	Marchantiales	v1.0	C_cavernarum_v10	bryogenomes	seen order
+Conocephalum conicum	Liverworts	Marchantiales	v1.0	C_conicum_v10	bryogenomes	seen order
+Calliergon cordifolium	Mosses	Hypnales	v1.0	C_cordifolium_v10	bryogenomes	seen order
+Cratoneuron filicinum	Mosses	Hypnales	v1.0	C_filicinum_v10	bryogenomes	seen order
+Catagonium nitens 600	Mosses	Hypnales	v1.0	C_nitens_600_v10	bryogenomes	seen order
+Catagonium nitens 617	Mosses	Hypnales	v1.0	C_nitens_617_v10	bryogenomes	seen order
+Catagonium nitens 618	Mosses	Hypnales	v1.0	C_nitens_618_v10	bryogenomes	seen order
+Dicranoloma chilense	Mosses	Dicranales	v1.0	D_chilense_v10	bryogenomes	seen order
+Distichophyllum collenchymatosum	Mosses	Hookeriales	v1.0	D_collenchymatosum_v10	bryogenomes	unseen order
+Diphyscium fulvifolium	Mosses	Diphysciales	v1.0	D_fulvifolium_v10	bryogenomes	unseen order
+Dicranum fulvum	Mosses	Dicranales	v1.0	D_fulvum_v10	bryogenomes	seen order
+Encalypta ciliata 1023	Mosses	Encalyptales	v1.0	E_ciliata_1023_v10	bryogenomes	unseen order
+Encalypta ciliata 1025	Mosses	Encalyptales	v1.0	E_ciliata_1025_v10	bryogenomes	unseen order
+Entodon concinnus	Mosses	Hypnales	v1.0	E_concinnus_v10	bryogenomes	seen order
+Ectropothecium obtusulum	Mosses	Hypnales	v1.0	E_obtusulum_v10	bryogenomes	seen order
+Fossombronia cristula	Liverworts	Fossombroniales	v1.0	F_cristula_v10	bryogenomes	unseen order
+Folioceros fuciformis	Hornworts	Anthocerotales	v1.0	F_fuciformis_v10	bryogenomes	seen species
+Fissidens javanicus	Mosses	Dicranales	v1.0	F_javanicus_v10	bryogenomes	seen order
+Frullania moniliata	Liverworts	Porellales	v1.0	F_moniliata_v10	bryogenomes	seen order
+Fontinalis sullivantii	Mosses	Hypnales	v1.0	F_sullivantii_v10	bryogenomes	seen order
+Gymnostomum aurantiacum	Mosses	Pottiales	v1.0	G_aurantiacum_v10	bryogenomes	unseen order
+Gackstroemia magellanica	Liverworts	Porellales	v1.0	G_magellanica_v10	bryogenomes	seen order
+Grimmia obtusifolia	Mosses	Grimmiales	v1.0	G_obtusifolia_v10	bryogenomes	seen order
+Gollania philippinensis	Mosses	Hypnales	v1.0	G_philippinensis_v10	bryogenomes	seen order
+Gigaspermum repens	Mosses	Gigaspermales	v1.0	G_repens_v10	bryogenomes	unseen order
+Hedwigia ciliata 1009	Mosses	Hedwigiales	v1.0	H_ciliata_1009_v10	bryogenomes	seen species
+Hedwigia ciliata 329	Mosses	Hedwigiales	v1.0	H_ciliata_329_v10	bryogenomes	seen order
+Hypopterygium elatum	Mosses	Hypopterygiales	v1.0	H_elatum_v10	bryogenomes	unseen order
+Hypopterygium flavolimbatum	Mosses	Hypopterygiales	v1.0	H_japonicum_v10	bryogenomes	unseen order
+Herbertus kurzii	Liverworts	Jungermanniales	v1.0	H_kurzii_v10	bryogenomes	seen order
+Hygrohypnum luridum	Mosses	Hypnales	v1.0	H_luridum_v10	bryogenomes	seen order
+Haplomitrium mnioides	Liverworts	Haplomitriales	v1.0	H_mnioides_v10	bryogenomes	unseen order
+Homaliodendron scalpellifolium	Mosses	Hypnales	v1.0	H_scalpellifolium_v10	bryogenomes	seen order
+Hygroamblystegium varium	Mosses	Hypnales	v1.0	H_varium_v10	bryogenomes	seen order
+Jungermannia erectum	Liverworts	Jungermanniales	v1.0	J_erectum_v10	bryogenomes	seen order
+Kindbergia praelongum	Mosses	Hypnales	v1.0	K_praelongum_v10	bryogenomes	seen order
+Leucobryum albidum	Mosses	Dicranales	v1.0	L_albidum_v10	bryogenomes	seen order
+Leucobryum bowringii	Mosses	Dicranales	v1.0	L_bowringii_v10	bryogenomes	seen order
+Lunularia cruciata	Liverworts	Lunulariales	v1.0	L_cruciata_v10	bryogenomes	unseen order
+Leptotheca gaudichaudii	Mosses	Rhizogoniales	v1.0	L_gaudichaudii_v10	bryogenomes	seen order
+Lepyrodon lagurus	Mosses	Hypnales	v1.0	L_lagurus_v10	bryogenomes	seen order
+Lepidozia reptans	Liverworts	Jungermanniales	v1.0	L_reptans_v10	bryogenomes	seen order
+Metzgeria furcata	Liverworts	Metzgeriales	v1.0	M_furcata_v10	bryogenomes	unseen order
+Metzgeria hamata	Liverworts	Metzgeriales	v1.0	M_hamata_v10	bryogenomes	unseen order
+Mnium hornum	Mosses	Bryales	v1.0	M_hornum_v10	bryogenomes	unseen order
+Marchantia polymorpha	Liverworts	Marchantiales	v6.1r2	M_polymorpha_v61	MarpolBase	seen species
+Mesoptychia sp.	Liverworts	Jungermanniales	v1.0	Mesoptychia_sp_v10	bryogenomes	seen order
+Noteroclada confluens	Liverworts	Pelliales	v1.0	N_confluens_v10	bryogenomes	unseen order
+Notothylas yunnanensis	Hornworts	Notothyladales	v1.0	N_yunnanensis_v10	bryogenomes	seen order
+Orthotrichum anomalum	Mosses	Orthotrichales	v1.0	O_anomalum_v10	bryogenomes	seen species
+Odontoschisma sphagni	Liverworts	Jungermanniales	v1.0	O_sphagni_v10	bryogenomes	seen order
+Pallavicinia ambigua	Liverworts	Pallaviciniales	v1.0	P_ambigua_v10	bryogenomes	unseen order
+Plagiochasma appendiculatum	Liverworts	Marchantiales	v1.0	P_appendiculatum_v10	bryogenomes	seen order
+Porella caespitans var. nipponica	Liverworts	Porellales	v1.0	P_caespitans_v10	bryogenomes	seen order
+Porella chinensis	Liverworts	Porellales	v1.0	P_chinensis_v10	bryogenomes	seen order
+Ptilidium pulcherrimum	Liverworts	Ptilidiales	v1.0	P_pulcherrimum_v10	bryogenomes	unseen order
+Plagiomnium ciliare	Mosses	Bryales	v1.0	P_ciliare_v10	bryogenomes	unseen order
+Pseudobryum cinclidioides	Mosses	Bryales	v1.0	P_cinclidioides_v10	bryogenomes	unseen order
+Polytrichum commune	Mosses	Polytrichales	v1.0	P_commune_v10	bryogenomes	unseen order
+Ptychomnion cygnisetum	Mosses	Ptychomniales	v1.0	P_cygnisetum_v10	bryogenomes	unseen order
+Paraleucobryum enerve	Mosses	Dicranales	v1.0	P_enerve_v10	bryogenomes	seen species
+Plicanthus hirtellus	Liverworts	Jungermanniales	v1.0	P_hirtellus_v10	bryogenomes	seen order
+Phaeoceros laevis 1032	Hornworts	Notothyladales	v1.0	P_laevis_1032_v10	bryogenomes	seen order
+Phaeoceros laevis 902	Hornworts	Notothyladales	v1.0	P_laevis_902_v10	bryogenomes	seen species
+Polytrichadelphus magellanicus	Mosses	Polytrichales	v1.0	P_magellanicus_v10	bryogenomes	unseen order
+Pogonatum microstomum	Mosses	Polytrichales	v1.0	P_microstomum_v10	bryogenomes	unseen order
+Polytrichastrum ohioense	Mosses	Polytrichales	v1.0	P_ohioense_v10	bryogenomes	unseen order
+Physcomitrium patens	Mosses	Funariales	v3.3	P_patens_v33	Phytozome	seen species
+Porella platyphylla	Liverworts	Porellales	v1.0	P_platyphylla_v10	bryogenomes	seen order
+Pleurozia purpurea	Liverworts	Pleuroziales	v1.0	P_purpurea_v10	bryogenomes	unseen order
+Plagiochila semidecurrens	Liverworts	Jungermanniales	v1.0	P_semidecurrens_v10	bryogenomes	seen order
+Pyrrhobryum spiniforme	Mosses	Rhizogoniales	v1.0	P_spiniforme_v10	bryogenomes	seen species
+Polytrichum strictum	Mosses	Polytrichales	v1.0	P_strictum_v10	bryogenomes	unseen order
+Pogonatum subfuscatum	Mosses	Polytrichales	v1.0	P_subfuscatum_v10	bryogenomes	unseen order
+Pleuridium subulatum	Mosses	Pseudoditrichales	v1.0	P_subulatum_v10	bryogenomes	unseen order
+Philonotis turneriana	Mosses	Bartramiales	v1.0	P_turneriana_v10	bryogenomes	seen species
+Ptychomitrium wilsonii	Mosses	Grimmiales	v1.0	P_wilsonii_v10	bryogenomes	seen species
+Plagiochila sp.	Liverworts	Jungermanniales	v1.0	Plagiochila_sp_v10	bryogenomes	seen order
+Racopilum cuspidigerum	Mosses	Hypnodendrales	v1.0	R_cuspidigerum_v10	bryogenomes	seen species
+Ricciocarpos natans	Liverworts	Marchantiales	v1.0	R_natans_v10	bryogenomes	seen order
+Racomitrium nitidulum	Mosses	Grimmiales	v1.0	R_nitidulum_v10	bryogenomes	seen order
+Regmatodon serrulatus	Mosses	Hypnales	v1.0	R_serrulatus_v10	bryogenomes	seen order
+Rhytidiadelphus subpinnatus	Mosses	Hypnales	v1.0	R_subpinnatus_v10	bryogenomes	seen order
+Splachnum ampullaceum	Mosses	Splachnales	v1.0	S_ampullaceum_v10	bryogenomes	unseen order
+Schistidium cupulare	Mosses	Grimmiales	v1.0	S_cupulare_v10	bryogenomes	seen order
+Sphaerocarpos donnellii	Liverworts	Sphaerocarpales	v1.0	S_donnellii_v10	bryogenomes	unseen order
+Sphagnum girgensohnii	Mosses	Sphagnales	v1.0	S_girgensohnii_v10	bryogenomes	unseen order
+Scapania nepalensis	Liverworts	Jungermanniales	v1.0	S_nepalensis_v10	bryogenomes	seen order
+Sphagnum palustre	Mosses	Sphagnales	v1.0	S_palustre_v10	bryogenomes	unseen order
+Schistostega pennata	Mosses	Dicranales	v1.0	S_pennata_v10	bryogenomes	seen order
+Syntrichia ruralis	Mosses	Pottiales	v1.0	S_ruralis_v10	bryogenomes	unseen order
+Tritomaria exsectiformis	Liverworts	Jungermanniales	v1.0	T_exsectiformis_v10	bryogenomes	seen species
+Tetralophozia filiformis	Liverworts	Jungermanniales	v1.0	T_filiformis_v10	bryogenomes	seen order
+Treubia lacunosa	Liverworts	Treubiales	v1.0	T_lacunosa_v10	bryogenomes	unseen order
+Timmia megapolitana	Mosses	Timmiales	v1.0	T_megapolitana_v10	bryogenomes	unseen order
+Tetraphis pellucida 1011	Mosses	Tetraphidales	v1.0	T_pellucida_1101_v10	bryogenomes	unseen order
+Tetraphis pellucida 128	Mosses	Tetraphidales	v1.0	T_pellucida_128_v10	bryogenomes	unseen order
+Thamnobryum sandei	Mosses	Hypnales	v1.0	T_sandei_v10	bryogenomes	seen order
+Tayloria subglabra	Mosses	Splachnales	v1.0	T_subglabra_v10	bryogenomes	unseen order
+Ulota hutchinsiae	Mosses	Orthotrichales	v1.0	U_hutchinsiae_v10	bryogenomes	seen order
+Vetaforma dusenii	Liverworts	Jungermanniales	v1.0	V_dusenii_v10	bryogenomes	seen order

@@ -1,0 +1,16 @@
+name: bryocad
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12
+  - pip
+  - setuptools
+  - wheel
+  - packaging
+  - ninja
+  - cmake
+  - conda-pack
+  - libstdcxx-ng
+  - libgcc-ng
+# Run build_conda_env.sh: native CUDA packages require an ordered source build.

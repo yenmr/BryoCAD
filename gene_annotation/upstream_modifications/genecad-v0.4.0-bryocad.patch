@@ -1,0 +1,79 @@
+--- a/train.sh
++++ b/train.sh
+@@ -68,15 +68,19 @@
+ GPUS_ARG="1"
+ NUM_GPUS=1
+ CUDA_VISIBLE_DEVICES_TRAIN=""
+-BATCH_SIZE=4
+-TARGET_EFFECTIVE_BATCH=384
+-LEARNING_RATE=2e-4
++#BATCH_SIZE=4
++BATCH_SIZE=8
++#TARGET_EFFECTIVE_BATCH=384
++TARGET_EFFECTIVE_BATCH=40
++#LEARNING_RATE=2e-4
++LEARNING_RATE=1e-4
+ EPOCHS_OVERRIDE=""
+ GFF_PARALLEL=1
+ WINDOW_SIZE=8192
+ INTERGENIC_PROPORTION=0.15
+ BASE_FROZEN_OVERRIDE=""
+-AUTO_CLASS_WEIGHTS="yes"
++#AUTO_CLASS_WEIGHTS="yes"
++AUTO_CLASS_WEIGHTS="no"
+ BASE_MODEL=""
+ LABEL_QC="yes"
+ MIN_NON_INTERGENIC_RATIO="0.01"
+@@ -140,16 +144,18 @@
+ fi
+ 
+ if [[ "$DOMAIN" == "plant" ]]; then
+-  BASE_MODEL="${BASE_MODEL:-emarro/pcad2-200M-cnet-baseline}"
++  #BASE_MODEL="${BASE_MODEL:-emarro/pcad2-200M-cnet-baseline}"
++  BASE_MODEL="${BASE_MODEL:-kuleshov-group/PlantCAD2-Small-l24-d0768}"
+   SPECIES_IDS="Athaliana Osativa Gmax Hvulgare Ptrichocarpa"
+   EPOCHS=1
+   ARCHITECTURE="all"
+   HEAD_LAYERS=8
+-  TOKEN_EMBED_DIM=256
+-  BASE_FROZEN="no"
++  #TOKEN_EMBED_DIM=256
++  TOKEN_EMBED_DIM=128
++  BASE_FROZEN="yes"
+   NUM_WORKERS=8
+   VALID_PROPORTION=0.05
+-  RUN_NAME="${RUN_NAME:-genecad-plant-multispecies}"
++  RUN_NAME="${RUN_NAME:-genecad-legacy-pc2-small-replica}"
+ else
+   BASE_MODEL="${BASE_MODEL:-emarro/pcad2_vert_small}"
+   SPECIES_IDS="Drerio Ggallus Hsapiens Xtropicalis Mmusculus"
+@@ -1065,14 +1071,14 @@
+   --accumulate-grad-batches $ACCUM_GRAD \
+   --epochs               $EPOCHS \
+   --learning-rate        $LEARNING_RATE \
+-  --learning-rate-decay  cosine \
++  --learning-rate-decay  none \
+   --num-workers          $NUM_WORKERS \
+   --prefetch-factor      2 \
+   --gpu                  $NUM_GPUS \
+   --strategy             ddp \
+   --checkpoint-frequency 2000 \
+-  --val-check-interval   10000 \
+-  --train-eval-frequency 10000 \
++  --val-check-interval   1.0 \
++  --train-eval-frequency 100 \
+   --limit-val-batches    1.0 \
+   --log-frequency        1 \
+   --enable-visualization no \
+--- a/src/modeling.py
++++ b/src/modeling.py
+@@ -550,7 +550,8 @@
+                 {"params": head_params, "lr": self.learning_rate},
+                 {"params": base_params, "lr": self.learning_rate * 0.1},
+             ],
+-            weight_decay=0.01,
++            #weight_decay=0.01,
++            weight_decay=1e-5,
+         )
+ 
+         expected_steps = self.trainer.estimated_stepping_batches

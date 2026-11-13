@@ -1,0 +1,4 @@
+test	exit_code	status
+zero-shot	0	PASS
+atac	0	PASS
+genecad	0	PASS

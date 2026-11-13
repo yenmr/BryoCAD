@@ -1,0 +1,5 @@
+role	model_id	revision	status
+backbone_small	bryocad/BryoCAD-Small		release fixed per author; immutable identifier not transcribed in this table
+backbone_large	bryocad/BryoCAD-Large		release fixed per author; immutable identifier not transcribed in this table
+GeneCAD_4bryo	bryocad/GeneCAD-BryoCAD-Small-4bryo		release fixed per author; immutable identifier not transcribed in this table
+ATAC_LoRA			final step 4000 per author; adapter and classifier checkpoint location pending

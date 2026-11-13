@@ -1,0 +1,6 @@
+reason	count
+genes_without_cds	9583
+acceptor:contig_boundary	40
+donor:contig_boundary	38
+tis:contig_boundary	15
+tts:contig_boundary	15
